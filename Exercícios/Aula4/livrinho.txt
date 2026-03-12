@@ -1,0 +1,1544 @@
+DOENÇAS
+DO
+APARELHO DIGESTIVO
+2ª EDIÇÃO
+DINIZ DE FREITAS
+
+Professor Catedrático de Gastrenterologia da
+Faculdade de Medicina de Coimbra
+Director do Serviço de Gastrenterologia dos
+Hospitais da Universidade de Coimbra
+Director do Centro de Gastrenterologia
+da Universidade de Coimbra
+
+Coimbra 2002
+
+Edição e Distribuição
+AstraZeneca - Produtos Farmacêuticos Lda
+Rua Humberto Madeira 7 - Valejas
+2745-663 Barcarena
+Telf 21 434 61 00 Fax 21 434 61 92
+
+Impressão e Acabamento - Rabiscos de Luz
+
+A minha Mulher e a meus Filhos
+
+A minha Família
+
+A meus Mestres
+
+Ao Serviço de Gastrenterologia
+dos Hospitais da Universidade de Coimbra
+
+A meus Discípulos
+
+A meus Condiscípulos e Amigos
+
+3
+
+Índice
+
+ÍNDICE
+Prefácio . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Introdução . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+
+SECÇÃO I
+ESÓFAGO
+CAPÍTULO I
+Pertubações Motoras do Esófago
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+
+CAPÍTULO II
+Doença do Refluxo Gastro-Esofágico
+CAPÍTULO III
+Tumores do Esófago
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+
+CAPÍTULO IV
+Outras Doenças do Esófago . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 93
+
+SECÇÃO II
+ESTÔMAGO E DUODENO
+CAPÍTULO V
+Infecção pelo Helicobacter Pylori . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 105
+CAPÍTULO VI
+Gastrite . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 131
+CAPÍTULO VII
+Dispepsia . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 153
+CAPÍTULO VIII
+Úlcera Péptica . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 179
+CAPÍTULO IX
+Tumores do Estômago
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+
+5
+
+Doenças do Aparelho Digestivo
+
+SECÇÃO III
+INTESTINO
+CAPÍTULO X
+Síndromes de Má Absorção
+CAPÍTULO XI
+Doença Celíaca
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 245
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 265
+
+CAPÍTULO XII
+Intolerância à Lactose
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 281
+
+CAPÍTULO XIII
+Infecções Intestinais
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 287
+
+CAPÍTULO XIV
+Parasitoses Intestinais
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 315
+
+CAPÍTULO XV
+Isquémia Intestinal
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 331
+
+CAPÍTULO XVI
+Doença Inflamatória Intestinal
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 347
+
+CAPÍTULO XVII
+Síndrome do Cólon Irritável
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 387
+
+CAPÍTULO XVIII
+Doença Diverticular do Colón . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 407
+CAPÍTULO XIX
+Pólipos e Polipose do Cólon e Recto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 419
+CAPÍTULO XX
+Tumores do Cólon e Recto . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 435
+
+6
+
+Índice
+
+SECÇÃO IV
+FÍGADO
+CAPÍTULO XXI
+Insuficiência Hepática Aguda
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 463
+
+CAPÍTULO XXII
+Hepatite Viral Aguda
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 477
+
+CAPÍTULO XXIII
+Hepatite Viral Crónica
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 495
+
+CAPÍTULO XXIV
+Doença Hepática Alcoólica
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 509
+
+CAPÍTULO XXV
+Hepatotoxicidade por Drogas
+CAPÍTULO XXVI
+Cirrose Hepática
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 525
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 537
+
+CAPÍTULO XXVII
+Hipertensão Portal . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 551
+CAPÍTULO XXVIII
+Ascite e Peritonite Bacteriana Espontânea . . . . . . . . . . . . . . . . . . . . . . . . . 575
+CAPÍTULO XXIX
+Complicações Sistémicas da Doença Hepática
+CAPÍTULO XXX
+Doenças Hepáticas Auto-Imunes
+
+. . . . . . . . . . . . . . . . . . . . . . 593
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 619
+
+CAPÍTULO XXXI
+Doenças Metabólicas e Genéticas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 647
+CAPÍTULO XXXII
+Tumores Hépaticos
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 665
+
+7
+
+Doenças do Aparelho Digestivo
+
+SECÇÃO V
+VESÍCULA E VIAS BILIARES
+CAPÍTULO XXXIII
+Litíase Biliar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 685
+CAPÍTULO XXXIV
+Tumores da Vesícula, dos Ductos Biliares e da Ampola de Vater . . . . . . . . . . 703
+
+SECÇÃO VI
+PÂNCREAS
+
+8
+
+CAPÍTULO XXXVI
+Pancreatite Aguda
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 717
+
+CAPÍTULO XXXVI
+Pancreatite Crónica
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 753
+
+CAPÍTULO XXXVII
+Tumores do Pâncreas
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 773
+
+Prefácio
+
+PREFÁCIO
+Este livro traduz o extraordinário labor daquele que é considerado um dos melhores
+Mestres da actual Faculdade de Medicina de Coimbra.
+É, no fim de contas, um Manual de Gastrenterologia muito actualizado, sucinto e
+prático, destinado aos alunos de Medicina de qualquer das nossas Faculdades, mas
+também muito útil, por certo, aos clínicos gerais e a todos aqueles que se interessam
+pela Gastrenterologia e que desejam, numa consulta rápida, ficar informados sobre os
+conhecimentos actuais de qualquer capitulo da Gastrenterologia.
+Não se limita, este livro, à Gastrenterologia, num sentido restrito, pois abarca também
+a Hepatologia, nomeadamente a doença hépatica, alcoólica e viríca, nas suas formas
+aguda ou crónica e a patologia da árvore biliar.
+A selecção e apresentação dos diversos temas, está sempre orientada pela grande
+experiência pessoal do autor e condicionada pelas suas excepcionais qualidades
+didácticas e de exposição.
+Por tudo isto, recomendo a sua leitura e me sinto muito honrado por prefaciar tão
+valiosa e útil obra.
+
+Tomé Ribeiro
+Professor Catedrático de Medicina Interna
+Faculdade de Medicina do Porto
+
+9
+
+Doenças do Aparelho Digestivo
+
+10
+
+Introdução
+
+INTRODUÇÃO
+Com cerca de trinta anos de exercício do magistério universitário na Faculdade de
+Medicina de Coimbra, e de vida profissional nos Hospitais da Universidade de
+Coimbra, no âmbito da Gastrenterologia, entendemos que seria oportuno elaborar um
+novo compêndio de doenças do aparelho digestivo, preponderantemente orientado
+para a formação pré- e pós-graduação, e para a Clínica Geral.
+Sendo este o objectivo educacional desta obra, idêntico ao de “Temas de
+Gastrenterologia” , em dois volumes, que publicamos em 1986 e 1989, procuramos
+coligir informação actualizada em matérias consideradas nucleares, e com o
+aprofundamento adequado a essa finalidade.
+Durante o longo período da nossa vida académica e profissional, ocorreu uma
+vertiginosa aceleração do conhecimento científico e tecnológico, jamais testemunhada
+em épocas mais remotas. O desenvolvimento da fibroendoscopia, com fins de
+diagnóstico e de terapêutica, a descoberta do Helicobacter pylori, e das suas
+implicações patogénicas, os notáveis avanços na terapêutica farmacológica, a
+identificação dos vírus da hepatite, o recente desenvolvimento de novas técnicas de
+imagiologia e a crescente implantação da transplantação hépatica, são algumas das
+conquistas tecnocientíficas que distinguiram as últimas décadas e conferiram à
+Gastrenterologia um estatuto de especialidade intangível na sua autonomia, enorme
+na sua dimensão e essencial na prestação de cuidados de saúde. Entretanto, novos
+avanços se perfilam e prelibam nos horizontes desta especialidade.
+Apesar deste cenário deslumbrante, marcado pela génese, transferência e consumo de
+novos conhecimentos, que conferem precaridade temporal a qualquer texto médico,
+não esmorecemos na concretização deste projecto editorial. Quem assume a docência
+clínica universitária tem redobrada responsabilidade na transmissão do saber e da
+experiência que os anos vão sedimentando. Que este compêndio de doenças do
+aparelho digestivo represente uma contribuição útil para a formação em
+Gastrenterologia, são as nossas acalentadas e gratificantes expectativas.
+Diniz de Freitas
+
+11
+
+Doenças do Aparelho Digestivo
+
+12
+
+SECÇÃO I
+ESÓFAGO
+
+Doenças do Aparelho Digestivo
+
+ESÓFAGO - Pertubações Motoras do Esófago
+
+SECÇÃO I - ESÓFAGO
+CAPÍTULO I
+PERTURBAÇÕES MOTORAS DO ESÓFAGO
+1. Introdução
+2. Classificação e Noções Gerais
+3. Acalásia
+4. Espasmo Difuso do Esófago
+5. Esófago “Quebra-Nozes”
+6. Esfincter Esofágico Inferior Hipertensivo
+7. Motilidade Esofágica Ineficaz
+8. Opções Terapêuticas
+
+15
+
+Doenças do Aparelho Digestivo
+
+ESÓFAGO - Pertubações Motoras do Esófago
+
+1. INTRODUÇÃO
+Funcionalmente o esófago pode ser dividido em três zonas: esfincter esofágico superior, corpo do esófago e esfincter esofágico inferior. A função dos esfincteres encontra-se coordenada não só com a actividade do corpo do esófago, mas também com
+a actividade na orofaringe e no estômago.
+Vários mecanismos de controlo da actividade motora esofágica estão localizados no
+sistema nervoso central bem como, periféricamente, nos nervos intramurais e nos
+músculos.
+O esófago é um órgão em que os mecanismos de controlo voluntário e involuntário
+actuam conjuntamente. Durante a fase orofaríngea da deglutição, o bolo alimentar é
+movido voluntariamente para a faringe, onde se iniciam contracções. Depois, o processo torna-se involuntário.
+No esófago, a actividade de dois tipos de músculo encontra-se intimamente coordenada. Cinco por cento do corpo superior do esófago, incluindo o esfincter esofágico
+superior, é integrado por músculo estriado. Cerca de 50-60% do esófago distal,
+incluindo o esfincter esofágico inferior, é constituído por músculo liso. A zona de transição dos segmentos estriado e liso pode atingir 40% do comprimento do esófago.
+Esta distribuição dos dois tipos de fibras musculares tem significado funcional, porque a maioria das perturbações motoras esofágicas envolve a musculatura lisa.
+A deglutição desencadeia o processo de actividade esofágica integrada. Entre as
+deglutições, o corpo esofágico e os seus esfincteres não se encontram totalmente passivos. O tónus do esfincter esofágico superior constitui uma barreira protectora do
+refluxo esófago-faríngeo, e o do esfincter esofágico inferior constitui um mecanismo
+de defesa contra o refluxo gastro-esofágico. No corpo esofágico, por outro lado,
+podem iniciar-se contracções peristálticas ou não peristálticas, independentemente da
+deglutição, designadamente após refluxo gastro-esofágico ou stress.
+Aceita-se, no momento actual, que as perturbações motoras esofágicas podem ser
+explicadas pela ocorrência de mecanismos fisiológicos normais exagerados, ou pela
+interferência nesses mecanismos em um ou mais níveis do seu controlo.
+Os distúrbios motores no esfíncter esofágico superior e no esófago cervical resultam
+primariamente de uma falência na excitação sequencial através da inervação extrínseca, ou de doença na musculatura estriada.
+As perturbações da motilidade no corpo distal do esófago e no esfincter esofágico
+inferior são condicionadas, numa perspectiva genérica, por dois tipos de anomalias,
+que podem no entanto sobrepor-se. Uma delas caracteriza-se por hipomotilidade,
+
+17
+
+Doenças do Aparelho Digestivo
+
+registando-se diminuição da amplitude das contracções ou ausência delas durante o
+acto da deglutição. Na outra anomalia, predomina a hipermotilidade, caracterizada por
+ondas de contracção de elevada amplitude, prolongadas ou repetitivas, e por contracções espontâneas de variável frequência, podendo ocorrer elevação da pressão intraluminal e hipersensibilidade do esófago à estimulação por colinérgicos ou por outros
+agonistas excitatórios.
+No esfincter esofágico inferior, a hipomotilidade caracteriza-se por diminuição da pressão basal e debilidade na contracção, enquanto que a hipermotilidade pode manifestar-se sob a forma de um esfincter hipertensivo, hipersensibilidade à estimulação excitatória, ou reduzido/ausente relaxamento com a deglutição.
+Admite-se que quando existe hipomotilidade, pelo menos três mecanismos podem ser
+responsabilizados. O músculo está afectado e não consegue responder à estimulação,
+como sucede na esclerodermia avançada; ou existe diminuição da excitação muscular,
+de que é exemplo a fase inicial da esclerodermia; ou a actividade muscular é suprimida por excessiva ou não contrariada inibição, como ocorre nos relaxamentos transitórios do esfincter esofágico inferior, observados na doença de refluxo gastro-esofágico.
+Os distúrbios de hipermotilidade podem ser analisados na mesma perspectiva. Ou o
+músculo liso está alterado, como pode suceder nalguns doentes com espasmo esofágico difuso idiopático, que apresentam espessamento da túnica muscular; ou responde de forma exagerada aos neurotransmissores e hormonas circulantes; ou ainda,
+como terceira hipótese, pode aumentar a estimulação nervosa do músculo, ou encontrar-se abolida a inibição neuronal do tónus muscular. É também admissível que uma
+determinada perturbação motora seja condicionada pela conjugação de vários mecanismos patogénicos.
+
+2. CLASSIFICAÇÃO E NOÇÕES GERAIS
+De acordo com Katz e Castell, as perturbações da motilidade esofágica, primárias ou
+secundárias, são as seguintes:
+Quanto às perturbações secundárias da motilidade esofágica, estão resumidas no qua-
+
+18
+
+ESÓFAGO - Pertubações Motoras do Esófago
+
+PERTURBAÇÕES PRIMÁRIAS DA MOTILIDADE ESOFÁGICA
+DEFEITO FUNCIONAL
+
+DESIGNAÇÃO
+
+ACHADO MANOMÉTRICO
+
+• Aperistalse
+
+• Acalásia
+
+• Peristalse distal ausente a
+• Pressão basal EEI ↑ (>45 mmHg) b
+• Relaxamento incompleto do EEI
+(pressão residual > 8 mmHg) b
+• Pressão basal do corpo esofágico ↑ b
+
+• Incoordenação
+motora
+
+• Espasmo difuso
+
+• Contracções simultâneas >30 mmHg a
+(em ≥20% das deglutições)
+• Peristalse intermitente a
+• Contracções repetitivas (≥3 picos) b
+• Contracções prolongadas (>6 seg.) b
+• Contracções retrógradas b
+• Relaxamentos incompletos isolados
+do EEI b
+
+• Hipercontractilidade
+
+• Esófago
+“Quebra-nozes”
+
+• Amplitude da peristalse distal ↑ a
+(≥180 mmHg)
+• Duração da peristalse distal ↑ b
+(>6 segundos)
+
+• EEI hipertensivo
+
+• Pressão basal do EEI >45 mmHg a
+• Relaxamento incompleto do EEI b
+(pressão residual >8 mmHg)
+
+• Motilidade esofágica
+ineficaz *
+
+• Peristalse não transmitida ↑ c
+(≥30%)
+• Amplitude da peristalse distal ↓ c
+(<30 mmHg em ≥30 deglutições)
+
+• EEI hipotensivo
+
+• Pressão basal do EEI <10 mmHg a
+
+• Hipocontractilidade
+
+EEI - Esfincter esofágico inferior
+a - Essencial para o diagnóstico
+b - Pode ser observado, não essencial
+c - Ambos ou um deles podem ser observados
+* - Pode ser secundária à doente do refluxo gastro-esofágico
+
+19
+
+Doenças do Aparelho Digestivo
+
+dro seguinte
+
+PERTURBAÇÕES SECUNDÁRIAS DA MOTILIDADE ESOFÁGICA
+DIAGNÓSTICO
+
+ACHADO MANOMÉTRICO
+
+• Esclerose sistémica
+
+• Perda da peristalse distal
+• Pressão baixa no EEI (<10 mmHg)
+• Normalidade no esófago proximal e EES
+(músculo estriado)
+
+• Doença de Chagas
+
+• Idêntico ao da acalásia
+
+• Diabetes mellitus
+
+• Várias anomalias motoras no corpo do esófago
+
+• Pseudo-obstrução intestinal
+crónica idiopática
+
+• Perda da motilidade esofágica distal
+
+• Doença do refluxo gastro-esofágico
+
+• Motilidade ineficaz
+EEI hipotensivo
+
+EES - Esfincter esofágico superior
+
+Embora seja desconhecida a exacta prevalência das perturbações motoras do esófago, um estudo em 1.161 doentes adultos com dor torácica ou disfagia encontrou anomalias da motilidade em 33% dos casos (53% na disfagia e 28% na dor torácica).
+Deve suspeitar-se de distúrbio motor esofágico nos doentes com queixas de disfagia,
+dor torácica e odinofagia. Infelizmente, não há sinais ou sintomas específicos que permitam formular um diagnóstico definitivo com base na história clínica. É essencial eliminar uma causa orgânica da disfagia com base no exame endoscópico ou radiológico. Quanto à dor torácica, deve eliminar-se, em primeiro lugar, a sua origem cardíaca.
+A odinofagia (deglutição dolorosa) ocorre raramente nas perturbações primárias da
+motilidade do esófago, exigindo a procura de outras causas: infecção, agressão por
+fármacos, doença do refluxo gastro-esofágico.
+O diagnóstico de uma perturbação primária da motilidade esofágica assenta na clínica, nos exames endoscópico e radiológico, e no estudo da manometria esofágica. Este
+último é essencial para a definição da presença e do tipo de distúrbio motor.
+
+20
+
+ESÓFAGO - Pertubações Motoras do Esófago
+
+3. ACALÁSIA
+Definição
+A acalásia é uma perturbação motora primária do esófago de causa desconhecida,
+caracterizada manometricamente por insuficiente relaxamento do esfincter esofágico
+inferior (EEI) e ausência de peristalse esofágica, e radiologicamente por aperistalse,
+dilatação do esófago, abertura mínima do EEI, que apresenta um aspecto em “bico
+de pássaro”, e deficiente esvaziamento da papa baritada.
+Os dados disponíveis sugerem como possíveis causas da acalásia: factores hereditários, degenerativos, auto-imunes e infecciosos. Os dois últimos são os mais frequentemente aceites.
+Na autópsia ou em retalhos de miotomia, encontram-se alterações anatomo-patológicas a nível do plexo mientérico de Auerbach: reacção inflamatória intensa mas focal,
+com infiltrado de linfócitos T, eosinófilos e mastócitos, perda das células ganglionares e um certo grau de fibrose neuronal mientérica. O resultado final destas alterações inflamatórias, é a perda selectiva dos neurónios inibitórios pós-ganglionares que
+contêm óxido nítrico e VIP (vasoactive intestinal polypeptide). Os neurónios pós-ganglionares colinérgicos do plexo mientérico estão poupados, induzindo uma estimulação colinérgica não contrariada pela inibição. Estes achados justificariam o aparecimento das alterações manométricas típicas da acalásia.
+Clínica
+A acalásia pode originar um amplo espectro de sintomas: disfagia, dor torácica, regurgitação, odinofagia e por vezes azia.
+A disfagia é o sintoma dominante, presente em virtualmente todos os doentes. Pode
+ser inicialmente intermitente e só para sólidos, mas lentamente vai piorando e acaba
+por incluir também líquidos. A evolução é indolente, de tal sorte que alguns doentes
+só procuram o médico após alguns anos de queixas.
+A regurgitação é também um sintoma comum, ocorrendo tipicamente algumas horas
+após a refeição. A regurgitação nocturna pode originar tosse durante o sono. A pneumonia por aspiração é uma eventual complicação.
+A dor torácica pode estar presente em percentagens que atingem os 50% nalgumas
+séries. No entanto, a acalásia contribui com menos de 1% para os casos de dor torácica não cardíaca.
+
+21
+
+Doenças do Aparelho Digestivo
+
+A perda de peso acontece nos estádios iniciais da doença, secundária à incapacidade
+de esvaziamento adequado do esófago e ao receio de dor ou disfagia com a ingestão de alimentos. À medida que o esófago dilata, a pressão hidrostática do bolo alimentar retido consegue ultrapassar a hipertonia do EEI, pelo que o esvaziamento
+passa a estar mais facilitado, ocorrendo então recuperação ponderal.
+A acalásia secundária, ou pseudo-acalásia, é uma situação clínica que mimetiza a acalásia genuína, sendo ocasionada sobretudo por processos tumorais que infiltram a
+junção esofago-gástrica. No entanto, neoplasias distantes, como o cancro do pulmão,
+podem também originar uma acalásia secundária. Três aspectos clínicos podem sugerir uma origem maligna da acalásia: curta duração da disfagia (< 1 ano), perda de peso
+significativa e idade superior a 55 anos. Ocasionalmente a pseudo-acalásia resulta de
+processos não malignos: doença de Chagas, pseudo-obstrução intestinal crónica,
+situação pós-vagotomia, amiloidose, sarcoidose e pseudo-quisto do pâncreas.
+Avaliação Diagnóstica
+Ante a suspeita clínica de acalásia, o doente deve ser submetido a um estudo radiológico baritado do esófago, a exame manométrico, a endoscopia digestiva alta e eventualmente a outros exames, quando há suspeita de acalásia secundária.
+No esofagograma baritado, é clássico o achado de uma dilatação do esófago com afilamento regular da sua porção distal, lembrando
+um “bico de pássaro”.
+Frequentemente detectam-se níveis hidro-aéreos na zona médio-esofágica. Nas formas
+iniciais da doença, ainda sem dilatação esofágica, um exame fluoroscópico por radiologista experiente pode sugerir o diagnóstico.
+A manometria esofágica é o “gold standard” no diagnóstico da acalásia. Os achados
+típicos estão indicados no quadro atrás apresentado.
+O exame endoscópico tem muito interesse, não para formular o diagnóstico de acalásia, mas para excluir outras doenças e diagnosticar complicações. Na acalásia idiopática, a mucosa é normal e a passagem do endoscópio no cárdia faz-se com relativa facilidade, apesar de uma leve ou moderada resistência. À medida que a doença
+progride, a visualização de dilatação luminal e tortuosidade sugere fortemente o diagnóstico. Uma resistência acentuada na zona cárdica, ou a impossibilidade de penetração no estômago, apontam para a existência de uma estenose ou neoplasia como
+causa da acalásia. Na inspecção endoscópica, é importante obter uma imagem do cárdia mediante a retroflexão do endoscópio na cavidade gástrica.
+Se existe suspeita de acalásia secundária, deve solicitar-se um Rx do tórax e uma
+tomografia computorizada do tórax e abdómen. A eco-endoscopia pode ser muito útil
+na identificação de infiltração tumoral da submucosa.
+
+22
+
+ESÓFAGO - Pertubações Motoras do Esófago
+
+Tratamento
+Não existe tratamento para restaurar a actividade muscular do esófago acalásico desnervado. Todas as opções actuais de tratamento limitam-se a reduzir o gradiente de
+pressão no EEI, facilitando desse modo o esvaziamento esofágico pela gravidade. Isso
+consegue-se, de forma mais eficaz, pela dilatação pneumática ou pela miotomia cirúrgica, e de forma menos efectiva por agentes farmacológicos injectados por via endoscópica no EEI (toxina botulínica) ou tomados por via oral (bloqueadores dos canais
+de cálcio e nitratos).
+Dilatação pneumática. Trata-se da opção terapêutica não cirúrgica mais eficaz.
+Mediante a insuflação de um balão dilatador colocado na zona do esfincter, promove-se a disrupção das suas fibras musculares circulares. Vários tipos de dilatadores
+foram utilizados no passado. Actualmente, os balões de polietileno (Microvasive
+Rigiflex Dilators) são porventura os mais utilizados. São balões com três diferentes
+diâmetros (3, 3.5 e 4 cm), colocando-se na posição correcta mediante o auxílio da
+endoscopia e da fluoroscopia. Após a dilatação pneumática, os doentes devem realizar um exame radiológico do esófago com gastrografina para excluir a hipótese de
+perfuração.
+Utilizando os dilatadores graduados, ocorre alívio dos sintomas, bom ou excelente,
+em percentagens que variam, consoante as séries, entre 50-93%. Numa série recente
+de 359 doentes tratados sequencialmente com balões de 3, 3.5 e 4 cm, obtiveram-se
+resultados considerados bons ou excelentes, em 74%, 86% e 90% dos casos, respectivamente. A necessidade de novas dilatações baseia-se na persistência de sintomas,
+usualmente avaliados às quatro semanas pós-dilatação, ou na recorrência dos sintomas ao longo do tempo.
+A taxa acumulada de perfuração é de 2%, aproximadamente e varia, naturalmente,
+com a experiência do operador. Outras possíveis complicações, menos prevalentes:
+refluxo gastro-esofágico (0-9%), pneumonia por aspiração, hemorragia digestiva e
+hematoma esofágico.
+Os doentes com esófago dilatado e tortuoso, com divertículos esofágicos ou com prévia cirurgia na junção gastro-esofágica, têm maior risco de perfuração, estando neles
+indicada a miotomia cirúrgica.
+Miotomia cirúrgica. Envolve a realização de uma miotomia anterior (intervenção de
+Heller) na zona do EEI, usualmente associada a cirurgia anti-refluxo (por ex. Nissen).
+Os resultados dos estudos publicados, utilizando uma abordagem abdominal ou torácica, evidenciam benefício sintomático, bom ou excelente, em 83% dos casos, com
+uma média de follow-up de 7 anos. A principal complicação da miotomia de Heller é
+o refluxo gastro-esofágico (10-22%). A mortalidade operatória é muito baixa (0.2 % a
+1 %), não reportando a maioria das séries mortes directamente relacionadas com a
+
+23
+
+Doenças do Aparelho Digestivo
+
+intervenção.
+A cardiomiotomia laparoscópica é uma variante cirúrgica crescentemente utilizada.
+Numa série recente de 254 doentes tratados por este método, os resultados foram
+bons a excelentes em 94% dos casos. Antes da cirurgia laparoscópica, a indicação mais
+comum para sanção cirúrgica era a falência da dilatação pneumática. Com esta nova
+técnica laparoscópica, cresceu o número de doentes tratados inicialmente por cirurgia.
+Injecção endoscópica de toxina botulínica. Trata-se da mais recente alternativa terapêutica para a acalásia. A toxina botulínica, tipo A, actua por inibição da libertação de
+acetilcolina nas transmissões nervosas, contrabalançando desse modo o efeito da
+perda selectiva dos neurotransmissores inibitórios na acalásia. Após diluição em soro
+fisiológico, a toxina botulínica é injectada endoscópicamente, utilizando uma agulha
+de escleroterápia, na zona do EEI, em quatro doses de 20-25 unidades, em cada um
+de quatro quadrantes, num total de 80-100 unidades.
+A eficácia inicial no alívio dos sintomas é de cerca de 85%. Contudo, os sintomas
+recorrem em 50% dos doentes ao cabo de 6 meses, provavelmente por regeneração
+dos receptores afectados. Os doentes com mais de 60 anos de idade, e os que apresentam acalásia vigorosa (amplitude esofágica > 40 mmHg), têm uma resposta mais
+sustentada (até 1.5 anos) a esta terapêutica. Dos doentes que respondem à 1ª injecção, 76% responderão a uma 2ª injecção, mas a resposta vai diminuíndo com a repetição do método, provavelmente pela formação de anticorpos.
+A longo prazo, a injecção com toxina botulínica é menos eficaz do que a dilatação
+pneumática. Além disso, alguns trabalhos revelam que a cardiomiotomia cirúrgica é
+menos eficaz e mais difícil em doentes submetidos préviamente à toxina botulínica.
+Por isso, esta terapêutica farmacológica deve ser reservada para pacientes idosos, ou
+de alto risco cirúrgico, ou que recusam a dilatação pneumática e a cirurgia.
+Bloqueadores de cálcio e nitratos. São efectivos na redução da pressão do EEI, mas
+não melhoram o relaxamento do EEI ou a peristalse. A resposta clínica tem curta duração, e a eficácia vai diminuíndo com o tempo. Utilizam-se por via sublingual, na dose
+de 10-30 mg para a nifedipina, e de 5-20 mg para o dinitrato de isosorbido, 15-45
+minutos antes das refeições. Estão indicados nos doentes que recusam terapêuticas
+invasivas e onde falhou a toxina botulínica.
+Tendo em conta as considerações tecidas, sugere-se o seguinte algoritmo de tratamento na acalásia:
+
+24
+
+ESÓFAGO - Pertubações Motoras do Esófago
+
+DOENTE COM ACALÁSIA
+
+Baixo risco cirúrgico
+
+Miotomia
+laparoscópica
+
+Dilatação
+pneumática
+
+Insucesso
+
+Insucesso
+
+Alto risco cirúrgico / Recusa cirurgia
+
+Sucesso
+
+Toxina botulínica (80 - 100 U)
+
+Insucesso
+
+Êxito
+
+? Dilatação
+pneumática
+
+Êxito
+
+ou
+Bloqueador de cálcio
+ou nitratos
+
+Referir a centro
+especializado
+
+Dilatação
+pneumática
+
+Repetir
+miotomia
+
+Esofagectomia
+
+Complicações
+Podem desenvolver-se processos inflamatórios na porção distal do esófago acalásico
+por três mecanismos: infecção, que resulta mais frequentemente da candidíase; estase, que pode condicionar inflamação pela acção irritante de alimentos ou por efeito
+de proliferação bacteriana; e agressão iatrogénica por medicamentos e álcool.
+Existe uma associação entre a acalásia e o carcinoma do esófago. Estima-se uma prevalência aproximada de 3.5% de carcinomas do esófago em doentes com acalásia. É
+de 17-28 anos o tempo que decorre entre o início dos sintomas desta doença, e o
+desenvolvimento de cancro esofágico. A maioria dos autores sugerem vigilância
+endoscópica cada 2-5 anos, em doentes com acalásia de longa evolução.
+
+4. ESPASMO DIFUSO DO ESÓFAGO (EDE)
+O EDE é uma perturbação motora observada em doentes com dor torácica de causa
+
+25
+
+Doenças do Aparelho Digestivo
+
+indeterminada ou disfagia, associadas a peristalse esofágica desordenada e a severas
+contracções terciárias no estudo radiológico do esófago.
+Manometricamente é caracterizado por incoordenação motora, detectando-se no registo da motilidade, em simultâneo, contracções esofágicas distais e peristalse normal.
+Um estudo recente em 1.161 doentes com dor torácica não cardíaca ou disfagia, revelou que o EDE foi detectado em 10% dos traçados manométricos. Segundo Katz e
+Castell, a prevalência seria realmente menor.
+No tocante à etiologia e patofisiologia, as investigações recentes sugerem que o esófago dos doentes com espasmo difuso evidencia hipersensibilidade na resposta a estímulos colinérgicos ou hormonais (metacolina, edrofonium, betanecol, pentagastrina).
+Este aumento da sensibilidade esofágica poderá ser mediado por um defeito da inibição neural possivelmente relacionada com diminuição do óxido nítrico disponível.
+Não se sabe se estes efeitos também ocorrem noutras anomalias motoras.
+Os sintomas dominantes do EDE são, como já acentuamos, a dor torácica recorrente
+e a disfagia. A dor é frequentemente indistinguível do angor pectoris, podendo inclusivamente ser aliviada com a nitroglicerina. No entanto, raramente se relaciona com
+o exercício. A disfagia é intermitente, não progressiva, associada a líquidos e sólidos,
+e pode ser precipitada pelo stress, bebidas quentes ou frias, ou pela deglutição rápida de alimentos. O diagnóstico requer confirmação por radiologia e manometria.
+Os achados radiológicos do esófago são variáveis. Muitos exames são normais. A disrupção da peristalse primária distal com aparecimento de actividade terciária, originando o clássico aspecto em “saca-rolhas”, é o achado mais comum. A propulsão proximal do contraste é normal.
+Os achados manométricos encontram-se descritos no quadro apresentado no capítulo “Classificação”.
+Em geral, o prognóstico é excelente. A transição para um quadro de acalásia pode
+ocorrer em 3-5% dos doentes com EDE. Relativamente ao tratamento, será abordado
+no final deste tema, englobando outras perturbações motoras não acalásicas.
+
+5. ESÓFAGO “QUEBRA-NOZES”
+Trata-se de uma situação de hipercontractilidade esofágica, com pressões peristálticas
+no esófago distal superiores a 180 mmHg em indivíduos sintomáticos. Podem também
+ocorrer contracções de duração prolongada.
+Os padrões manométricos do esófago “quebra-nozes” foram detectados em 48% de
+
+26
+
+ESÓFAGO - Pertubações Motoras do Esófago
+
+doentes com dor torácica não cardíaca, na maior série de casos estudados (910 doentes).
+A etiologia é desconhecida. A ocasional transição para outras anomalias motoras ou
+para a acalásia, suscita a hipótese de o esófago “quebra-nozes” representar o início
+de um espectro de situações que culminaria na acalásia. É interessante sublinhar que
+existe com frequência uma sobreposição de quadros clínicos de esófago “quebranozes” e de cólon irritável, sugerindo que podemos estar em presença de um distúrbio funcional generalizado.
+Cerca de 90% dos doentes apresentam dor torácica. A disfagia é um sintoma menos
+comum. Sintomas associados incluem: depressão, ansiedade e somatização. Como
+sublinhamos, é frequente a associação com quadros de cólon irritável.
+Por definição, todos os doentes têm peristalse normal, pelo que o estudo radiológico do esófago não evidencia habitualmente anomalias. Ocasionalmente ocorrem
+ondas terciárias e evidência de hérnia hiatal.
+O diagnóstico de esófago “quebra-nozes” exige um estudo manométrico. Os achados
+manométricos típicos estão indicados no quadro já antes referenciado. É interessante
+acentuar que os doentes com esta perturbação motora têm tendência para evidenciar
+achados manométricos diferentes no “follow-up” a longo prazo. Registam-se por vezes
+traçados normais, ou traçados mais sugestivos de EDE ou de distúrbios motores não
+específicos.
+Embora seja ainda controversa a relação entre o esófago “quebra-nozes” e a dor torácica não cardíaca, na medida em que alguns factos depõem contra essa potencial relação, no momento actual tende a considerar-se que o padrão motor típico do esófago
+“quebra-nozes” é um marcador da síndrome de dor torácica não cardíaca.
+
+6. ESFINCTER ESOFÁGICO INFERIOR HIPERTENSIVO
+Trata-se de uma anomalia motora rara, de etiologia desconhecida, caracterizada manometricamente por uma pressão do esfincter esofágico inferior (EEI), em repouso,
+usualmente superior a 45 mmHg, associada a peristalse normal.
+É um distúrbio tipicamente observado em doentes em avaliação por dor torácica inexplicável. A frequência do EEI hipertensivo varia entre 0.5 – 2.8 %.
+É interessante salientar que traçados de EEI hipertensivo podem ocorrer ocasionalmente na doença do refluxo gastro-esofágico.
+
+27
+
+Doenças do Aparelho Digestivo
+
+7. MOTILIDADE ESOFÁGICA INEFICAZ (MEI)
+Após o importante estudo de Leite et al, vários trabalhos foram realizados para
+melhor caracterizar a MEI. Aceita-se, actualmente, que se trata de uma entidade manométrica distinta, caracterizada por um esófago hipocontráctil. A amplitude das contracções no esófago distal é inferior a 30 mmHg em ? 30% das deglutições. A MEI é um
+achado manométrico reprodutível, comummente detectado na doença do refluxo gastro-esofágico, particularmente quando associada a sintomas respiratórios.
+
+8. OPÇÕES TERAPÊUTICAS
+No quadro que se apresenta, estão sintetizadas as potenciais opções terapêuticas
+para as perturbações da motilidade esofágica, exceptuando-se a acalásia que já foi
+objecto de referência especial.
+POTENCIAIS TERAPÊUTICAS DAS PERTURBAÇÕES MOTORAS DO ESÓFAGO
+(Excluindo a acalásia)
+MODALIDADE DE
+TRATAMENTO
+
+DOSE
+
+MODO DE ADMINISTRAÇÃO
+
+• Apoio psicológico
+• Nitratos
+- Nitroglicerina
+- Isosorbido
+
+• 0.4 mgr sublingual
+• 10 – 30 mgr oral
+
+• usualmente antes das refeições
+• 30 minutos antes das refeições
+
+• Analgesia visceral
+- Imipramina
+
+• 50 mgr oral
+
+• ao deitar
+
+• Sedativos, antidepressivos
+• 2 – 5 mgr oral
+- Alprazolan
+- Trazodona
+• 50 mgrs oral
+
+• 4 x / dia
+• 3–4 x / dia
+
+• Bloqueadores dos
+canais de cálcio
+- Nifedipina
+- Diltiazem
+
+• 10 – 30 mgr
+• 60 – 90 mgr
+
+• 4 x / dia
+• 4 x / dia
+
+• Relaxantes do
+músculo liso
+- Hidralazina
+- Toxina botulínica
+
+• 25 – 50 mgr oral
+• 80 Unidades
+
+• 3 x / dia
+• injecção no EEI (via endoscópica)
+
+• Velas 56-60 French
+
+• Repetir se necessário
+
+• Dilatação estática
+• Dilatação pneumática
+
+a
+
+• Esofagomiotomia b
+a – Pode estar indicada nos casos de disfagia proeminente
+b – Raramente indicada (intratabilidade)
+
+28
+
+ESÓFAGO - Pertubações Motoras do Esófago
+
+REFERÊNCIAS
+• Katz PO, Castell JA. Nonachalasia motility disorders. In: Castell DO, Richter JE, eds. The esophagus.
+Lippincott Williams & Wilkins; 2000: 215-234.
+• Janssens J, Tack J. The esophagus and noncardiac chest pain. In: Castell DO, Richter JE, eds. The esophagus.
+Lippincott Williams & Wilkins; 2000: 581-590.
+• Castell JA, Gideon RM. Esophageal manometry. In: Castell DO, Richter JE, eds. The esophagus. Lippincott Williams & Wilkins; 2000: 101-118.
+• Smout AJP. Ambulatory monitoring of esophageal pH and pressure. In: Castell DO, Richter JE, eds. The esophagus.
+Lippincott Williams & Wilkins; 2000: 119-134.
+• American Gastroenterological Association medical position statement on management of oropharingeal Dysphagia.
+Gastroenterology 1999; 116: 452-454.
+• Cohen S, Parkman HP. Achalasia. In: Wolfe MM, ed. Therapy of Digestive Disorders. W.B.Saunders Co.; 2000: 17-26.
+• Richter JE. Approach to the patient with noncardiac chest pain. In: Wolfe MM, ed. Therapy of Digestive Disorders.
+W.B.Saunders Co.; 2000:27-36.
+• Rome II: a multinational consensus document on functional gastrointestinal disorders. Gut; 1999, 45: Suppl.II.
+• Fass S, Fennerty MB, Ofman JJ, et al. The clinical and economical value of a short course of omeprazole in patients with noncardiac chest pain.
+Gastroenterology; 1998, 115: 42-49.
+• Ringel Y, Drossman DA. Treatment of patients with functional esophageal symptoms. J Clin Gastroenterol; 1999, 28(3): 189-193.
+• Richter JE, Vaezi MF. Current therapies for achalasia. J Clin Gastroenterol; 1998, 27(1): 21-35.
+• Podas T, Eaden J, Mayberry M, et al. Achalasia: a critical review of epidemiological studies. Am J Gastroenterol; 1998, 93: 2345-47.
+• Richter JE. Functional esophageal disorders. In: Drossman DA ed. The functional gastrointestinal disorders.
+Little, Brown and Comp; 1994: 25-70.
+• Evans DF. The esophagus: clinical physiology. In: Phillips SF, Wingate DL, eds. Functional Disorders of the Gut.
+Churchill Livingstone; 1998: 152-176.
+• Tobin RW, Pope II CE. The esophagus: disorders of swallowing and chest pain. In: Phillips SF, Wingate DL, eds. Functional Disorders of the
+Gut. Churchill Livingstone; 1998: 177-195.
+• Camilleri M. Gastrointestinal motility in clinical practice. Gastroenterol Clin N Am; 1996: 25(1).
+• Mittal RK. Pharmacotherapy of the esophageal motor disorders. In: Friedman G, Jacobson ED, McCallum RW, eds. Gastrointestinal
+Pharmacology & Therapeutics. Lippincott-Raven; 1997: 97-102.
+• Souto P, Gomes D, Gregório C, Gouveia H, Freitas D. Tratamento da acalásia esofágica com injecção de toxina botulínica. GE J Port.
+Gastroenterol; 1998; 5(3): 169-176.
+• Patti MG, Diener U, Molena D. Esophageal achalasia: preoperative assessment and postoperative follow-up. J Gastrointest Surg.
+2001 Jan-Feb;5(1):11-2.
+• Urbach DR, Hansen PD, Khajanchee YS, Swanstrom LL. A decision analysis of the optimal initial approach to achalasia: laparoscopic Heller
+myotomy with partial fundoplication, thoracoscopic Heller myotomy, pneumatic dilatation, or botulinum toxin injection.
+J
+Gastrointest Surg. 2001 Mar-Apr;5(2):192-205.
+• Richter JE. Comparison and cost analysis of different treatment strategies in achalasia. Gastrointest Endosc Clin N Am. 2001 Apr;11(2):359-70.
+• Ali A, Pellegrini CA. Laparoscopic myotomy: technique and efficacy in treating achalasia. Gastrointest Endosc Clin N Am. 2001 Apr;11(2):347-58.
+• Kadakia SC, Wong RK. Pneumatic balloon dilation for esophageal achalasia. Gastrointest Endosc Clin N Am. 2001 Apr;11(2):325-46.
+• Hoogerwerf WA, Pasricha PJ. Pharmacologic therapy in treating achalasia. Gastrointest Endosc Clin N Am. 2001 Apr;11(2):311-24, vii. Review.
+• Gonlachanvit S, Fisher RS, Parkman HP. Diagnostic modalities for achalasia. Gastrointest Endosc Clin N Am. 2001 Apr;11(2):293-310.
+• Eckardt VF. Clinical presentations and complications of achalasia. Gastrointest Endosc Clin N Am. 2001 Apr;11(2):281-92.
+• Achkar E. Diseases associated with or mimicking achalasia. Gastrointest Endosc Clin N Am. 2001 Apr;11(2):267-80.
+• Paterson WG. Etiology and pathogenesis of achalasia. Gastrointest Endosc Clin N Am. 2001 Apr;11(2):249-66.
+• Mayberry JF. Epidemiology and demographics of achalasia. Gastrointest Endosc Clin N Am. 2001 Apr;11(2):235-48.
+• Bittinger M, Wienbeck M. Pneumatic dilation in achalasia. Can J Gastroenterol. 2001 Mar;15(3):195-9
+• Mearin F, Fonollosa V, Vilardell M, Malagelada JR. Mechanical properties of the gastro-esophageal junction in health, achalasia, and scleroderma. Scand J Gastroenterol. 2000 Jul;35(7):705-10.
+• Clark SB, Rice TW, Tubbs RR, Richter JE, Goldblum JR. The nature of the myenteric infiltrate in achalasia: an immunohistochemical analysis.
+Am J Surg Pathol. 2000 Aug;24(8):1153-8.
+• Peracchia A, Bonavina L. Achalasia: dilation, injection or surgery? Can J Gastroenterol. 2000 May;14(5):441-3
+• Storr M, Allescher HD. Esophageal pharmacology and treatment of primary motility disorders. Dis Esophagus. 1999;12(4):241-57.
+• Bowrey DJ, Blom D, Lord RV. Surgical treatment of achalasia: thoracoscopic or laparoscopic? Am J Gastroenterol. 2000 Apr;95(4):1087-8.
+• Kolbasnik J, Waterfall WE, Fachnie B, Chen Y, Tougas G. Long-term efficacy of Botulinum toxin in classical achalasia: a prospective study.
+Am J Gastroenterol. 1999 Dec;94(12):3434-9.
+• Vaezi MF, Richter JE. Diagnosis and management of achalasia. American College of Gastroenterology Practice Parameter Committee.
+Am J Gastroenterol. 1999 Dec;94(12):3406-12.
+• Raymond L, Lach B, Shamji FM. Inflammatory aetiology of primary oesophageal achalasia: an immunohistochemical and ultrastructural study
+of Auerbach's plexus. Histopathology. 1999 Nov;35(5):445-53.
+• Bassotti G, Annese V. Review article: pharmacological options in achalasia. Aliment Pharmacol Ther. 1999 Nov;13(11):1391-6.
+• De Giorgio R, Di Simone MP, Stanghellini V, Barbara G, Tonini M, Salvioli B, Mattioli S, Corinaldesi R. Esophageal and gastric nitric oxide
+synthesizing innervation in primary achalasia. Am J Gastroenterol. 1999 Sep;94(9):2357-62.
+• Ho KY, Tay HH, Kang JY. A prospective study of the clinical features, manometric findings, incidence and prevalence of achalasia in Singapore.
+J Gastroenterol Hepatol. 1999 Aug;14(8):791-5.
+• Ponce J, Garrigues V, Pertejo V, Sala T, Berenguer J. Comments on current therapies for achalasia. J Clin Gastroenterol. 1999 Sep;29(2):212.
+No abstract available.
+• Vaezi MF. Achalasia: diagnosis and management. Semin Gastrointest Dis. 1999 Jul;10(3):103-12.
+• Alonso P, Gonzalez-Conde B, Macenlle R, Pita S, Vazquez-Iglesias JL. Achalasia: the usefulness of manometry for evaluation of treatment.
+Dig Dis Sci. 1999 Mar;44(3):536-41.
+• Torbey CF, Achkar E, Rice TW, Baker M, Richter JE. Long-term outcome of achalasia treatment: the need for closer follow-up. J Clin
+Gastroenterol. 1999 Mar;28(2):125-30.
+• Horgan S, Pellegrini CA. Botulinum toxin injections for achalasia symptoms. Am J Gastroenterol. 1999 Feb;94(2):300-1.
+• Vaezi MF, Richter JE, Wilcox CM, et al. Botulinum toxin versus pneumatic dilatation in the treatment of achalasia: a randomised trial.
+Gut. 1999 Feb;44(2):231-9.
+
+29
+
+Doenças do Aparelho Digestivo
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+SECÇÃO I - ESÓFAGO
+CAPÍTULO II
+DOENÇA DO REFLUXO GASTRO-ESOFÁGICO
+1. Definição
+2. Epidemiologia
+3. Factores de Risco
+4. Patofisiologia
+5. Clínica e História Natural
+6. Diagnóstico
+7. Tratamento
+
+31
+31
+
+Doenças do Aparelho Digestivo
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+1. DEFINIÇÃO
+O refluxo gastro-esofágico corresponde à passagem de uma parte do conteúdo gástrico para o esófago. Na prática clínica designa uma afecção frequente caracterizada
+por sintomas e/ou lesões esofágicas relacionadas com esse refluxo. As lesões da
+mucosa esofágica correspondem à esofagite por refluxo (esofagite péptica). Esta esofagite pode complicar-se de estenose, úlcera, hemorragia ou de metaplasia cilíndrica
+do esófago distal denominada endobraquiesófago ou esófago de Barrett. Os sintomas
+podem evoluir sem lesões esofágicas ou, mais raramente, as lesões esofágicas podem
+ser assintomáticas.
+A doença do refluxo gastro-esofágico (DRGE) não tem, infelizmente, uma definição precisa. Consequentemente, o conhecimento da sua real epidemiologia ou da sua história natural tem sido dificultado. Na ausência de um “gold standard” para diagnosticar
+a DRGE, vários investigadores e clínicos têm procurado definir esta entidade com base
+em sintomas, em sinais endoscópicos, na pH-metria das 24 horas ou mesmo na resposta à terapêutica de inibição ácida. É importante sublinhar que cada uma destas
+vertentes caracteriza somente um aspecto particular da doença. De facto, como assinalamos, a DRGE pode existir quando só ocorrem sintomas sem evidência de esofagite macroscópica, ou vice-versa. Por outro lado, uma exposição aumentada ao ácido
+pode induzir, ou não, sintomas e lesões erosivas. A ausência de sintomas em presença de uma exposição ácida aumentada, significa a inexistência de sensibilidade esofágica ao ácido clorídrico. Deste modo, existe uma crescente percepção de que o refluxo sintomático, as alterações endoscópicas e a exposição anormal ao ácido são três
+indicadores da DRGE, independentes mas relacionadas.
+Em termos gerais, a DRGE é usualmente classificada em dois grupos, com base nos
+achados do exame endoscópico: DRGE erosiva ou não erosiva. Nos doentes deste último grupo, a pH-metria das 24 horas define dois subtipos: os que evidenciam um
+aumento da exposição ao ácido clorídrico, e os que não apresentam essa característica. Estes últimos doentes têm um “esófago ácido-sensível” ou “azia funcional”, como
+alguns autores preferem.
+Deste modo, a estratificação dos doentes com DRGE poderá ser feita da seguinte
+forma:
+Características
+típicas
+
+DRGE
+erosiva
+
+DRGE não-erosiva
+
+DGRE não-erosiva
+
+(exposição anormal ao ácido) (ácido-sensível/azia funcional)
+
+• Sintomas de
+• Presente/
+refluxo
+/ausente
+• pH-metria (24 horas) • Anormal
+
+• Presente
+
+• Presente
+
+• Anormal
+
+• Normal
+
+• Erosões
+
+• Ausente
+
+• Ausente
+
+• Presente
+
+33
+
+Doenças do Aparelho Digestivo
+
+2. EPIDEMIOLOGIA
+A maioria dos estudos que procuram analisar a epidemiologia da DRGE, baseiam-se
+na prevalência dos sintomas ou nos achados endoscópicos.
+A – Epidemiologia da DRGE com base nos sintomas
+A azia e a regurgitação ácida são considerados os sintomas cardinais da DRGE. A
+epidemiologia da azia é razoavelmente consistente nos países ocidentais. Numa
+prospecção à escala nacional realizada na USA, 44% da população referiu sintomas
+de DRGE em períodos mensais. Num questionário endereçado por via postal a 2.200
+indivíduos predominantemente de raça branca, na USA, Locke et al. apuraram uma
+prevalência de azia e de regurgitação ácida nos últimos 12 meses, de 42% e 45%,
+respectivamente. Nesse estudo, os autores registaram sintomas de azia e/ou regurgitação, pelo menos semanal, em 20% dos inquiridos. Estas cifras de prevalência
+foram confirmadas num estudo canadiano recente, onde se apurou, numa pesquisa
+envolvendo 1036 indivíduos, uma taxa de prevalência de azia, nos últimos 3 meses,
+de 43%; sintomas de intensidade moderada, ocorrendo pelo menos uma vez por
+semana, estavam presentes em 13%. Taxas elevadas de prevalência de GERD sintomática têm sido registadas igualmente em países europeus. Na Finlândia, um estudo
+englobando 1700 indivíduos recrutados na população, registou uma prevalência de
+azia no mês anterior, ou no ano anterior, de 21% e 27%, respectivamente.
+Em resumo, a prevalência de sintomas de DRGE, pelo menos ocasionais, no mundo
+ocidental, situa-se entre 12-54% (D. Provenzale). Um estudo na população chinesa
+revelou uma prevalência de azia e/ou regurgitação ácida de 16.9%, dentro dos limites
+reportados nos estudos dos países ocidentais.
+B – Epidemiologia da DRGE com base nos achados endoscópicos
+A prevalência real de esofagite endoscópica é difícil de avaliar em rastreios populacionais, por razões logísticas, éticas e de custo. De modo que estes dados só podem
+ser inferidos indirectamente, mediante a avaliação endoscópica de doentes observados no internamento hospitalar ou no ambulatório. Por outro lado, a comparação destes estudos é complicada pela circunstância de existirem vários critérios de classificação das lesões esofágicas detectadas no exame endoscópico. Além disso, alguns
+doentes com quadros de esofagite erosiva, não vão à consulta.
+Alguns investigadores avaliaram a prevalência de esofagite macroscópica em doentes
+de uma região demarcada, que procuraram cuidados médicos, e extrapolaram os
+dados para a população global. Por exemplo, Loof et al. analisaram os resultados de
+6733 endoscopias digestivas altas efectuadas ao longo de 2 anos, em Uppsala,
+Suécia. A prevalência de esofagite endoscópica foi de 10%, e a incidência calculada
+
+34
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+foi de 120/100.000 habitantes, por ano. A incidência média de Barrett foi calculada em
+1.7/100.000, por ano.
+Venables et al. num estudo multicêntrico realizado no Reino Unido, detectaram uma
+prevalência de esofagite erosiva em 32% dos doentes submetidos a exame endoscópico no ambulatório, que apresentavam como sintoma dominante a azia. Também
+Achem et al. verificaram a existência de esofagite erosiva em 29% dos doentes avaliados por sintomatologia suspeita de DRGE.
+Pode dizer-se, em conclusão, que 1/3 – 1/2 dos doentes com sintomas de DRGE evidenciam lesões de esofagite (erosões ou ulcerações) quando submetidos a exame
+endoscópico. A taxa de prevalência aumenta com a idade.
+
+3. FACTORES DE RISCO
+Neste item, vamos sumariar os dados actuais sobre os factores de risco da DRGE,
+sublinhando a evidência existente, e as concepções ainda questionáveis.
+Hérnia hiatal
+É de 5 por 1000 a prevalência estimada de hérnia hiatal na população global. Não há
+um claro predomínio de sexo, demonstrando os estudos radiográficos que 50% dos
+doentes com mais de 50 anos de idade, têm hérnia hiatal.
+A presença de hérnia hiatal aumenta o risco de DRGE por várias razões: (1) diminuição da clearance esofágica do ácido; (2) diminuição da acção esfincteriana do diafragma crural na junção esofago-gástrica; (3)aumento do refluxo do conteúdo gastroduodenal para o esófago.
+Há evidência epidemiológica que suporta a convicção de que a hérnia hiatal constitui
+um importante factor de risco. De facto, 50-60% dos doentes com hérnia do hiato diafragmático desenvolvem esofagite por refluxo, e mais de 90% dos doentes com esofagite endoscópica têm hérnia hiatal. Segundo Sontag et al., esta constitui o mais
+importante factor de predição de frequência do refluxo, tempo de contacto com o
+ácido e esofagite.
+A dimensão da hérnia hiatal parece estar relacionada com o risco de desenvolvimento da DRGE. Vários estudos evidenciaram que a azia e a regurgitação são mais comuns
+em doentes com hérnia hiatal > 5 cm. Quanto maior a hérnia, menor á a pressão de
+repouso do esfincter esofágico inferior (EEI), a amplitude das contracções no esófago
+distal e a clearance esofágica do ácido, e maior é o tempo de exposição esofágica ao
+ácido.
+Obesidade
+Ainda não existe evidência indiscutível quanto ao papel da obesidade como factor de
+
+35
+
+Doenças do Aparelho Digestivo
+
+risco da DRGE. E se esse risco existe, está relacionado com o gradiente de pressão
+gastroesofágico, com o esvaziamento esofágico e gástrico, ou com factores anatómicos como a hérnia hiatal?
+O conceito de que a DRGE é mais frequentemente observada em doentes obesos, e de
+que a perda de peso no obeso melhora a DRGE, é amplamente aceite quando se analisa a patofisiologia desta doença. No entanto, uma análise criteriosa dos dados disponíveis revela profundas contradições entre os estudos realizados neste âmbito, pelo que
+é importante continuar a pesquisa científica no tocante à relação obesidade/DRGE.
+
+Álcool
+Em contraste com a correlação ténue entre obesidade e DRGE, existe evidência mais
+consistente correlacionando o álcool com esta doença.
+De facto, vários estudos evidenciaram que o álcool inibe a pressão no EEI, diminui a
+normal capacidade de esvaziamento esofágico e diminui a secreção salivar. Por outro
+lado, o etanol estimula a secreção ácida do estômago e a libertação de gastrina.
+Tabaco
+Está demonstrado que o consumo de tabaco determina diminuição da pressão do EEI
+e aumenta os episódios de refluxo gastro-esofágico. Por outro lado, nos fumadores
+crónicos existe redução da função salivar, contribuindo para o enfraquecimento da
+função de “clearance” esofágica, sendo ainda de aceitar a hipótese do efeito irritativo do fumo do tabaco na mucosa esofágica.
+Intubação naso-gástrica
+A sonda nasogástrica pode determinar refluxo gastro-esoágico, sobretudo nas seguintes condições: doente em supinação, volume elevado de ácido no estômago (>300 ml)
+e intubação prolongada (>72 horas).
+Fármacos
+Está documentada uma acção potencialmente deletéria de alguns fármacos no âmbito da DRGE. Esses fármacos actuariam por mecanismos variados: alteração na pressão do EEI, interferência na motilidade esofágica ou no esvaziamento gástrico e acção
+directa cáustica na mucosa esofágica.
+Existe evidência clara de que a teofilina diminui a pressão no EEI e aumenta a secreção ácida, podendo agravar as manifestações de DRGE. A cafeína teria o mesmo efeito, ainda que mais atenuado. Alguns bloqueadores dos canais do cálcio, designadamente a nifedipina, devem ser evitados em doentes com DRGE, bem como os anticolinérgicos. Deve ser prudente a prescrição, nestes doentes, de benzodiazepinas e
+de AINE’s.
+Gravidez
+O refluxo gastro-esofágico é provavelmente a situação gastro-enterológica mais fre-
+
+36
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+quentemente associada à gravidez. Resulta essencialmente dos efeitos da progesterona no EEI, cuja tonicidade diminui. Contrariamente a uma convicção há longos anos
+perfilhada, reconhece-se actualmente que o incremento da pressão abdominal pelo
+aumento do útero não constitui papel importante na génese dos sintomas de refluxo
+gastro-esofágico associados à gravidez.
+Esclerodermia
+Em quase 90% dos doentes com esta enfermidade do tecido conectivo existem anomalias esofágicas, traduzidas na diminuição ou ausência de peristalse nos 2/3 distais
+do esófago e na redução da pressão no EEI. Estas alterações, que determinam uma
+falência no processo de esvaziamento esofágico, condicionam quadros mais ou menos
+severos de DRGE.
+Sindrome de Zollinger-Ellison
+Inicialmente pensou-se que a hipergastrinémia típica desta síndrome, induziria aumento da pressão do EEI, pelo que a DRGE seria uma raridade. Com o volver dos anos e
+a experiência acumulada, verificou-se que era elevada a incidência de DRGE na síndrome de Z-E, apontando-se como factor primordial a hipersecreção ácida gástrica.
+Recentemente verificou-se que a gastrina pode incrementar a frequência de relaxamentos transitórios do EEI.
+Atraso no esvaziamento gástrico
+O atraso no esvaziamento gástrico representa um factor de risco da DRGE, ou esta
+afecção condiciona hipocinésia gástrica? O esvaziamento gástrico retardado reflecte
+meramente uma manifestação de uma ampla desordem motora que envolve também
+a DRGE? Será que o esvaziamento gástrico lento protege contra a esofagite por refluxo? Há fármacos ou condições médicas associadas a atraso do esvaziamento gástrico, que impliquem risco aumentado de DRGE? Estas questões ainda não se encontram
+cabalmente respondidas
+De facto, a literatura médica contém evidência que suporta ou refuta a associação
+entre atraso de esvaziamento e DRGE. Existem outros estudos que suportam o conceito da existência de uma disfunção autonómica primária que culminaria num deficiente esvaziamento esofágico e gástrico. São necessários mais estudos nesta área,
+com contornos ainda nebulosos.
+Helicobacter Pylori
+Vários estudos analisaram a possível relação entre a infecção por esta bactéria e a
+DRGE. Embora a maioria dos trabalhos sustente que não existe associação do H. pylori com a DRGE, alguns autores, como Vicari et al., opinam que este microorganismo
+poderá induzir ou agravar quadros de DRGE, por várias razões: (1) aumento do débito ácido, (2) inflamação da zona cárdica, estimulando os relaxamentos transitórios do
+EEI; (3) agressão da mucosa esofágica por citotoxinas libertadas pelo H. pylori, e (4)
+
+37
+
+Doenças do Aparelho Digestivo
+
+atraso no esvaziamento gástrico, consequência da gastrite provocada pela bactéria.
+Pelo contrário, há evidência experimental e epidemiológica que suporta um efeito protector do H. pylori. Estudos epidemiológicos demonstram que quando são elevadas
+as taxas de infecção pelo H. pylori Cag A+ (por ex. na China), é baixa a correspondente incidência de esofagite (<5%). Além disso, as complicações da DRGE, designadamente o Barrett e o adenocarcinoma esofágico, são significativamente mais comuns
+em indivíduos da raça branca, em comparação com indivíduos de raça negra ou asiática, apesar da maior prevalência do H. pylori na Ásia. O H. pylori conferiria protecção
+contra a DRGE porque: (1) a infecção Hp induz diminuição da acidez gástrica pela libertação de amónia e (2) a infecção Hp, especialmente com estirpes Cag A+, pode induzir quadros severos de gastrite no corpo do estômago, condicionando hipocloridria.
+De facto, alguns autores verificaram aumento na incidência de DRGE anos após a erradicação do H. pylori (Labenz et al). A questão da correlação entre a infecção Hp e a
+DRGE continua por esclarecer, pelo que se justificam mais trabalhos científicos nesta
+área.
+
+4. PATOFISIOLOGIA
+A DRGE é uma doença ácido-péptica ou uma perturbação motora do esófago? Na realidade, o ácido clorídrico é o principal agente agressor e o responsável pelas lesões
+da mucosa esofágica na doença de refluxo. Contudo, a secreção ácida gástrica é normal na maioria dos doentes com DRGE. A razão porque o suco gástrico atinge o esófago, radica numa anomalia motora do esfincter esofágico inferior (EEI). Por outro
+lado, alterações na peristalse esofágica, quando existem, possibilitam que o ácido clorídrico e outros agentes agressivos permaneçam no esófago por longos períodos de
+tempo, induzindo lesões da mucosa. Deste modo, ainda que o ácido clorídrico seja
+de facto o factor mais importante na agressão esofágica, as anomalias motoras do EEI
+e do esófago são factores etiológicos primários e fundamentais na compreensão da
+fisiopatologia da DRGE. Está demonstrado, por outro lado, que uma diminuição da
+resistência da mucosa esofágica pode contribuir, nalguns casos de forma significativa,
+para o desenvolvimento do processo lesional que caracteriza a DRGE. Nestes termos,
+a perspectiva da patofisiologia desta doença deve ser encarada em duas vertentes:
+em primeiro lugar, é essencial analisar o comportamento da barreira anti-refluxo e dos
+mecanismos de “clearance” esofágica; e em segundo lugar, importa reflectir sobre o
+papel desempenhado pela resistência tissular da parede esofágica.
+
+38
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+A – BARREIRA ANTI-REFLUXO E CLEARANCE ESOFÁGICA
+1. Barreira anti-refluxo
+Em condições normais, existe uma barreira funcional e anatómica que impede o refluxo do conteúdo gástrico para o esófago. Essa barreira é integrada pelos seguintes
+componentes:
+-Esfincter esofágico inferior (EEI)
+-Compressão do EEI pelo diagrama crural
+-Segmento do esófago abdominal
+-Configuração anatómica do cárdia gástrico (ângulo de His)
+EEI é um segmento do esófago distal, com cerca de 3-4 cm de comprimento, com uma
+pressão normal em repouso de 10-30 mmHg relativamente à pressão intragástrica.
+Essa pressão do EEI é generosa, na medida em que uma pressão mínima basal de 510 mmHg usualmente previne o refluxo. É o componente mais importante da barreira
+anti-refluxo, sendo capaz de manter a competência gastro-esofágica mesmo se completamente deslocado do diafragma por hérnia hiatal. Os 2 cm distais deste esfincter
+localizam-se na cavidade abdominal, circunstância que favorece a manutenção da
+competência gastro-esofágica.
+O EEI mantém uma zona de alta pressão por contracção tónica mediada por mecanismos miogénicos e neurogénicos. No homem, o principal mecanismo parece ser de origem neurogénica, com mediação por nervos colinérgicos, uma vez que a atropina
+reduz em 70% a pressão basal do EEI. O tónus miogénico resulta da libertação de cálcio. Há considerável variação diurna da pressão basal do esfincter, encontrando-se os
+valores mais baixos após as refeições, e os mais elevados durante a noite. O EEI é
+influenciado por vários peptídeos e hormonas em circulação, por alimentos, sobretudo gorduras, e por fármacos.
+O EEI encontra-se rodeado pelo pilar direito do diafragma e ancorado pelo ligamento
+freno-esofágico. Este arranjo anatómico é importante para o funcionamento da barreira anti-refluxo. O diafragma crural tem uma pressão basal de 6 mmHg. A sua contracção, designadamente durante a respiração, impõe uma pressão rítmica de 5-10 mmHg
+sobre a pressão intrínseca do EEI. Além disso, a contracção do diafragma crural
+aumenta também a pressão na junção gastro-esofágica durante o esforço de defecção
+ou na compressão abdominal.
+A entrada oblíqua do esófago no estômago cria uma angulação aguda na junção esofago-gástrica, designada por ângulo de His. Este ângulo determina um efeito de válvula que contribui para a competência gastro-esofágica.
+
+39
+
+Doenças do Aparelho Digestivo
+
+2. Falência da barreira anti-refluxo
+A falência da barreira anti-refluxo pode ser condicionada por três factores: disfunção
+do EEI, traduzida em relaxamentos transitórios do esfincter; hipotonia crónica do EEI;
+e disrupção anatómica da junção gastro-esofágica (hérnia hiatal).
+Disfunção do EEI
+É o principal mecanismo que está na base do refluxo gastro-esofágico, consubstanciado no relaxamento transitório do EEI. A proporção de episódios de refluxo atribuíveis a relaxamentos transitórios é de 60-80%, consoante as séries estudadas. Nem
+sempre esses relaxamentos transitórios do EEI culminam em refluxo. No indivíduo normal, cerca de 40-60% desses relaxamentos são acompanhados por refluxo, mas essa
+percentagem sobe para 60-70% nos doentes com DRGE, desconhecendo-se a razão.
+Por definição, os relaxamentos transitórios do EEI não são induzidos pela deglutição.
+Têm longa duração (10-45 segundos) e o seu início associa-se frequentemente a
+ondas de pressão simultâneas no esófago distal. Pode coexistir também inibição da
+peristalse primária do esófago. Mas o evento mais importante durante o relaxamento
+transitório do EEI é a inibição do diafragma crural, essencial para que ocorra refluxo.
+O ritmo de relaxamentos transitórios do EEI é influenciado por vários factores. O estímulo mais importante parece ser a distensão gástrica, designadamente por refeições.
+A importância de alimentos específicos (gorduras, álcool, café, chocolate e cebola)
+ainda não foi clarificada. A fermentação cólica de ácidos gordos de cadeia curta é um
+outro estímulo comprovado. Por outro lado, identificaram-se factores que inibem os
+relaxamentos transitórios do EEI: postura em supinação, sono e anestesia.
+A evidência actual aponta para uma mediação neurogénica, através de vias vagais, no
+desencadeamento dos relaxamentos transitórios. A distensão gástrica estimularia
+mecano-receptores no estômago proximal, particularmente em torno do cárdia, com
+envio de sinais por via vagal para centros nervosos localizados na região dos núcleos
+do vago, tendo como sequência a ocorrência intermitente de um complexo estruturado de eventos motores: relaxamento do EEI, inibição do diafragma rural e contracções
+no corpo do esófago.
+Nos últimos anos aconteceram importantes avanços na compreensão da neuro-farmacologia dos relaxamentos transitórios do EEI, que poderão propiciar, no futuro, a possibilidade de controlar terapeuticamente, por via farmacológica, esses eventos. De
+facto, foram identificados vários agentes que reduzem o ritmo dos relaxamentos transitórios: antagonistas da colecistoquinina-A, agentes anticolinérgicos, morfina, somatostatina, inibidores da síntese do oxido nítrico, antagonistas da 5-hidroxitriptamina
+e agonistas do ácido gama-aminobutírico (GABA).
+Hipotonia crónica do EEI
+Durante algum tempo pensou-se que o refluxo gastro-esofágico resultava de um défice crónico da pressão do EEI. Presentemente sabe-se que a maioria dos doentes com
+
+40
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+DRGE têm uma pressão basal do EEI dentro dos limites normais. Só uma pequena
+fracção desses doentes, usualmente com esofagite severa, apresentam pressões
+basais do EEI sistematicamente abaixo dos limites da normalidade. Na prática, portanto, é pouco comum o refluxo por baixa ou ausente pressão basal do EEI.
+São ainda desconhecidos os mecanismos que determinam a hipotonia crónica do EEI.
+A presença de hérnia do hiato pode ser um factor agravante. Alguns casos podem ser
+devidos a embotamento dos estímulos colinérgicos para o EEI.
+Hérnia do hiato
+Como já foi referido no capítulo sobre factores de risco, a hérnia do hiato enfraquece a função do EEI, assim como a “clearance” esofágica. De facto a hérnia hiatal pode
+condicionar: hipotonia e encurtamento do EEI, perda do suporte diafragmático do
+esfincter, estiramento e rotura do ligamento freno-esofágico, alargamento do hiato
+diafragmático, perda do segmento intra-abdominal do EEI e retenção de fluidos no
+saco herniado.
+Além disso, a hérnia hiatal compromete a “clearance” do ácido pelo esófago porque
+há uma tendência aumentada para o refluxo ocorrer a partir do saco herniado durante o relaxamento do esfincter pela deglutição.
+3. Clearance esofágica
+Após um episódio de refluxo, o período em que a mucosa esofágica persiste com um
+pH<4 é definido como tempo de clearance do ácido. Esta clearance inicia-se com o
+esvaziamento do fluido refluido por acção da peristalse e é completada pela neutralização do ácido residual pela saliva deglutida. Como durante o sono a salivação virtualmente cessa, o mecanismo da clearance pode ficar comprometido nesse período
+nocturno.
+Dois mecanismos podem prolongar a remoção do ácido do esófago: retardamento no
+esvaziamento esofágico e diminuição da função salivar.
+Quanto ao atraso no esvaziamento do esófago, é motivado por dois factores: disfunção peristáltica e “rerefluxo” associado à hérnia hiatal.
+A disfunção peristáltica traduz-se essencialmente por contracções ineficazes ou por
+contracções hipotensivas (< 30 mmg) que esvaziam incompletamente o esófago. Essa
+disfunção é tanto mais grave, quanto maior for a severidade da esofagite.
+Recentemente, tem sido aplicada a esta disfunção peristáltica a designação de “motilidade esofágica ineficaz”, definida pela ocorrência de ?30% de contracções ineficazes
+(amplitude <30 mmHg ou aperistalse) num teste de 10 deglutições.
+Os doentes com motilidade esofágica ineficaz exibem tempos de exposição do esófago ao
+ácido e tempos de “clearance” esofágica significativamente superiores aos indivíduos
+com motilidade esofágica normal.
+
+41
+
+Doenças do Aparelho Digestivo
+
+Discute-se se a disfunção peristáltica associada à esofagite péptica é um processo
+reversível. Provavelmente será reversível, excepto se ocorrem extensos processos de
+fibrose. No entanto, nalguns estudos verificou-se que essas perturbações da motilidade não desapareceram após cicatrização da esofagite, ou após cirurgia
+antirefluxo.
+Como já salientamos, a hérnia do hiato também compromete o esvaziamento esofágico. De facto, alguns estudos têm revelado fenómenos de “rerefluxo” a partir do saco
+herniado durante a deglutição. Por outro lado, a presença de hérnia hiatal pode comprometer os mecanismos de defesa do diafragma crural.
+A redução do fluxo salivar ou a diminuição da sua capacidade de neutralização,
+podem comprometer a clearance do ácido. Como vimos, a secreção salivar é interrompida durante o sono, existindo nesse período um prolongamento do tempo de esvaziamento do ácido. Similarmente, a xerostomia crónica, associa-se a tempos prolongados de exposição do esófago ao ácido, com consequente esofagite. Também é interessante sublinhar a ocorrência de diminuição da salivação nos fumadores, mediada
+por um efeito anticolinérgico. O bicarbonato é o principal componente da saliva que
+intervém na neutralização do ácido clorídrico. A saliva contém também vários factores
+de crescimento que poderiam exercer um potencial efeito na reparação de lesões da
+mucosa. Esta hipótese ainda não foi cabalmente demonstrada
+B – RESISTÊNCIA TISSULAR
+O refluxo gastro-esofágico é uma ocorrência quase universal e diária, mesmo em indivíduos assintomáticos. Contudo, só uma percentagem da população desenvolve DRGE.
+A barreira anti-refluxo é o primeiro e melhor estudado componente da defesa contra
+a agressão da mucosa esofágica pelo conteúdo gástrico. Esta barreira limita a frequência e o volume do contacto entre o fluido que reflui e o epitélio esofágico.
+Quando esta barreira falha , entra em jogo o segundo mecanismo de defesa, designado de clearance luminal esofágica, que limita a duração de contacto entre o material refluido e a mucosa esofágica. Essa clearance depende, como vimos, da peristalse esofágica, da gravidade e do fluxo salivar. No entanto, essa remoção do ácido do
+esófago não é instantânea, requerendo usualmente 3-5 minutos para que o pH do
+esófago normalize. Além disso, durante a fase do sono, os mecanismos de neutralização do ácido encontram-se comprometidos.
+Por esta razão, existe uma terceira linha de defesa para manter a saúde e a integridade do epitélio esofágico: a resistência tissular. Esta resistência inclui os factores da
+mucosa destinados a limitar os danos durante o contacto do material refluido com o
+epitélio esofágico.
+
+42
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+De acordo com Roy Orlando (2000), os potenciais componentes da resistência tissular contra a agressão ácida no esófago são:
+Defesa pré-epitelial
+Barreira de muco/bicarbonato
+Defesa epitelial
+Membranas celulares
+Junções intercelulares
+Transplante epitelial
+Tampões intra e extra-celulares
+Replicação celular
+Defesa pós-epitelial
+Fluxo sanguíneo
+Equilíbrio ácido-básico nos tecidos
+Segundo este autor, os dados existentes relativamente à defesa pré-epitelial indicam
+que esta barreira tem uma capacidade de protecção limitada, ao contrário do que
+sucede no estômago e no duodeno, o que explicaria a necessidade de um controlo
+ácido muito mais profundo na DRGE.
+Os componentes estruturais e funcionais da segunda linha de protecção – a defesa
+epitelial – têm um papel fulcral. Se ocorre falência desta barreira, desencadeia-se uma
+sequência de fenómenos que culminam nas lesões típicas da DRGE. Basicamente, a
+patogénese da DRGE envolve um ataque directo e a lesão das junções intercelulares
+pela secreção cloridro-péptica gástrica, indiscutivelmente o factor mais nocivo do conteúdo gástrico refluído. A lesão dessas junções aumenta a permeabilidade paracelular, com consequente difusão e acidificação dos espaços intercelulares pelos hidrogeniões (H+). Esta acidificação rapidamente se estende ao citosol celular, sendo este o
+evento crucial que determina o edema celular e a necrose.
+Se, como defendem Roy Orlando e outros autores, o ácido lesa inicialmente as junções intercelulares e aumenta a sua permeabilidade, deduz-se que a ocorrência de
+azia nas formas não erosivas de DRGE reflecte a maior acessibilidade do H+ luminal
+aos nervos aferentes (sensoriais) do epitélio esofágico, localizados nos espaços intercelulares logo abaixo das camadas celulares superficiais. Estas observações contrariam a noção de hipersensibilidade visceral esofágica como causa do esófago “ácidosensível” em doentes com DRGE não erosiva. A designação de hipersensibilidade visceral é inapropriada porque as terminações nervosas sensoriais em doentes com
+DRGE não erosiva respondem apropriadamente a níveis excessivos de acidificação
+intercelular. Além disso, se o ácido inicialmente lesa as junções inter-epiteliais, está
+criada uma condição que justifica a progressão de formas de DRGE não erosivas, para
+formas erosivas, em consequência de exposições luminais repetidas ao H+.
+Tradicionalmente, a DRGE tem sido considerada essencialmente uma doença motora.
+
+43
+
+Doenças do Aparelho Digestivo
+
+No entanto, em face das considerações expendidas, pode afirmar-se que a DRGE também resulta, pelo menos em parte, de um enfraquecimento da resistência tissular.
+A evidência mais relevante para esta asseveração, radica na observação de que uma
+percentagem significativa de doentes com DRGE não erosiva (até 50%), e cerca de
+30% dos que apresentam quadros erosivos, têm tempos de contacto do ácido no esófago dentro dos padrões normais, mediante avaliação por pH-metria das 24 horas.
+Dado que estes tempos de contacto normais significam que os mecanismos da barreira anti-refluxo e da clearance luminal funcionam normalmente, as lesões de esofagite nesses doentes resultam, ou de uma excessiva agressividade do conteúdo gástrico refluído, o que até agora não foi comprovado, ou de uma deficiência na resistência tissular. Este últimos mecanismo está hoje claramente demonstrado.
+
+SINOPSE DA PATOFISIOLOGIA DA DRGE
+A - MECANISMOS DE DEFESA CONTRA A AGRESSÃO CLORIDRO-PÉPTICA
+
+EEI
+Diafragma crural
+
+1. Barreira anti-refluxo
+
+Ângulo de His
+Limita a frequência e o volume do
+contacto entre H+ e o epitélio
+esofágico
+Peristalse
+2. Clearance esofágica
+
+3. Resistência tissular
+
+Gravidade
+Função salivar
+
+Limita a duração do contacto entre os
+H+ e o epitélio esofágico
+
+Mantém a integridade do
+epitélio esofágico
+
+B - MECANISMOS PATOGÉNICOS DA DRGE
+1. Falência da barreira anti-refluxo
+Disfunção do EEI (relaxamento transitório)
+Hipotonia crónica do EEI
+Disrupção anatómica da junção
+esófago-gástrica (hérnia hiatal)
+2. Clearance esofágica
+
+44
+
+3. Resistência tissular
+
+Atraso no esvaziamento esofágico
+
+Falência na defesa pré-epitelial,
+
+Diminuição da função salivar
+
+epitelial e pós-epitelial
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+5. CLÍNICA E HISTÓRIA NATURAL
+É extraordinariamente variegado o espectro clínico da DRGE, circunstância que dificulta uma avaliação rigorosa da sua epidemiologia e história natural, e também do seu
+diagnóstico e terapêutica.
+De facto, a DRGE pode traduzir-se por queixas típicas, por sintomas e sinais atípicos
+e ainda por complicações variadas. Além disso, há doentes que podem apresentar
+lesões na mucosa esofágica, com sintomas discretos ou mesmo ausentes. Por outro
+lado, há muitos doentes que têm sintomas característicos de DRGE, sem evidência de
+alterações morfológicas no esófago. Finalmente, há doentes com queixas de DRGE,
+sem lesões esofágicas nem alterações nos registos da pH-metria das 24 horas.
+Vamos procurar analisar, sequencialmente, os sintomas típicos, as complicações e a
+história natural da DRGE.
+A. MANIFESTAÇÕES CLÍNICAS DA DRGE
+SINTOMAS
+• Azia
+• Regurgitação
+• Odinofagia
+• Dor torácica não cardíaca
+
+SINAIS
+• Hematemeses
+• Anemia ferropénica
+• Sangue oculto nas fezes
+
+• Hipersalivação
+
+Azia
+É a manifestação mais comum da DRGE ocorrendo frequentemente após a refeição,
+nomeadamente quando esta é abundante e rica em gorduras.
+Não há correlação entre a frequência e a severidade da azia, e o grau das lesões da
+mucosa esofágica detectado no exame endoscópico.
+São factores precipitantes de azia (e de outros sintomas de DRGE):
+- Alimentos: álcool, carminativos, chocolate, citrinos, café, bebidas com cola, gorduras, tomate.
+- Estilo de vida/actividades: flexão do tronco (por ex. trabalhador rural), ciclismo,
+reclinar/deitar após refeições, vestuário apertado.
+- Drogas e fármacos: álcool, tabaco ou nicotina, antagonistas ·-adrenérgicos, anticolinérgicos, agonistas beta-adrenérgicos, inibidores dos canais de cálcio, nitratos, diazepam, progesterona, relaxantes do músculo liso.
+- Condições médicas: gravidez, diabetes mellitus, esclerodermia, sindrome de
+Raynaud, síndrome Crest, síndrome de Sjögren, sicca, xerostomia,
+Zollinger-Ellison, sondagem naso-gástrica.
+
+45
+
+Doenças do Aparelho Digestivo
+
+Regurgitação
+É a retropulsão sem esforço do conteúdo gástrico para a cavidade oral, sem náusea, ânsia de vómito ou contracção abdominal. Frequentemente ocorre com manobras que aumentam a pressão intra-abdominal. O material regurgitado tem um
+sabor amargo ou ácido.
+Disfagia
+Queixas disfágicas podem ocorrer em muitos doentes com DRGE (até 40%), testemunhando a existência de estenose péptica dismotilidade esofágica, anel de Schatzki ou
+mesmo carcinoma.
+Odinofagia
+A odinofagia, ou deglutição dolorosa, pode ser induzida por esofagite erosiva ou úlcera esofágica. No entanto, há duas outras causas frequentes: a esofagite infecciosa e
+a esofagite iatrogénica.
+Esofagite infecciosa: Candida, Citomegalovírus, Herpes simplex, HIV (agentes mais
+comuns).
+Esofagite iatrogénica: antibióticos (doxi-tetraciclina, clindamicina), ácido ascórbico,
+sulfato ferroso, nifedipina, AINE’s, CKl quinidina, teofilina, alendronato (Fosamax) e zidovudina (AZT).
+Dor torácica
+Segundo a maioria dos autores, a DRGE contribui para 50% das dores torácicas de
+origem não cardíaca. A dor resultaria directamente da acção agressiva do ácido refluído, ou de dismotilidade esofágica induzida pelo ácido.
+Hipersalivação
+Podem acontecer episódios de hipersalivação em doentes com DRGE, mediada pela
+presença de ácido no esófago que estimula um reflexo vagal esofagosalivar. A sialorreia não é amarga, ao contrário da regurgitação, tendo muitas vezes um sabor salino.
+Hematemeses
+A esofagite péptica é causa de 2-6% de episódios de hemorragia digestiva alta. Quatro
+factores predispõem para hemorragia esofágica: Barrett, ingestão de AINE’s, condições
+reumatológicas e diabetes mellitus.
+Anemia ferropénica
+Acontece sobretudo quando existem as chamadas “lesões de Cameron”, ou seja, erosões detectadas em hérnias do hiato, que resultariam de fenómenos de isquémia,
+trauma mecânico ou agressão pelo ácido clorídrico.
+
+46
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+Sangue oculto nas fezes
+A esofagite péptica pode originar, com certa frequência, o aparecimento de sangue
+oculto nas fezes. Alguns autores descreveram a ocorrência de testes positivos em mais
+de um quarto dos doentes com esófago de Barrett.
+B. COMPLICAÇÕES DA DRGE
+1. Complicações Esofágicas
+• Ulceração
+• Anel de Schatzki
+• Estenose
+• Barrett ? Adenocarcinoma
+Ulceração
+A prevalência de úlcera péptica do esófago na DRGE é de cerca de 5%.
+A odinofagia é a queixa clínica mais comum, mas o doente pode referir também disfagia, dor torácica e anorexia.
+Em doentes com DRGE complicada de Barrett, deve verificar-se se a úlcera está localizada neste epitélio. Estas “úlceras de Barrett” são por vezes resistentes à terapêutica médica, e podem constituir um factor de risco independente para displasia ou cancro.
+A úlcera péptica do esófago deve ser biopsada e eventualmente submetida a outros
+estudos no contexto do exame endoscópico: cultura para vírus, fungos, micobactérias
+atípicas ou outros agentes patogénicos.
+De facto, a úlcera da DRGE pode ser macroscópicamente indistinguivel de: infecções
+virais (citomegalovírus, Herpes simplex, HIV), bacterianas (tuberculose, micobactérias
+atípicas) e fúngicas, úlceras mecânicas (síndrome de Mallory-Weiss e úlcera de
+Cameron), úlceras iatrogénicas (intubação nasogástrica, escleroterápia ou laqueação
+de varizes, medicamentos, radioterápia), úlceras neoplásicas benignas ou malignas, e
+ulceras idiopáticas (pênfigo, epidermólise bolhosa distrófica, doença de Crohn, sarcoidose e doença de Behçet).
+Anel de Schatzki
+O anel de Schatzki ocorre na junção entre o epitélio escamoso esofágico e a mucosa
+cilíndrica gástrica. O anel é usualmente fino, medindo menos de 5 mm no exame
+radiológico. A invaginação pronunciada deste anel para o lúmen esofágico pode originar disfagia.
+Desconhece-se a etiologia do anel de Schatzki. Pode tratar-se de uma variante congénita, no entanto há alguma evidência de uma maior prevalência de DRGE em doentes
+com este anel.
+
+47
+
+Doenças do Aparelho Digestivo
+
+Estenose péptica
+Cerca de 10% dos doentes em tratamento médico por DRGE desenvolvem estenose
+esofágica. A incidência desta complicação aumenta com a idade, e é mais frequente
+no sexo masculino.
+A patogénese da estenose péptica parece ser multifactorial. Alguns dados foram apurados relativamente aos doentes com DRGE complicada de estenose: (1) são menos
+sensíveis ao ácido intra-esofágico do que os doentes sem estenose; (2) apresentam
+uma pressão basal do EEI mais baixa do que os doentes sem estenose; (3) é mais
+frequente a associação com hérnia hiatal; (4) evidenciam peristalse esofágica de
+menor amplitude e frequência, circunstância que compromete a “clearance” do ácido.
+Cerca de 70% dos doentes com DRGE e estenose péptica apresentam uma história
+passada de sintomas da doença. Os restantes 30% não evidenciam queixas no passado sugestivas de DRGE. Este fenómeno tem sido atribuído à menor sensibilidade ao
+ácido no esófago, como já referimos. A maioria dos doentes apresentam disfagia para
+sólidos, podendo ocorrer odinofagia e impactação alimentar.
+Cerca de 70% das estenoses do esófago são consequência da DRGE. O exame prioritário de diagnóstico é a endoscopia complementada com biópsias. Se a estenose é
+cerrada e não permite a passagem do endoscópio, é pertinente a realização de um
+estudo baritado do esófago.
+O diagnostico diferencial das estenoses pépticas do esófago faz-se com as seguintes
+situações: estenose maligna, estenose cáustica, estenose infecciosa (sifilis, tuberculose, citomegalovirus, Herpes simplex, Candida), estenose iatrogénica (radioterápia,
+terapêutica fotodinâmica, escleroterápia ou laqueação esofágica, pós-operatória,
+ingestão de fármacos, intubação nasogástrica crónica), e estenose idiopática (epidermólise bolhosa distrófica, tilose, pênfigo, esclerodermia, membranas esofágicas, esofagite eosinofílica, doença de Crohn, sarcoidose).
+Epitélio de Barrett
+A. DEFINIÇÃO E DIAGNÓSTICO
+O esófago de Barrett é uma condição em que o epitélio escamoso estratificado que
+normalmente tapeta o esófago distal, é substituído por um epitélio cilíndrico anormal.
+Na maioria ou possivelmente em todos os casos, o Barrett é uma sequela da DRGE.
+No exame histológico o epitélio cilíndrico que recobre o esófago distal é uma forma
+incompleta de metaplasia intestinal, podendo ter características de epitélio do intestino delgado, do cólon ou do estômago.
+O diagnóstico de esófago de Barrett é suspeitado no exame endoscópico, ao observar-se uma mucosa anormal tapetando o esófago distal, de coloração avermelhada e
+textura aveludada. O diagnóstico é confirmado por biópsias, que revelam metaplasia
+intestinal especializada.
+No entanto, tem havido recentemente intensa controvérsia relativamente aos critérios
+
+48
+
+ESÓFAGO - Doença do Refluxo Gastro-Esofágico
+
+de diagnóstico do Barrett por duas razões: (1) é difícil identificar o preciso local onde
+o esófago termina e começa o estômago (isto é, a junção anatómica esofago-gástrica); e (2) em indivíduos normais pode observar-se um curto segmento do esófago distal tapetado por epitélio cilíndrico tipo gástrico (macroscópicamente indistinguível do
+epitélio metaplásico do esófago de Barrett).
+Estes dois factos tornam difícil para o endoscopista determinar se segmentos curtos
+do epitélio cilíndrico pertencem de facto ao esófago ou ao estômago (cárdia gástrico), e se o epitélio cilíndrico é anormal seja qual for a sua localização.
+No momento actual, é usualmente fácil diagnosticar segmentos longos de esófago
+tapetados por epitélio de Barrett. Nos segmentos curtos, a definição de Barrett continua controversa, tendo sido propostos recentemente dois tipos de classificação:
+Classificação de Sharma et al
+- Longo segmento de esófago de Barrett (metaplasia intestinal ≥ 3 cm)
+- Curto segmento de esófago de Barrett (metaplasia intestinal < 3 cm)
+- Metaplasia intestinal do cárdia gástrico
+Classificação de Spechler et al
+- Esófago tapetado por epitélio cilíndrico com metaplasia intestinal especializada
+- Esófago tapetado por epitélio cilíndrico sem metaplasia intestinal especializada
+- Metaplasia intestinal especializada na junção esofago-gástrica
+
+B. PATOGÉNESE
+A evidência actual sugere que há diferenças fundamentais entre as formas gástrica e
+esofágica de metaplasia intestinal.
+A primeira diferença reside no facto de existir uma estreita correlação entre a infecção
+pelo Helicobacter pylori e a metaplasia intestinal gástrica, correlação que não se
+observa no tocante à metaplasia intestinal esofágica.
+A segunda diferença situa-se na relação com a DRGE. Enquanto que esta doença é o
+maior factor de risco da metaplasia intestinal do esófago, não tem qualquer relação
+com a metaplasia gástrica.
+A terceira diferença tem a ver com o tipo morfológico e histoquímico da metaplasia
+intestinal nos dois orgãos. No estômago predomina a metaplasia completa, tipo I. No
+esófago, a metaplasia intestinal é usualmente incompleta (tipo II ou III).
+Finalmente, em estudos recentes por microscopia electrónica, concluiu-se que também
+há diferenças entre as metaplasias esofágica e gástrica no que respeita ao padrão de
+coloração das citoqueratinas.
+Se se aceita a premissa de que existem importantes diferenças na metaplasia intesti-
+
+49
+
+Doenças do Aparelho Digestivo
+
+nal detectada no esófago e no estômago, então é importante sublinhar que ao serem
+colhidas biópsias na região da junção esofago-gástrica, importa saber se essas biópsias são colhidas no esófago distal ou no cárdia gástrico.
+C. CLÍNICA DO ESÓFAGO DE BARRETT
+O esófago de Barrett tradicional é usualmente detectado em adultos na idade média
+ou idosos. A idade média na altura do diagnóstico é de 55 anos, aproximadamente.
+Na maioria das séries predominam homens de raça branca. Por razões desconhecidas,
+a raça negra é habitualmente poupada.
+A maioria dos doentes são observados inicialmente por queixas típicas de DRGE. O
+epitélio metapásico de Barrett não origina sintomas por si só, podendo mesmo ser
+menos sensível ao ácido do que a mucosa escamosa normal.
+Dentre os doentes submetidos a exame endoscópico por queixas de DRGE, o esófago de Barrett tradicional (>3-5 cm de extensão) é detectado em 10%, aproximadamente. A prevalência do Barrett está associada à duração dos sintomas. Quanto mais antigos estes forem, maior será a prevalência.
+Muitos doentes com esófago de Barrett não apresentam sintomas, ou estes são discretos, não solicitando uma avaliação endoscópica. Há dados que sugerem que mais
+de 90% de indivíduos com esófago de Barrett não procuram assistência médica por
+sintomas esofágicos, e por isso a maioria dos casos não são identificados.
+Os doentes que procuram assistência médica, têm usualmente formas severas de
+DRGE, complicada de ulceração, estenose e hemorragia. Pelo contrário, os doentes
+com segmento curto de Barrett, frequentemente não têm sintomas ou sinais de DRGE.
+D. DRGE EM DOENTES COM BARRETT
+Os doentes com esófago de Barrett tradicional evidenciam um certo número de anomalias fisiológicas que poderão contribuir para a severidade da DRGE:
+- Secreção ácida gástrica muitas vezes elevada;
+- Frequência aumentada de refluxo duodeno-gástrico (conteúdo gástrico refluido
+mais cáustico);
+- Frequente hipotensão marcada do EEI (maior predisposição para refluxo);
+- Deficiente contractilidade esofágica (atraso na clearance do ácido);
+- Alguns doentes evidenciam menor sensibilidade ao ácido (menor frequência de
+azia);
+- Menor secreção salivar do factor epidérmico do crescimento, um peptideo que
+acelera a cicatrização da úlcera péptica do esófago.
+Estas anomalias que caracterizam o esófago de Barrett tradicional, não têm sido descritas em doentes com Barrett em segmento curto do esófago. Como já frisamos, muitos destes doentes não têm sinais nem sintomas de DRGE.
+
+50
+
+

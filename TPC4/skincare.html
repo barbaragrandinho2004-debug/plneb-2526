@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S K I N T E A | A Arte do Cuidado da Pele</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Variáveis de Cor - Paleta Editorial */
+        :root {
+            --bg-light: #F9F8F6;
+            --text-dark: #1C1C1C;
+            --text-muted: #5A5A5A;
+            --accent: #A68A73;
+            --white: #FFFFFF;
+            --border: #E5E0D8;
+        }
+
+        /* Resets Base */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+
+        body {
+            font-family: 'Jost', sans-serif;
+            background-color: var(--bg-light);
+            color: var(--text-dark);
+            line-height: 1.7;
+            overflow-x: hidden;
+        }
+
+        h1, h2, h3, h4, h5 {
+            font-family: 'Cinzel', serif;
+            font-weight: 400;
+        }
+
+        /* Nav (Glassmorphism - Efeito Vidro) */
+        nav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            padding: 1.5rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(249, 248, 246, 0.85);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            z-index: 1000;
+            border-bottom: 1px solid rgba(229, 224, 216, 0.5);
+        }
+
+        .logo {
+            font-family: 'Cinzel', serif;
+            font-size: 1.5rem;
+            letter-spacing: 4px;
+            text-decoration: none;
+            color: var(--text-dark);
+        }
+
+        .nav-links {
+            display: flex;
+            gap: 2rem;
+        }
+
+        .nav-links a {
+            text-decoration: none;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            transition: color 0.3s ease;
+        }
+
+        .nav-links a:hover { color: var(--accent); }
+
+        /* Hero Section (Ecrã Inicial) */
+        .hero {
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            background: linear-gradient(rgba(249, 248, 246, 0.7), rgba(249, 248, 246, 1)), 
+                        url('https://images.unsplash.com/photo-1615397323386-b45d06b52c1e?auto=format&fit=crop&w=1920&q=80') center/cover no-repeat;
+            padding-top: 80px;
+        }
+
+        .hero-content h1 {
+            font-size: 4.5rem;
+            letter-spacing: 2px;
+            margin-bottom: 1rem;
+        }
+
+        .hero-content p {
+            font-size: 1.2rem;
+            max-width: 600px;
+            margin: 0 auto 2rem;
+            color: var(--text-muted);
+        }
+
+        .btn-primary {
+            display: inline-block;
+            padding: 1rem 2.5rem;
+            background-color: var(--text-dark);
+            color: var(--white);
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: 0.85rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn-primary:hover { background-color: var(--accent); }
+
+        /* Layouts de Secção Globais */
+        .section-padding { padding: 8rem 2rem; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .section-title {
+            text-align: center;
+            font-size: 2.8rem;
+            margin-bottom: 4rem;
+            position: relative;
+        }
+        .section-title::after {
+            content: '';
+            display: block;
+            width: 60px;
+            height: 1px;
+            background-color: var(--accent);
+            margin: 1.5rem auto 0;
+        }
+
+        /* Secção: A Importância */
+        .importance-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 3rem;
+        }
+
+        .importance-card {
+            background: var(--white);
+            text-align: center;
+            border: 1px solid var(--border);
+            transition: transform 0.4s ease;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .importance-card:hover { transform: translateY(-10px); }
+        
+        .importance-img {
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .importance-text-area {
+            padding: 2rem;
+        }
+
+        .importance-text-area span {
+            font-family: 'Cinzel', serif;
+            font-size: 2rem;
+            color: var(--accent);
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        
+        .importance-text-area h3 { margin-bottom: 1rem; font-size: 1.5rem; }
+
+        /* Secção: História */
+        .history-layout {
+            display: flex;
+            flex-direction: column;
+            gap: 4rem;
+        }
+
+        .history-row {
+            display: flex;
+            align-items: center;
+            gap: 4rem;
+        }
+
+        .history-row:nth-child(even) { flex-direction: row-reverse; }
+
+        .history-img {
+            flex: 1;
+            height: 400px;
+            overflow: hidden;
+        }
+
+        .history-img img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            transition: transform 0.6s ease;
+        }
+
+        .history-row:hover .history-img img { transform: scale(1.05); }
+
+        
+
+        .history-text { flex: 1; }
+        .history-text h4 { color: var(--accent); font-size: 1.2rem; margin-bottom: 0.5rem; }
+        .history-text h3 { font-size: 2rem; margin-bottom: 1rem; }
+
+        /* Secção: Protocolos */
+        .tabs {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-bottom: 2rem;
+        }
+
+        .tab-btn {
+            background: none;
+            border: none;
+            font-family: 'Cinzel', serif;
+            font-size: 1.5rem;
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: color 0.3s ease;
+            position: relative;
+            padding-bottom: 0.5rem;
+        }
+
+        .tab-btn.active { color: var(--text-dark); }
+        .tab-btn::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 2px;
+            background-color: var(--text-dark);
+            transform: scaleX(0);
+            transition: transform 0.3s ease;
+        }
+        .tab-btn.active::after { transform: scaleX(1); }
+
+        .routine-content { display: none; opacity: 0; }
+        .routine-content.show { display: block; animation: fadeIn 0.8s forwards; }
+
+        /* Sub-Tabs (Dia / Noite) */
+        .sub-tabs {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 1rem;
+        }
+
+        .sub-tab-btn {
+            background-color: transparent;
+            border: 1px solid var(--border);
+            padding: 0.5rem 1.5rem;
+            font-family: 'Jost', sans-serif;
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            color: var(--text-muted);
+        }
+
+        .sub-tab-btn.active, .sub-tab-btn:hover {
+            background-color: var(--text-dark);
+            color: var(--white);
+            border-color: var(--text-dark);
+        }
+
+        .sub-routine-content { display: none; }
+        .sub-routine-content.show { display: block; animation: fadeIn 0.5s forwards; }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(15px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .products-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 2rem;
+        }
+
+        .product-card {
+            display: flex;
+            gap: 1.5rem;
+            background: var(--white);
+            padding: 2rem;
+            border: 1px solid var(--border);
+            align-items: center;
+        }
+
+        .product-img { width: 120px; height: 120px; flex-shrink: 0; }
+        .product-img img { width: 100%; height: 100%; object-fit: contain; mix-blend-mode: multiply; }
+        .product-info h5 { font-family: 'Jost', sans-serif; font-weight: 500; font-size: 1.1rem; margin-bottom: 0.5rem; }
+        
+
+        /* Contentor flex para alinhar os dois produtos */
+        .product-img-double {
+            display: flex;
+            align-items: center; /* Centra verticalmente */
+            justify-content: center; /* Centra horizontalmente */
+            gap: 0.5rem; /* Pequeno espaço entre as imagens e o sinal de mais */
+            width: 150px; /* Alargado um pouco para caber as duas imagens */
+        }
+
+        /* Ajuste das imagens dentro do contentor duplo */
+        .product-img-double img {
+            width: 45%; /* Cada imagem ocupa quase metade do espaço */
+            height: 100%;
+            object-fit: contain;
+        }
+
+        /* Estilo para o sinal de '+' entre os produtos */
+        .plus-icon {
+            font-size: 1.2rem;
+            color: var(--accent);
+            font-weight: 500;
+        }
+        .tag { font-size: 0.75rem; color: var(--accent); text-transform: uppercase; letter-spacing: 1px; display: block; margin-bottom: 0.5rem; }
+
+        /* Secção: Passos Adicionais */
+        .additional-steps {
+            display: flex;
+            align-items: center;
+            gap: 4rem;
+            background: var(--white);
+            border: 1px solid var(--border);
+            padding: 4rem;
+            margin-top: 2rem;
+        }
+
+        .additional-img { flex: 1; height: 350px; overflow: hidden; }
+        .additional-img img { width: 100%; height: 100%; object-fit: cover; }
+        .additional-text { flex: 1; }
+        .additional-text h3 { font-size: 2rem; margin-bottom: 1.5rem; }
+
+        /* Animações de Scroll */
+        .reveal {
+            opacity: 0;
+            transform: translateY(60px);
+            transition: all 0.8s cubic-bezier(0.5, 0, 0, 1);
+        }
+        .reveal.active { opacity: 1; transform: translateY(0); }
+
+        /* Footer */
+        footer {
+            background-color: var(--text-dark);
+            color: var(--bg-light);
+            text-align: center;
+            padding: 3rem 2rem;
+            margin-top: 4rem;
+        }
+
+        /* Responsividade para telemóveis */
+        @media (max-width: 768px) {
+            .nav-links { display: none; }
+            .hero-content h1 { font-size: 3rem; }
+            .history-row, .additional-steps { flex-direction: column !important; padding: 2rem; }
+            .history-img, .additional-img { height: 250px; width: 100%; }
+            .product-card { flex-direction: column; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="#inicio" class="logo">SKINTEA</a>
+        <div class="nav-links">
+            <a href="#importancia">Importância</a>
+            <a href="#historia">História</a>
+            <a href="#protocolos">Protocolos</a>
+            <a href="#adicionais">Extras</a>
+        </div>
+    </nav>
+
+    <section id="inicio" class="hero">
+        <div class="hero-content reveal">
+            <h1>A Arte de Cuidar da Pele</h1>
+            <p>Mais do que estética, a pele é a principal fronteira entre o teu corpo e o mundo. Descobre a ciência, a história e os protocolos para uma pele saudável.</p>
+            <a href="#protocolos" class="btn-primary">Descobrir Protocolos</a>
+        </div>
+    </section>
+
+    <section id="importancia" class="section-padding container">
+        <h2 class="section-title reveal">Porquê Skincare?</h2>
+        <div class="importance-grid">
+            <div class="importance-card reveal">
+                <img src="imagens/barreiracutanea.png" alt="Barreira Cutânea" class="importance-img">
+                <div class="importance-text-area">
+                    <span>I</span>
+                    <h3>A Barreira Cutânea</h3>
+                    <p>A pele é o maior órgão do corpo humano. Uma rotina adequada mantém a barreira lipídica forte, bloqueando bactérias, poluição e prevenindo a perda de água transepidérmica.</p>
+                </div>
+            </div>
+            <div class="importance-card reveal">
+                <img src="imagens/protetorsolar.webp" alt="Prevenção" class="importance-img">
+                <div class="importance-text-area">
+                    <span>II</span>
+                    <h3>Prevenção Ativa</h3>
+                    <p>Mais vale prevenir do que remediar. O uso diário de protetor solar (FPS) e antioxidantes retarda o envelhecimento precoce, manchas e previne patologias graves como o melanoma.</p>
+                </div>
+            </div>
+            <div class="importance-card reveal">
+                <img src="imagens/saudemental.webp" alt="Saúde Mental" class="importance-img">
+                <div class="importance-text-area">
+                    <span>III</span>
+                    <h3>Saúde Mental</h3>
+                    <p>Estudos demonstram que a rotina de skincare reduz os níveis de cortisol (hormona do stress). São 10 minutos do teu dia dedicados exclusivamente ao teu autocuidado.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="historia" class="section-padding container">
+        <h2 class="section-title reveal">A Evolução da Beleza</h2>
+        <div class="history-layout">
+            
+            <div class="history-row reveal">
+                <div class="history-img"><img src="imagens/egito.webp" alt="Antiguidade"></div>
+                <div class="history-text">
+                    <h4>3000 a.C.</h4>
+                    <h3>O Antigo Egito</h3>
+                    <p>A história do cuidado da pele não é recente. Cleópatra banhava-se em leite azedo (rico em ácido lático, um esfoliante natural que usamos até hoje) e usavam óleos de sésamo e rícino para proteger a pele do sol escaldante do deserto e prevenir rugas.</p>
+                </div>
+            </div>
+
+            <div class="history-row reveal">
+                <div class="history-img"><img src="imagens/idademedia.webp" alt="Renascimento"></div>
+                <div class="history-text">
+                    <h4>Séculos XV - XVI</h4>
+                    <h3>O Renascimento e o Perigo</h3>
+                    <p>Na Europa Renascentista, a pele extremamente pálida era um símbolo de riqueza e nobreza. Infelizmente, para alcançar este visual, as mulheres usavam pó de chumbo branco (Cerusa Veneziana), um cosmético altamente tóxico que destruía a pele e a saúde a longo prazo.</p>
+                </div>
+            </div>
+
+            <div class="history-row reveal">
+                <div class="history-img"><img src="imagens/primeirofps.jpg" alt="Laboratório"></div>
+                <div class="history-text">
+                    <h4>Século XX</h4>
+                    <h3>A Revolução Científica</h3>
+                    <p>A cosmética passou da intuição para a ciência. O início do século XX trouxe a criação do primeiro protetor solar comercial e a descoberta de ingredientes sintéticos seguros, estabilizando fórmulas que permitiam hidratação profunda sem os riscos de contaminação do passado.</p>
+                </div>
+            </div>
+
+            <div class="history-row reveal">
+                <div class="history-img"><img src="imagens/kbeauty.jpg" alt="K-Beauty"></div>
+                <div class="history-text">
+                    <h4>Atualidade</h4>
+                    <h3>A Era K-Beauty & Ativos</h3>
+                    <p>Hoje, o foco é a pele "Glass Skin" originária da Coreia do Sul (K-Beauty) e o minimalismo de ativos clínicos. Ingredientes como Ácido Hialurónico, Niacinamida e Retinol ditam as regras de rotinas altamente personalizadas para cada tipo de pele.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="protocolos" class="section-padding container">
+        <h2 class="section-title reveal">Diagnóstico & Protocolo</h2>
+        
+        <div class="tabs reveal">
+            <button class="tab-btn active" onclick="switchMainTab('oleosa', this)">Pele Oleosa</button>
+            <button class="tab-btn" onclick="switchMainTab('mista', this)">Pele Mista</button>
+            <button class="tab-btn" onclick="switchMainTab('seca', this)">Pele Seca</button>
+        </div>
+
+        <div id="oleosa" class="routine-content show reveal">
+            <div class="sub-tabs">
+                <button class="sub-tab-btn active" onclick="switchSubTab('oleosa-dia', this)">Rotina de Dia</button>
+                <button class="sub-tab-btn" onclick="switchSubTab('oleosa-noite', this)">Rotina de Noite</button>
+            </div>
+
+            <div id="oleosa-dia" class="sub-routine-content show">
+                <div class="products-grid">
+                    <div class="product-card"><div class="product-img"><img src="imagens/cerave.jpg" alt="Limpeza"></div><div class="product-info"><span class="tag">1. Limpeza</span><h5>CeraVe Blemish Control Cleanser</h5><p>Gel com ácido salicílico. Remove o excesso de sebo matinal e previne borbulhas.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/ordinary.jpg" alt="Sérum"></div><div class="product-info"><span class="tag">2. Sérum Leve</span><h5>The Ordinary Niacinamide 10% + Zinc</h5><p>A niacinamida regula a produção de óleo e reduz a aparência dos poros dilatados.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/neutrogena.png" alt="Hidratante"></div><div class="product-info"><span class="tag">3. Hidratante</span><h5>Neutrogena Hydro Boost Water Gel</h5><p>Textura em gel aquoso. Hidrata profundamente sem adicionar peso ou óleo à pele.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/eucerin.jpg" alt="FPS"></div><div class="product-info"><span class="tag">4. Protetor Solar</span><h5>Eucerin Oil Control FPS 50+</h5><p>Fluido toque seco. Contém partículas matificantes para impedir o brilho durante o dia.</p></div></div>
+                </div>
+            </div>
+
+            <div id="oleosa-noite" class="sub-routine-content">
+                <div class="products-grid">
+                    <div class="product-card">
+                        <div class="product-img product-img-double">
+                            <img src="imagens/anua.jpg" alt="Óleo Anua">
+                            <span class="plus-icon">+</span>
+                            <img src="imagens/cerave.jpg" alt="Gel CeraVe"> </div>
+                        <div class="product-info">
+                            <span class="tag">1. Dupla Limpeza</span>
+                            <h5>Anua Pore Control Oil + Gel CeraVe</h5>
+                            <p>O óleo dissolve o protetor e pontos negros; o gel retira os resíduos finais do óleo.</p>
+                        </div>
+                    </div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/paula.webp" alt="Tratamento"></div><div class="product-info"><span class="tag">2. Sérum de Tratamento</span><h5>Paula's Choice 2% BHA Liquid</h5><p>Esfoliante químico forte para penetrar e desobstruir poros durante a noite.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/laroche.avif" alt="Hidratante Noite"></div><div class="product-info"><span class="tag">3. Hidratante</span><h5>La Roche-Posay Effaclar Mat</h5><p>Sela os tratamentos, hidrata a pele oleosa e afina a textura ao longo do descanso.</p></div></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="mista" class="routine-content reveal">
+            <div class="sub-tabs">
+                <button class="sub-tab-btn active" onclick="switchSubTab('mista-dia', this)">Rotina de Dia</button>
+                <button class="sub-tab-btn" onclick="switchSubTab('mista-noite', this)">Rotina de Noite</button>
+            </div>
+
+            <div id="mista-dia" class="sub-routine-content show">
+                <div class="products-grid">
+                    <div class="product-card"><div class="product-img"><img src="imagens/cosrx.webp" alt="Limpeza"></div><div class="product-info"><span class="tag">1. Limpeza</span><h5>COSRX Low pH Good Morning Gel</h5><p>Limpa a zona T oleosa respeitando as bochechas secas graças ao seu pH equilibrado.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/vichy.jpg" alt="Sérum"></div><div class="product-info"><span class="tag">2. Sérum Leve</span><h5>Vichy Minéral 89 Booster</h5><p>Gel de água vulcânica. Fortalece a barreira de ambas as zonas (oleosa e seca).</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/byoma.avif" alt="Hidratante"></div><div class="product-info"><span class="tag">3. Hidratante</span><h5>Byoma Moisturizing Gel Cream</h5><p>Textura leve com ceramidas que reparam a pele sem causar congestionamento.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/beauty.webp" alt="FPS"></div><div class="product-info"><span class="tag">4. Protetor Solar</span><h5>Beauty of Joseon Relief Sun Rice</h5><p>K-Beauty favorito. Hidrata como um creme ligeiro e não pesa na zona T.</p></div></div>
+                </div>
+            </div>
+
+            <div id="mista-noite" class="sub-routine-content">
+                <div class="products-grid">
+                    <div class="product-card">
+                        <div class="product-img product-img-double">
+                            <img src="imagens/heimish.jpg" alt="Bálsamo Heimish">
+                            <span class="plus-icon">+</span>
+                            <img src="imagens/cosrx.webp" alt="Gel COSRX"> </div>
+                        <div class="product-info">
+                            <span class="tag">1. Dupla Limpeza</span>
+                            <h5>Heimish Balm + Gel COSRX</h5>
+                            <p>Bálsamo calmante para derreter impurezas mistas sem repuxar a barreira cutânea.</p>
+                        </div>
+                    </div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/glowrecipe.avif" alt="Tratamento"></div><div class="product-info"><span class="tag">2. Tónico de Tratamento</span><h5>Glow Recipe Watermelon PHA+BHA</h5><p>Ácidos suaves (PHA e BHA) que esfoliam a zona T e hidratam as áreas secas.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/ceravehidra.webp" alt="Hidratante Noite"></div><div class="product-info"><span class="tag">3. Hidratante</span><h5>CeraVe PM Facial Lotion</h5><p>Loção ultra leve com niacinamida para reparar a dualidade da pele durante a noite.</p></div></div>
+                </div>
+            </div>
+        </div>
+
+        <div id="seca" class="routine-content reveal">
+            <div class="sub-tabs">
+                <button class="sub-tab-btn active" onclick="switchSubTab('seca-dia', this)">Rotina de Dia</button>
+                <button class="sub-tab-btn" onclick="switchSubTab('seca-noite', this)">Rotina de Noite</button>
+            </div>
+
+            <div id="seca-dia" class="sub-routine-content show">
+                <div class="products-grid">
+                    <div class="product-card"><div class="product-img"><img src="imagens/ceravehydratingcleanser.jpg" alt="Limpeza"></div><div class="product-info"><span class="tag">1. Limpeza</span><h5>CeraVe Hydrating Cleanser</h5><p>Loção de limpeza que não faz espuma. Limpa mantendo a hidratação natural da pele seca.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/loreal.jpg" alt="Sérum"></div><div class="product-info"><span class="tag">2. Sérum Leve</span><h5>L'Oréal Revitalift Hyaluronic Acid</h5><p>Aplica-se em pele húmida para atrair e reter 1000x o seu peso em água na pele.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/larochehidra.webp" alt="Hidratante"></div><div class="product-info"><span class="tag">3. Hidratante</span><h5>La Roche-Posay Toleriane Double</h5><p>Creme nutritivo que repara intensamente e acalma a sensação de descamação.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/instree.webp" alt="FPS"></div><div class="product-info"><span class="tag">4. Protetor Solar</span><h5>Isntree Hyaluronic Acid Sun Gel</h5><p>Filtros químicos com textura rica e extra hidratante que deixa um brilho saudável.</p></div></div>
+                </div>
+            </div>
+
+            <div id="seca-noite" class="sub-routine-content">
+                <div class="products-grid">
+                    <div class="product-card">
+                        <div class="product-img product-img-double">
+                            <img src="imagens/the inkey list.avif" alt="Bálsamo de Aveia">
+                            <span class="plus-icon">+</span>
+                            <img src="imagens/ceravehydratingcleanser.jpg" alt="Loção CeraVe"> </div>
+                        <div class="product-info">
+                            <span class="tag">1. Dupla Limpeza</span>
+                            <h5>Oat Cleansing Balm + Loção CeraVe</h5>
+                            <p>Bálsamo de aveia mega nutritivo que remove maquilhagem deixando a pele elástica.</p>
+                        </div>
+                    </div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/acidolatico.jpg" alt="Tratamento"></div><div class="product-info"><span class="tag">2. Sérum de Tratamento</span><h5>The Ordinary Lactic Acid 5%</h5><p>Ácido lático muito suave que remove células mortas secas sem irritar a pele sensível.</p></div></div>
+                    <div class="product-card"><div class="product-img"><img src="imagens/illiyoon.jpg" alt="Hidratante Noite"></div><div class="product-info"><span class="tag">3. Hidratante</span><h5>Illiyoon Ceramide Ato Concentrate</h5><p>Creme coreano intensivo que cria uma barreira espessa (slugging) para reter nutrição.</p></div></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="adicionais" class="section-padding container reveal">
+        <h2 class="section-title">Passos Adicionais</h2>
+        <div class="additional-steps">
+            <div class="additional-img">
+                <img src="imagens/mascaras.webp" alt="Máscara Facial">
+            </div>
+            <div class="additional-text">
+                <h3>O Poder das Máscaras Faciais</h3>
+                <p>As máscaras faciais (usadas cerca de 1 a 3 vezes por semana) são o complemento perfeito para elevar qualquer rotina.</p>
+                <br>
+                <p>Os benefícios são numerosos e dependem do tipo de máscara que estás a utilizar (argila purificante, <i>sheet masks</i> coreanas de hidratação, ou máscaras de vitamina C para luminosidade). Normalmente todas contêm uma elevada concentração de ingredientes ativos formulados para tratar preocupações específicas e dar um <i>boost</i> imediato à pele.</p>
+                <br>
+                <p>Além da ciência, são também uma ótima opção para uma sessão de mimo e relaxamento profundo em casa. A sua utilização regular consolida e aumenta significativamente a eficácia da tua rotina diária de skincare.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>SKINTEA &copy; 2024. Nunca deixes de cuidar de ti!</p>
+        <p style="font-size: 0.8rem; margin-top: 1rem; color: rgba(255,255,255,0.5)">Todos os protocolos devem ser validados por um dermatologista.</p>
+    </footer>
+
+    <script>
+        // 1. Alternar entre Tipos de Pele (Aba Principal)
+        function switchMainTab(skinType, btnElement) {
+            const routines = document.querySelectorAll('.routine-content');
+            routines.forEach(r => r.classList.remove('show'));
+
+            const buttons = document.querySelectorAll('.tab-btn');
+            buttons.forEach(b => b.classList.remove('active'));
+
+            btnElement.classList.add('active');
+            
+            // Mostrar a aba de pele correspondente
+            const activeSkinContainer = document.getElementById(skinType);
+            activeSkinContainer.classList.add('show');
+
+            // Resetar as sub-abas para mostrar a Rotina de Dia por defeito sempre que se muda a pele
+            const firstSubTabBtn = activeSkinContainer.querySelector('.sub-tab-btn');
+            if(firstSubTabBtn) firstSubTabBtn.click();
+        }
+
+        // 2. Alternar entre Dia e Noite (Sub-abas)
+        function switchSubTab(routineTime, btnElement) {
+            // Procurar apenas dentro da aba de pele que está ativa atualmente
+            const parent = btnElement.closest('.routine-content');
+            
+            const contents = parent.querySelectorAll('.sub-routine-content');
+            contents.forEach(c => c.classList.remove('show'));
+
+            const buttons = parent.querySelectorAll('.sub-tab-btn');
+            buttons.forEach(b => b.classList.remove('active'));
+
+            btnElement.classList.add('active');
+            document.getElementById(routineTime).classList.add('show');
+        }
+
+        // 3. Animações de Scroll
+        const revealElements = document.querySelectorAll('.reveal');
+        const revealOptions = {
+            threshold: 0.15,
+            rootMargin: "0px 0px -50px 0px"
+        };
+        const revealOnScroll = new IntersectionObserver(function(entries, observer) {
+            entries.forEach(entry => {
+                if (!entry.isIntersecting) return;
+                entry.target.classList.add('active');
+                observer.unobserve(entry.target);
+            });
+        }, revealOptions);
+
+        revealElements.forEach(el => {
+            revealOnScroll.observe(el);
+        });
+    </script>
+</body>
+</html>
