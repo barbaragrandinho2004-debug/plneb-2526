@@ -1,0 +1,184 @@
+{% extends 'layout.html' %}
+
+{% block head %}
+    <title> Dicionário Médico | Página Inicial </title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            /* A tua paleta Pastel ✨ */
+            --fundo-creme: #FFFAF0;
+            --roxo-pastel-bg: #EADDFF;
+            --roxo-pastel-texto: #4F378B;
+            --azul-pastel-borda: #B3E5FC;
+            --azul-pastel-texto: #0288D1;
+            --lavanda-borda: #E1BEE7;
+            --lavanda-texto: #8E24AA;
+            --rosa-pastel-bg: #FCE4EC;
+            --rosa-pastel-texto: #D81B60;
+            --rosa-botao: #F48FB1;
+            --rosa-botao-hover: #F06292;
+            --texto-geral: #5c5c5c;
+        }
+
+        body {
+            background-color: var(--fundo-creme);
+            color: var(--texto-geral);
+            font-family: 'Nunito', sans-serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        main { flex: 1; }
+
+        /* Banner Principal (Hero) */
+        .hero-pastel {
+            background-color: var(--roxo-pastel-bg);
+            color: var(--roxo-pastel-texto);
+            border-radius: 35px; /* Bordas super redondas */
+        }
+
+        .hero-title {
+            font-weight: 800;
+            color: var(--roxo-pastel-texto);
+        }
+
+        .highlight-number {
+            color: var(--rosa-botao-hover);
+            font-weight: 800;
+            font-size: 1.3em;
+        }
+
+        /* Botões */
+        .btn-pastel {
+            background-color: var(--rosa-botao);
+            color: white !important;
+            border: none;
+            border-radius: 30px;
+            font-weight: 800;
+            padding: 12px 35px;
+            font-size: 1.1rem;
+            transition: all 0.3s ease;
+        }
+
+        .btn-pastel:hover {
+            background-color: var(--rosa-botao-hover);
+            transform: translateY(-3px); /* Dá um saltinho ao passar o rato */
+            box-shadow: 0 8px 15px rgba(240, 98, 146, 0.4);
+        }
+
+        .btn-outline-azul {
+            background-color: transparent;
+            color: var(--azul-pastel-texto) !important;
+            border: 2px solid var(--azul-pastel-borda);
+            border-radius: 30px;
+            font-weight: 800;
+            transition: all 0.3s ease;
+        }
+
+        .btn-outline-azul:hover {
+            background-color: var(--azul-pastel-borda);
+            color: var(--azul-pastel-texto) !important;
+        }
+
+        /* Cartões de Informação */
+        .card-pastel {
+            background-color: white;
+            border-radius: 25px;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.03);
+            transition: transform 0.3s ease;
+        }
+
+        .card-pastel:hover {
+            transform: translateY(-5px);
+        }
+
+        /* Cores específicas de cada cartão */
+        .card-azul { border: 3px solid var(--azul-pastel-borda); }
+        .card-azul h3 { color: var(--azul-pastel-texto); }
+
+        .card-roxo { border: 3px solid var(--lavanda-borda); }
+        .card-roxo h3 { color: var(--lavanda-texto); }
+
+        .card-rosa { 
+            background-color: var(--rosa-pastel-bg); 
+            border: none; 
+        }
+        .card-rosa h3 { color: var(--rosa-pastel-texto); }
+        .card-rosa p { color: #AD1457; }
+
+        /* Rodapé */
+        footer {
+            background-color: transparent;
+            color: #bcaaa4;
+            font-weight: 600;
+        }
+    </style>
+{% endblock %}
+
+{% block body %}
+    <div class="container my-5">
+        
+        <div class="p-5 hero-pastel shadow-sm mb-5 text-center">
+            <div class="container-fluid py-4">
+                <h1 class="display-4 hero-title mb-3">Bem-vindo ao Dicionário Médico Online</h1>
+                
+                <p class="col-md-10 mx-auto fs-4">
+                    Sua referência de confiança e acessível para mais de 
+                    <span class="highlight-number">{{ num_conceitos }}</span> 
+                    termos e conceitos médicos.
+                </p>
+                
+                <p class="col-md-10 mx-auto fs-5 opacity-75 font-weight-bold">
+                    Simplificando a terminologia médica para todos.
+                </p>
+
+                <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mt-5">
+                    <a href="/conceitos" class="btn btn-pastel btn-lg shadow-sm">Explorar Todos os Conceitos</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="row align-items-md-stretch mb-5">
+            
+            <div class="col-md-4 mb-4 mb-md-0">
+                <div class="h-100 p-5 card-pastel card-azul d-flex flex-column justify-content-between">
+                    <div>
+                        <h3 class="fw-bold mb-3">O Que É?</h3>
+                        <p>Este dicionário fornece definições claras e concisas para uma vasta gama de termos médicos, desde diagnósticos a tratamentos e procedimentos.</p>
+                    </div>
+                    <a href="/api/conceitos" class="btn btn-outline-azul w-100 mt-3">Ver API (Dados Brutos)</a>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4 mb-md-0">
+                <div class="h-100 p-5 card-pastel card-roxo d-flex flex-column justify-content-between">
+                    <div>
+                        <h3 class="fw-bold mb-3">Como Usar?</h3>
+                        <p>Clique no botão principal acima para ver a lista completa de termos alfabeticamente ou use o link de exploração abaixo.</p>
+                    </div>
+                    <a href="/conceitos" class="btn btn-pastel w-100 mt-3 shadow-sm">Ir para a Lista</a>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="h-100 p-5 card-pastel card-rosa d-flex flex-column justify-content-between">
+                    <div>
+                        <h3 class="fw-bold mb-3">UC de PLN</h3>
+                        <p>Este projeto foi desenvolvido como parte da Unidade Curricular de PLN para disponibilizar recursos acessíveis na área da saúde.</p>
+                    </div>
+                    <p class="small mt-3 fw-bold opacity-75">UC: PLN &middot; Ano: 4º &middot; Semestre: 2º</p>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+
+    <footer class="pt-4 mt-5 text-center">
+        <div class="container pb-4">
+            Dicionário Médico &middot; Braga, Portugal &middot; UC: PLN
+        </div>
+    </footer>
+{% endblock %}

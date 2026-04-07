@@ -1,0 +1,85 @@
+{% extends 'layout.html' %}
+
+{% block head %}
+    <title> Lista de Conceitos </title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --fundo-creme: #FFFAF0;
+            --roxo-pastel-bg: #EADDFF;
+            --roxo-pastel-texto: #4F378B;
+            --rosa-botao: #F48FB1;
+            --rosa-botao-hover: #F06292;
+            --texto-geral: #5c5c5c;
+        }
+
+        body {
+            background-color: var(--fundo-creme);
+            color: var(--texto-geral);
+            font-family: 'Nunito', sans-serif;
+        }
+
+        .page-title {
+            color: var(--roxo-pastel-texto);
+            font-weight: 800;
+        }
+
+        /* Estilo da lista */
+        .lista-pastel {
+            background-color: transparent;
+        }
+
+        .lista-pastel .list-group-item {
+            border: 2px solid transparent;
+            border-radius: 15px !important; /* Bordas redondas em cada item */
+            margin-bottom: 12px; /* Espaço entre os itens */
+            background-color: white;
+            color: var(--texto-geral);
+            font-weight: 600;
+            padding: 15px 25px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+            transition: all 0.3s ease;
+        }
+
+        /* Efeito ao passar o rato (Hover) */
+        .lista-pastel .list-group-item:hover {
+            background-color: var(--roxo-pastel-bg);
+            color: var(--roxo-pastel-texto);
+            transform: translateX(8px); /* Dá um pequeno salto para a direita */
+            border-color: var(--roxo-pastel-texto);
+        }
+
+        /* Botão Voltar */
+        .btn-voltar {
+            background-color: var(--rosa-botao);
+            color: white !important;
+            border-radius: 20px;
+            font-weight: 800;
+            padding: 8px 20px;
+            transition: all 0.3s ease;
+        }
+        .btn-voltar:hover {
+            background-color: var(--rosa-botao-hover);
+            transform: translateY(-2px);
+        }
+    </style>
+{% endblock %}
+
+{% block body %}
+    <div class="container my-5" style="max-width: 900px;">
+        
+        <div class="d-flex justify-content-between align-items-center mb-5">
+            <a href="/" class="btn btn-voltar shadow-sm">&larr; Voltar à Home</a>
+            <h1 class="page-title m-0">Lista de Conceitos</h1>
+            <div style="width: 140px;"></div> </div>
+
+        <div class="list-group lista-pastel">
+            {% for conceito in conceitos %}    
+               <a href="/conceitos/{{conceito}}" class="list-group-item list-group-item-action">{{conceito}}</a> 
+            {% endfor %}
+        </div>
+
+    </div>
+{% endblock %}
