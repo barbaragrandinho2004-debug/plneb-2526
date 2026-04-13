@@ -127,7 +127,7 @@ for bloco in blocos:
 # FASE 3: EXPORTAR PARA JSON
 # ==========================================
 
-with open("medicina.json", "w", encoding="utf-8") as f_out:
+with open("jsons_temporarios/medicina.json", "w", encoding="utf-8") as f_out:
     json.dump(dicionario_medicina, f_out, ensure_ascii=False, indent=4)
 
 print(f"Processamento limpo concluído! Foram extraídos {len(dicionario_medicina)} conceitos.")
