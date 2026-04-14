@@ -1,85 +1,56 @@
 import re
-
 import json
 
-
-
 def extrair_ministerio_saude(caminho_xml):
-
-    print(f"[{caminho_xml}] A iniciar extração ...")
-
-   
-
-    f = open(caminho_xml, 'r', encoding='utf-8')
-
-    texto = f.read()
-
-
-
-    # 1. Limpeza Inicial
-
-    texto = re.sub(r'ﬁ', 'fi', texto)
-
-    texto = re.sub(r'ﬂ', 'fl', texto)
+    print(f"[{caminho_xml}] A iniciar extraçãO ...")
+    
+    with open(caminho_xml, 'r', encoding='utf-8') as f:
+        texto = f.read()
 
     
+    # 1. LIMPEZA DIRETO NO XML
+    
+    # Remove as tags de páginas, imagens e pdf2xml que não interessam
+    texto = re.sub(r"</?page.*?>", r"", texto) 
+    texto = re.sub(r"</?pdf2xml.*?>", r"", texto)
+    texto = re.sub(r"</?image.*?>", r"", texto) 
 
+    # Remove números de página (15), siglas laterais (23, 25) e letras capitulares (22)
+    padrao_fontes_lixo = r'<text[^>]*font="(22|15|25|23)"[^>]*>.*?</text>\n?'
+    texto = re.sub(padrao_fontes_lixo, r"", texto)
+    
+    
+
+    
+    # 2. LIMPEZA INICIAL 
+    
+    texto = re.sub(r'ﬁ', 'fi', texto)
+    texto = re.sub(r'ﬂ', 'fl', texto)
+    texto = re.sub(r'fi\s+([a-zÀ-ÿ])', r'fi\1', texto) 
+
+    # Transformar quebras de linha em espaços
     texto = re.sub(r'\n', ' ', texto)
-
     texto = re.sub(r'\s+', ' ', texto)
 
-    # Resolve ligaturas "fi " (ex: profi ssional -> profissional)
-    texto = re.sub(r'fi\s+([a-zÀ-ÿ])', r'fi\1', texto)
-
-
-
-    # 2. COLAR TERMOS PARTIDOS
-
+    
+    # 3. MARCAÇÃO DE TERMOS E LIMPEZA XML
+    
     texto = re.sub(r'</b></text>\s*<text[^>]*>\s*<b>', ' ', texto)
-
-
-
-    # 3. MARCAR TERMOS PARA EXTRAÇÃO
-
-    # 3a. Regra da fonte 21
-
     texto = re.sub(r'<text[^>]*font="21"[^>]*><b>(.*?)</b></text>', r'###TERMO###\1', texto)
-
-    # 3b. Regra do Negrito + Categoria/Ver (A rede de arrasto)
-
     texto = re.sub(r'<b>(.*?)</b></text>\s*<text[^>]*>\s*(?:Categoria|Ver)', r'###TERMO###\1 <text>Categoria', texto)
-
-   
-
-    # 4. Limpeza das tags XML
-
-    texto = re.sub(r'<text[^>]*>|</text>|<i>|</i>|<b>|</b>|<image[^>]*>|<page[^>]*>|</page>|<\?xml[^>]*>|<!DOCTYPE[^>]*>|<fontspec[^>]*>', ' ', texto)
-
+    
+    # Limpar o resto do XML
+    texto = re.sub(r'<text[^>]*>|</text>|<i>|</i>|<b>|</b>|<fontspec[^>]*>', ' ', texto)
     texto = re.sub(r'\s+', ' ', texto).strip()
 
-
-
-    # CORREÇÃO DA HIFENIZAÇÃO
-
-    # Agora inclui letras com acentos e cedilhas (ex: á, í, ç) para juntar "pú- blica"
-
+    # Correção de Hifenização
     texto = re.sub(r'([a-zA-ZÀ-ÿ])- ([a-zA-ZÀ-ÿ])', r'\1\2', texto)
 
-    texto = re.sub(r' [A-Z] \d{2,3} ', ' ', texto)
-
-
-
-    # 5. Cortar lixo inicial
-
+    # 4. Cortar a parte inicial
     partes_inicio = re.split(r'###TERMO###Abordagem médica', texto, maxsplit=1)
-
     if len(partes_inicio) > 1:
-
         texto = "###TERMO###Abordagem médica" + partes_inicio[1]
 
-
-
-    # 6. Dividir os conceitos
 
     blocos = re.split(r'###TERMO###', texto)
 
@@ -109,13 +80,13 @@ def extrair_ministerio_saude(caminho_xml):
 
         "Políticas Públicas e Saúde", "Promoção e Educação em Saúde",
 
-        "Saúde animal", "Vigilância em Saúde", "Recursos humanos em saúde"
+        "Saúde animal", "Vigilância em Saúde", "Recursos humanos em saúde Pública", 
 
     ]
 
 
 
-    # 7. Ciclo For
+    # 7. Ciclo 
 
     for bloco in blocos[1:]:
 
@@ -123,17 +94,6 @@ def extrair_ministerio_saude(caminho_xml):
 
         if len(bloco) < 3: continue
 
-       
-
-        # 1. Procuramos a Sigla primeiro em qualquer parte do início
-
-        sigla = ""
-
-        # Procura siglas entre parênteses (SUS) ou após hífen - MS
-
-        match_sigla = re.search(r'[\(\-–]\s*([A-Z][A-Za-z0-9]+)\s*\)?', bloco[:100])
-
-       
 
         # 2. Identificar se é "Ver" (Referências Cruzadas)
 
@@ -147,17 +107,9 @@ def extrair_ministerio_saude(caminho_xml):
 
             if len(termo) > 100: continue # Bloqueio de lixo
 
-            if match_sigla:
-
-                termo = termo.replace(match_sigla.group(0), "").strip()
-
-                sigla = match_sigla.group(1)
-
-           
+            
 
             dicionario_final[termo] = {
-
-                "sigla": sigla,
 
                 "categoria_area": ["Referência Cruzada"],
 
@@ -192,17 +144,6 @@ def extrair_ministerio_saude(caminho_xml):
                 continue
 
             # ==========================================================
-
-
-
-            # Limpeza de sigla no termo
-
-            if match_sigla:
-
-                termo = termo.replace(match_sigla.group(0), "").strip()
-
-                sigla = match_sigla.group(1)
-
            
 
             resto = bloco[pos_cat:].strip()
@@ -250,8 +191,6 @@ def extrair_ministerio_saude(caminho_xml):
             if termo and len(termo) > 1:
 
                 dicionario_final[termo] = {
-
-                    "sigla": sigla,
 
                     "categoria_area": cats_encontradas,
 
@@ -323,8 +262,6 @@ def extrair_ministerio_saude(caminho_xml):
 
             termos_a_adicionar[novo_termo] = {
 
-                "sigla": "", # O regex principal não apanhou, fica vazio
-
                 "categoria_area": [nova_cat] if nova_cat in categorias_oficiais else [],
 
                 "definicao": nova_def,
@@ -351,7 +288,7 @@ def extrair_ministerio_saude(caminho_xml):
 
 
 
-    print(f"Sucesso! Extraídos {len(dicionario_final)} conceitos.")
+    print(f"Concluído! Extraídos {len(dicionario_final)} conceitos.")
 
     return dicionario_final
 

@@ -2,43 +2,63 @@ import re
 import json
 
 def extrair_neologismos(caminho_xml):
-    print(f"[{caminho_xml}] A iniciar extração final com a ordem natural do livro...")
+    """
+    Extrai neologismos, classes gramaticais, traduções, definições e informações
+    enciclopédicas de um arquivo XML gerado a partir de um PDF, estruturando 
+    os dados resultantes num dicionário JSON.
+    
+    Parâmetros:
+        caminho_xml (str): Caminho para o arquivo XML de origem.
+        
+    Retorna:
+        dict: Dicionário contendo os neologismos estruturados.
+    """
+    print(f"[{caminho_xml}] A iniciar extração...")
     
     f = open(caminho_xml, 'r', encoding='utf-8')
     texto = f.read()
 
-    # 1. Limpeza de quebras de linha e códigos HTML
+    
+    # 1. Normalização Inicial do Texto
+    # Substitui quebras de linha e múltiplos espaços por um único espaço
     texto = re.sub(r'\n', ' ', texto)
     texto = re.sub(r'\s+', ' ', texto)
     texto = re.sub(r'&#34;', '"', texto) # Transforma aspas HTML em aspas normais
 
-    # =========================================================================
-    # 1.5 O MATA-QUEBRAS DE PÁGINA (Para recuperar os 5 termos perdidos)
-    # Apagamos as quebras de página e imagens ANTES de procurar a âncora
+    
+    
+    # 2. Remoção de Elementos Estruturais e Cabeçalhos
+    # Remove delimitadores de página e de imagens
     texto = re.sub(r'<page[^>]*>|</page>|<image[^>]*>', ' ', texto)
-    # Apagamos os cabeçalhos chatos que ficam no meio das páginas 
+    # Remove cabeçalhos que contêm o mês, ano e números de página
     texto = re.sub(r'<text[^>]*>\s*([A-Z][a-z]+, [A-Z][a-z]+ \d{4}|\d{2,3})\s*</text>', ' ', texto)
-    # =========================================================================
+    
 
-    # 2. Marcação dos termos (Âncora s.m./s.f. - Tolerante a espaços extra do autor)
+    # 3. Identificação e Marcação dos Termos Principais
+    # Utiliza a tag <i> contendo a classe gramatical (s.m. ou s.f.) como âncora
+    # para isolar o neologismo e a sua respectiva classe.
     texto = re.sub(r'<text[^>]*>\s*([^<]+?)\s*</text>\s*<text[^>]*>\s*<i>\s*(s\.m\.|s\.f\.)\s*</i>\s*</text>', r'###TERMO###\1 @\2@', texto)
     
-    # 3. Limpeza total de tags XML
-    texto = re.sub(r'<text[^>]*>|</text>|<i>|</i>|<b>|</b>|<image[^>]*>|<page[^>]*>|</page>|<\?xml[^>]*>|<!DOCTYPE[^>]*>|<fontspec[^>]*>', ' ', texto)
+    # 4. Remoção de Tags XML Residuais e Correções Ortográficas
+    # Remove tags de itálico e negrito sem inserir espaços, preservando a junção das palavras
+    texto = re.sub(r'<i>|</i>|<b>|</b>', '', texto)
+    # Remove as restantes tags XML substituindo-as por espaço em branco
+    texto = re.sub(r'<text[^>]*>|</text>|<\?xml[^>]*>|<!DOCTYPE[^>]*>|<fontspec[^>]*>', ' ', texto)
     texto = re.sub(r'\s+', ' ', texto).strip()
 
-    # 3.5 União de sílabas hifenizadas
+    # Corrige a hifenização resultante de quebras de linha (ex: pa- lavra -> palavra)
     texto = re.sub(r'([a-z])- ([a-z])', r'\1\2', texto)
 
-    # 3.8 Correções cirúrgicas (Recupera a Distrofia que perdeu a formatação)
+    # Tratamento de exceção: Corrige o termo cuja formatação original estava corrompida
     texto = re.sub(r'distrofia muscular progressiva s\.f\. progressive', r'###TERMO###distrofia muscular progressiva @s.f.@ progressive', texto)
 
-    # 4. Corte do lixo inicial
+    # 5. Isolamento do Corpo do Dicionário
+    # Descarta o material introdutório segmentando o texto no primeiro neologismo válido ("abeta")
     partes_inicio = re.split(r'###TERMO###abeta', texto, maxsplit=1)
     if len(partes_inicio) > 1:
         texto = "###TERMO###abeta" + partes_inicio[1]
 
-    # 5. Processamento dos blocos
+    # 6. Segmentação e Processamento Iterativo dos Neologismos
     blocos = re.split(r'###TERMO###', texto)
     dicionario_final = {}
 
@@ -47,6 +67,7 @@ def extrair_neologismos(caminho_xml):
         if len(bloco) < 3: 
             continue
         
+        # Separa o bloco nas três componentes primárias: [0] Termo, [1] Classe Gramatical, [2] Restante
         elems_gramatica = re.split(r'@(s\.m\.|s\.f\.)@', bloco, maxsplit=1)
         
         if len(elems_gramatica) > 2:
@@ -54,45 +75,54 @@ def extrair_neologismos(caminho_xml):
             genero = elems_gramatica[1].strip()
             resto = elems_gramatica[2].strip()
             
-            # Traduções
+            # 6.1. Extração da Tradução para o idioma Inglês
             elems_ing = re.split(r'\[ing\];?\s*', resto, maxsplit=1)
             trad_ing = ""
             if len(elems_ing) > 1:
                 trad_ing = elems_ing[0].strip()
                 resto = elems_ing[1].strip()
-                
+
+            # 6.2. Extração da Tradução para o idioma Espanhol   
             elems_esp = re.split(r'\[esp\]\s*|\[es\s', resto, maxsplit=1)
             trad_esp = ""
             if len(elems_esp) > 1:
                 trad_esp = elems_esp[0].strip()
                 resto = elems_esp[1].strip()
+
+            # Tratamento de exceção documental (Tradução embutida na definição por erro do PDF)
+            if termo == "encefalopatia espongiforme":
+                trad_esp = "encefalopatía espongiforme"
+                resto = resto.replace("encefalopatía espongiforme", "").strip()
             
-            # Citação (Apanha "..." ou "… " ou ".”" ou ".”")
+            # 6.3. Extração da Definição (Isolando citações e exemplos práticos)
+            # O delimitador baseia-se na presença de aspas seguidas ou precedidas de pontuação
             elems_citacao = re.split(r'\s*[“"”]\s*[\.…]+|\s*[\.…]+\s*[“"”]', resto, maxsplit=1)
             definicao_completa = elems_citacao[0].strip()
             
-            # Limpeza final de páginas
+            # Remoção de numerações de página residuais no final da string
             definicao_completa = re.sub(r'\s*\(\d+.*?\)*$', '', definicao_completa)
             definicao_completa = re.sub(r'\s\d{2,3}$', '', definicao_completa)
 
-            # =========================================================================
-            # NOVO: EXTRAIR A SIGLA PARA UM CAMPO PRÓPRIO
+            
+            # 6.4. Extração de Sigla
+            # Captura a sigla apenas se a definição iniciar pelo padrão "Sigla: XYZ"
             sigla = ""
-            # Procura se a definição começa por "Sigla: [LETRAS] "
             match_sigla = re.match(r'^Sigla:\s*([A-Z0-9\-]+)\s+(.*)', definicao_completa)
             if match_sigla:
-                sigla = match_sigla.group(1) # Guarda a sigla (ex: AVCI)
-                definicao_completa = match_sigla.group(2) # Guarda o resto da definição limpa
-            # =========================================================================
+                sigla = match_sigla.group(1)
+                definicao_completa = match_sigla.group(2)
+            
 
-            # CORREÇÃO NA HORA: Consertamos o "transtorno"
+            # Correção de anomalia morfológica específica do documento
             if termo == "transtorno cognitivo":
                 termo = "transtorno cognitivo leve"
                 genero = "s.m."
                 definicao_completa = definicao_completa.replace("leve Distúrbio", "Distúrbio").strip()
 
+            # 7. Estruturação Final e Validação
+            # Assegura que o termo é válido e inicia por letra minúscula (padrão tipográfico do glossário)
             if termo and termo[0].islower():
-                dicionario_final[termo] = {
+                entrada = {
                     "classe_gramatical": genero,
                     "sigla": sigla,                  
                     "traducao_en": trad_ing,
@@ -100,13 +130,13 @@ def extrair_neologismos(caminho_xml):
                     "definicao": definicao_completa,
                     "fonte": "Glossário de Neologismos"
                 }
+                dicionario_final[termo] = entrada
 
-    # 6. Gravar o JSON
-    f_out = open("jsons_temporarios/neologismos_temp.json", "w", encoding="utf-8")
-    json.dump(dicionario_final, f_out, indent=4, ensure_ascii=False)
-    f_out.close()
+    # 8. Exportação dos Dados Estruturados
+    with open("jsons_temporarios/neologismos_temp.json", "w", encoding="utf-8") as f_out:
+        json.dump(dicionario_final, f_out, indent=4, ensure_ascii=False)
 
-    print(f"Sucesso! Extraídos {len(dicionario_final)} neologismos com a ordem corrigida.")
+    print(f"Extração concluída com sucesso. Total de entradas: {len(dicionario_final)}")
     return dicionario_final
 
 extrair_neologismos("dados/glossario_neologismos_saude.xml")

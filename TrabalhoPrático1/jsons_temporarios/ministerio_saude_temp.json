@@ -1,6 +1,5 @@
 {
     "Abordagem médica tradicional do adulto hospitalizado": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -8,7 +7,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Abuso financeiro dos idosos": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -16,7 +14,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Abuso incestuoso": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -24,7 +21,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Abuso sexual na adolescência": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -32,7 +28,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Abuso sexual na infância": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -40,7 +35,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Ação racional": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -48,7 +42,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Acidentes ampliados": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -56,7 +49,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Acidentes de trabalho": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência",
             "Atenção à Saúde"
@@ -65,15 +57,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Acidentes de trabalho fatais": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
         "definicao": "Acidente de trabalho que leva o trabalhador à morte.",
         "fonte": "Ministério da Saúde"
     },
+    "Acidentes de trabalho graves": {
+        "categoria_area": [
+            "Acidentes e Violência"
+        ],
+        "definicao": "Acidentes com trabalhador menor de 18 anos independentemente da gravidade; acidente ocular; fratura fechada; fratura aberta ou exposta; fratura múltipla; traumatismo cranioencefálico; traumatismo de nervos e medula espinhal; eletrocussão; asfixia traumática ou estrangulamento; politraumatismo; afogamento; traumatismo de tórax/abdome/bacia, com lesão; ferimento com menção de lesão visceral ou de músculo ou de tendão; amputação traumática; lesão por esmagamento; queimadura de terceiro grau; traumatismo de nervos e da medula espinhal e intoxicações agudas.",
+        "fonte": "Ministério da Saúde"
+    },
     "Acidentes de trânsito": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -81,7 +78,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Acidentes de transporte": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -89,7 +85,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Ácidos graxos": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -97,7 +92,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Ações estratégicas": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -105,7 +99,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Acompanhamento do crescimento e desenvolvimento infantil": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -113,7 +106,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Aconselhamento": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -121,7 +113,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Aconselhamento coletivo": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -129,16 +120,14 @@
         "fonte": "Ministério da Saúde"
     },
     "Acreditação hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Promoção e Educação em Saúde"
         ],
-        "definicao": "Método de consenso, racionalização e ordenação das instituições hospitalares e, principalmente, de educação permanente dos seus profissionais e que se expressa pela realização de um procedimento de avaliação dos recurAcreditação hospitalar Acidentes de trabalho graves 17 sos institucionais, voluntário, periódico e reservado, que tende a garantir a qualidade de assistência por meio de padrões previamente estabelecidos.",
+        "definicao": "Método de consenso, racionalização e ordenação das instituições hospitalares e, principalmente, de educação permanente dos seus profissionais e que se expressa pela realização de um procedimento de avaliação dos recur-",
         "fonte": "Ministério da Saúde"
     },
     "Adjuvante farmacêutico": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -146,15 +135,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Adolescente": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
         "definicao": "Considera-se adolescente a pessoa entre 12 e 18 anos de idade.",
         "fonte": "Ministério da Saúde"
     },
-    "Agência Nacional de Saúde Suplementar": {
-        "sigla": "ANS",
+    "Agência Nacional de Saúde Suplementar (ANS)": {
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
@@ -162,7 +149,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Agenda de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -170,7 +156,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Agentes comunitários de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -178,7 +163,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Aids": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -186,7 +170,6 @@
         "fonte": "Ministério da Saúde"
     },
     "AIDS II": {
-        "sigla": "",
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -194,15 +177,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Aids pediátrica": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Síndrome clínica causada pela infecção pelo HIV na criança, também caracterizada pela ADJ Adjuvante farmacêutico Aids pediátrica 18 supressão profunda da imunidade mediada, principalmente, por células T, resultando em infecções oportunistas, neoplasias secundárias e doenças neurológicas.",
+        "definicao": "Síndrome clínica causada pela infecção pelo HIV na criança, também caracterizada pela",
         "fonte": "Ministério da Saúde"
     },
     "Alcoólatra": {
-        "sigla": "",
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
@@ -210,7 +191,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Alcoolismo": {
-        "sigla": "",
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
@@ -218,7 +198,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Alimentação equilibrada": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -226,7 +205,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Alimentação saudável": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -234,7 +212,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Alimento artificial": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -242,7 +219,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Alimento complementar": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -250,7 +226,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Alimento dietético": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -258,7 +233,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Alimento in natura": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -266,7 +240,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Alimento integral": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -274,7 +247,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Alta complexidade": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -282,16 +254,14 @@
         "fonte": "Ministério da Saúde"
     },
     "Amamentação exclusiva": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Atenção à Saúde"
         ],
-        "definicao": "Uso de leite materno habitualmente até aos 6 meses de vida, como único alimento da criança, não sendo admitido chás ou água como exceção. ALC",
+        "definicao": "Uso de leite materno habitualmente até aos 6 meses de vida, como único alimento da criança, não sendo admitido chás ou água como exceção.",
         "fonte": "Ministério da Saúde"
     },
-    "Amebíase": {
-        "sigla": "",
+    "Alcoólatra Amebíase": {
         "categoria_area": [
             "Doenças"
         ],
@@ -299,7 +269,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Analgésico adjuvante": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -307,7 +276,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Análise de controle": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -315,7 +283,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Análise fiscal": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -323,7 +290,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Análise prévia": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -331,7 +297,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Análogos de nucleosídeos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -339,7 +304,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Anemia": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -347,7 +311,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Anemia falciforme": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -355,7 +318,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Anorexia nervosa": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -364,7 +326,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Antibiótico": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -372,15 +333,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Antibioticoterapia": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
-        "definicao": "É o tratamento de pacientes com sinais e sinAME Amebíase Antibioticoterapia 20 tomas clínicos de infecção pela administração de antimicrobianos.",
+        "definicao": "É o tratamento de pacientes com sinais e sin-",
         "fonte": "Ministério da Saúde"
     },
     "Anticoncepção": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -388,7 +347,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Anticoncepção de emergência": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -396,7 +354,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Antimicrobiano": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -404,7 +361,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Anti-retroviral": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -412,7 +368,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Antraz": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -420,7 +375,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Aprendizagem social": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
@@ -428,7 +382,6 @@
         "fonte": "Ministério da Saúde"
     },
     "ARC": {
-        "sigla": "Complexo",
         "categoria_area": [
             "Doenças"
         ],
@@ -436,7 +389,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Artrite reumatóide": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -444,7 +396,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Asbestose": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -452,7 +403,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Asma": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -460,15 +410,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Assistência à saúde": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
-        "definicao": "O campo da assistência à saúde encerra um conjunto de ações levadas a efeito pelo SUS, em todos os níveis de governo, para o atenANT Anticoncepção Assistência à saúde 21 dimento das demandas pessoais, individuais e coletivas, e que é prestada no âmbito ambulatorial e hospitalar, bem como em outros espaços, especialmente no domiciliar.",
+        "definicao": "O campo da assistência à saúde encerra um conjunto de ações levadas a efeito pelo SUS, em todos os níveis de governo, para o aten-",
         "fonte": "Ministério da Saúde"
     },
     "Assistência ambulatorial": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -476,7 +424,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Assistência aos trabalhadores": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Vigilância em Saúde"
@@ -485,7 +432,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Assistência farmacêutica": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Medicamentos, vacinas e insumos"
@@ -494,7 +440,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Assistência farmacêutica básica": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Medicamentos, vacinas e insumos"
@@ -503,7 +448,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Atenção à saúde": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -511,7 +455,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Atenção básica": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -519,7 +462,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Atenção de alta complexidade": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -527,7 +469,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Atenção humanizada ao recém-nascido de baixo peso": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -535,7 +476,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Atendimento de recuperação e reabilitação": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -543,15 +483,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Atendimento pré-hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
-        "definicao": "O sistema de atendimento pré-hospitalar tem a finalidade de atender vítimas em situação de urgências e emergências, antes de sua chegada ao hospital. ASS",
+        "definicao": "O sistema de atendimento pré-hospitalar tem a finalidade de atender vítimas em situação de urgências e emergências, antes de sua chegada ao hospital.",
         "fonte": "Ministério da Saúde"
     },
-    "Atendimento pré-hospitalar fixo": {
-        "sigla": "",
+    "Assistência ambulatorial Atendimento pré-hospitalar fixo": {
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -559,7 +497,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Atendimento pré-hospitalar móvel": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -567,7 +504,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Atividade de Apoio Diagnóstico e Terapêutico": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -575,7 +511,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Auditoria analítica": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -583,7 +518,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Auditoria operacional": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -591,7 +525,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Automedicação": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -599,7 +532,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Autonegligência": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência",
             "Atenção à Saúde"
@@ -608,7 +540,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Autoridade sanitária": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -616,23 +547,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Autorização de exportação": {
-        "sigla": "",
         "categoria_area": [
             "Direito Sanitário"
         ],
-        "definicao": "Documento expedido pela Secretaria de Vigilância em Saúde do Ministério da Saúde (SVS/MS), que consubstancia a exportaATE Atendimento pré-hospitalar fixo Autorização de exportação 23 ção de substâncias constantes na Portaria n.º 344/98, ou de suas atualizações, bem como os medicamentos que a contenham.",
+        "definicao": "Documento expedido pela Secretaria de Vigilância em Saúde do Ministério da Saúde (SVS/MS), que consubstancia a exporta-",
         "fonte": "Ministério da Saúde"
     },
     "Autorização de importação": {
-        "sigla": "",
         "categoria_area": [
             "Direito Sanitário"
         ],
         "definicao": "Documento expedido pela Secretaria de Vigilância Sanitária do Ministério da Saúde (SVS/MS), que consubstancia a importação de substâncias constantes na Portaria n.º 344/98, ou de suas atualizações, bem como os medicamentos que a contenham.",
         "fonte": "Ministério da Saúde"
     },
-    "Autorização de Internação Hospitalar": {
-        "sigla": "AIH",
+    "Autorização de Internação Hospitalar (AIH)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -640,7 +568,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Autorização de modelo": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -648,7 +575,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Autorização sanitária": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -656,7 +582,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Avaliação": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -664,7 +589,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Avaliação antropométrica": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -672,7 +596,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Avaliação da saúde mental": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -680,7 +603,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Azitodimidina": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -688,15 +610,13 @@
         "fonte": "Ministério da Saúde"
     },
     "AZT": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
-        "definicao": "Sigla do composto farmacológico azitotimidina. Também conhecida como zidovudina, é uma droga anti-retroviral do grupo dos inibidores da transcriptase reversa utilizada no tratamento da infecção pelo HIV. Foi o primeiro medicamento a ser utilizado no tratamento de pacientes com infecção pelo HIV/aids. AUT",
+        "definicao": "Sigla do composto farmacológico azitotimidina. Também conhecida como zidovudina, é uma droga anti-retroviral do grupo dos inibidores da transcriptase reversa utilizada no tratamento da infecção pelo HIV. Foi o primeiro medicamento a ser utilizado no tratamento de pacientes com infecção pelo HIV/aids.",
         "fonte": "Ministério da Saúde"
     },
     "Baixo peso ao nascer": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Atenção à Saúde",
@@ -706,7 +626,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Banco de leite humano": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Atenção à Saúde"
@@ -715,7 +634,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Banco de preços em saúde-aids": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -723,7 +641,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Banco de preços praticados na área hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -731,7 +648,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Banco de preservativos": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Promoção e Educação em Saúde"
@@ -740,7 +656,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Bancos de órgãos e tecidos": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -748,7 +663,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Bebedor moderado": {
-        "sigla": "",
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
@@ -756,7 +670,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Bebedor-problema": {
-        "sigla": "",
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
@@ -764,7 +677,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Bem-estar nutricional": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -772,7 +684,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Benzenismo": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -780,7 +691,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Benzeno": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde"
         ],
@@ -788,7 +698,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Biblioteca Virtual em Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Comunicação em Saúde"
         ],
@@ -796,7 +705,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Biblioteca viva": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Comunicação em Saúde"
@@ -805,7 +713,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Biodisponibilidade": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -813,7 +720,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Bioequivalência": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -821,7 +727,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Bioética": {
-        "sigla": "",
         "categoria_area": [
             "Ética e bioética"
         ],
@@ -829,7 +734,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Biossegurança": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -837,7 +741,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Biotecnologia": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -845,7 +748,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Bócio": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -853,16 +755,14 @@
         "fonte": "Ministério da Saúde"
     },
     "Bulimia": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
         ],
-        "definicao": "Distúrbio alimentar caracterizado pelo impulso irresistível de comer, excessivamente, seguidos por sentimentos de culpa e vergonha, provocando o vômito ou utilizando laxativos e/ou diuréticos de maneira exagerada. BEN",
+        "definicao": "Distúrbio alimentar caracterizado pelo impulso irresistível de comer, excessivamente, seguidos por sentimentos de culpa e vergonha, provocando o vômito ou utilizando laxativos e/ou diuréticos de maneira exagerada.",
         "fonte": "Ministério da Saúde"
     },
-    "Cadastro Nacional dos Estabelecimentos de Saúde": {
-        "sigla": "CNES",
+    "Cadastro Nacional dos Estabelecimentos de Saúde (CNES)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -870,7 +770,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Camisinha": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -878,7 +777,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Câncer de esôfago": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -886,7 +784,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Câncer de estômago": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -894,7 +791,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Câncer de mama": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -902,7 +798,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Câncer de pâncreas": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -910,7 +805,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Câncer de pele": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -918,7 +812,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Câncer de próstata": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -926,7 +819,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Câncer do colo do útero": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -934,7 +826,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Câncer gástrico": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -942,7 +833,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Cancerologia": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -950,7 +840,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Cancro duro": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -958,7 +847,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Cancro mole": {
-        "sigla": "DST",
         "categoria_area": [
             "Doenças"
         ],
@@ -966,15 +854,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Candidíase": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Tradicionalmente denominada monilíase ou “sapinho”, é uma infecção da vagina ou da vulva, causada pelo fungo Candida Albicans . Caracteriza-se por corrimento vaginal esbranquiçado, coceira e infl amação das mucosas, que ficam avermelhadas e cobertas por placas. Embora a via sexual não seja a única forma de transmissão, a candidíase é considerada uma CAN Câncer de próstata Candidíase 29 doença sexualmente transmissível. Nos casos de imunodepressão, pode aparecer também no pênis, no êsofago, e mesmo se tornar uma infecção disseminada por todo o organismo (nos casos de imunodeficiência avançada).",
+        "definicao": "Tradicionalmente denominada monilíase ou “sapinho”, é uma infecção da vagina ou da vulva, causada pelo fungo Candida Albicans . Caracteriza-se por corrimento vaginal esbranquiçado, coceira e infl amação das mucosas, que ficam avermelhadas e cobertas por placas. Embora a via sexual não seja a única forma de transmissão, a candidíase é considerada uma",
         "fonte": "Ministério da Saúde"
     },
     "Carga viral": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -982,7 +868,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Cartão Nacional de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -991,7 +876,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Casas de Apoio para Mulheres em Situação de Risco": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -999,7 +883,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Catarata": {
-        "sigla": "Organiza",
         "categoria_area": [
             "Doenças"
         ],
@@ -1007,7 +890,6 @@
         "fonte": "Ministério da Saúde"
     },
     "CD4": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1015,7 +897,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Célula T4": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1023,7 +904,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Célula T8": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1031,15 +911,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Centrais de Regulação Médica de Urgências": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
-        "definicao": "As centrais, estruturadas nos níveis estadual, regional e/ou municipal, organizam a relação entre os vários serviços, qualificando o fl uxo dos pacientes no sistema e geram uma porta de comunicação aberta ao público em geral, através da qual os pedidos de socorro são recebidos, avaliados e hierarquizados. CAR",
+        "definicao": "As centrais, estruturadas nos níveis estadual, regional e/ou municipal, organizam a relação entre os vários serviços, qualificando o fl uxo dos pacientes no sistema e geram uma porta de comunicação aberta ao público em geral, através da qual os pedidos de socorro são recebidos, avaliados e hierarquizados.",
         "fonte": "Ministério da Saúde"
     },
-    "Centrais Farmacêuticas": {
-        "sigla": "",
+    "Carga viral Centrais Farmacêuticas": {
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -1047,7 +925,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Central Nacional de Transplante": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1055,7 +932,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Centro de Atenção Psicossocial": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1063,7 +939,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Centro de Referência em Assistência à Saúde do Idoso": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1071,7 +946,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Centro de Orientação e Apoio Sorológico": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1079,7 +953,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Centro de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1087,23 +960,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Centro de Testagem e Aconselhamento em Aids": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
         "definicao": "Unidades da rede básica do Sistema Único de Saúde (SUS) que têm como objetivo estimular a adoção de práticas sexuais seguras (prevenção primária) e incentivar que pessoas infectadas pelo HIV procurem e sejam acompanhadas pelos Serviços de Assistência Especializada (SAE) (prevenção secundária).",
         "fonte": "Ministério da Saúde"
     },
-    "Centro Nacional de Epidemiologia": {
-        "sigla": "Cenepi",
+    "Centro Nacional de Epidemiologia (Cenepi)": {
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
-        "definicao": "Responsável pela definição de normas, procedimentos técnicos e diretrizes operacionais do Sistema Nacional de Vigilância Epidemiológica. Deve promover a cooperação técnica e assessorar as Secretarias Estaduais e Municipais de Saúde. Trabalha para a promoção e disseminação do uso da metodologia epidemiológica em todos os níveis do SUS. CEN Centrais Farmacêuticas Centro Nacional de Epidemiologia (Cenepi) 31",
+        "definicao": "Responsável pela definição de normas, procedimentos técnicos e diretrizes operacionais do Sistema Nacional de Vigilância Epidemiológica. Deve promover a cooperação técnica e assessorar as Secretarias Estaduais e Municipais de Saúde. Trabalha para a promoção e disseminação do uso da metodologia epidemiológica em todos os níveis do SUS.",
         "fonte": "Ministério da Saúde"
     },
     "Centro Nacional de Regulação de Alta Complexidade": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1111,7 +981,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Centro Regional de Especialidade": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1119,7 +988,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Certificação de Conformidade": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -1127,7 +995,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Certificado de Boas Práticas de Fabricação": {
-        "sigla": "",
         "categoria_area": [
             "Direito Sanitário"
         ],
@@ -1135,7 +1002,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Certificado de Registro de Produto": {
-        "sigla": "",
         "categoria_area": [
             "Direito Sanitário"
         ],
@@ -1143,7 +1009,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Chumbo": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde"
         ],
@@ -1151,7 +1016,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Ciência e tecnologia": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -1159,15 +1023,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Citomegalovírus": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Vírus pertencente ao grupo dos herpesvírus, que pode acometer vários órgãos. A infecção pelo citomegalovírus ocorre, muitas vezes, pela via sexual. Nas pessoas sem transtornos imunitários geralmente é assintomática, mas pode provocar aumento de volume do fígado e/ou do baço, erupções, irritação na garganta, dores e mal-estar generalizado de evolução autolimitada. Quando a infecção se dá ainda no útero materno as conseqüências podem ser graves, podendo fazer com que o bebê apresente retardamento mental, cegueira, surdez e/ou paCEN Centro Nacional de Regulação de Alta Complexidade Citomegalovírus 32 ralisia cerebral. Nos indivíduos imunocomprometidos, pode provocar doenças grave, o que, por sua vez, pode levar à cegueira e mesmo à morte. Nos pacientes com aids são mais comuns o comprometimento da retina, do trato digestivo e do sistema nervoso central.",
+        "definicao": "Vírus pertencente ao grupo dos herpesvírus, que pode acometer vários órgãos. A infecção pelo citomegalovírus ocorre, muitas vezes, pela via sexual. Nas pessoas sem transtornos imunitários geralmente é assintomática, mas pode provocar aumento de volume do fígado e/ou do baço, erupções, irritação na garganta, dores e mal-estar generalizado de evolução autolimitada. Quando a infecção se dá ainda no útero materno as conseqüências podem ser graves, podendo fazer com que o bebê apresente retardamento mental, cegueira, surdez e/ou pa-",
         "fonte": "Ministério da Saúde"
     },
     "Citopatologia": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1175,7 +1037,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Clamidiose": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1183,7 +1044,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Climatério": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1191,7 +1051,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Cobertura de serviços de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1199,7 +1058,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Coeficiente de morbidade": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -1207,7 +1065,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Coeficiente de natalidade": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -1215,7 +1072,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Cólera": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1223,7 +1079,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Colesterol": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1231,15 +1086,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Comando único": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
-        "definicao": "É uma diretriz do SUS que visa à integração da gestão das ações e serviços de saúde em cada esfera de governo, em seus respectivos âmbitos de competência política e adminisCIT Citopatologia Comando único 33 trativa. O objetivo final é que cada esfera de governo seja capaz de assumir a responsabilidade sanitária plena para melhorar a qualidade de vida e saúde da população.",
+        "definicao": "É uma diretriz do SUS que visa à integração da gestão das ações e serviços de saúde em cada esfera de governo, em seus respectivos âmbitos de competência política e adminis-",
         "fonte": "Ministério da Saúde"
     },
     "Comissão Intergestores Bipartite": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1247,7 +1100,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Comissão Intergestores Tripartite": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1255,7 +1107,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Comissões Intergestores": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1263,7 +1114,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Comissões Intersetoriais": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1271,7 +1121,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Componente": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -1279,7 +1128,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Comportamento sexual": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
@@ -1287,7 +1135,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Composição dos alimentos": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -1295,7 +1142,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Composição populacional": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
@@ -1303,16 +1149,14 @@
         "fonte": "Ministério da Saúde"
     },
     "Comunicação de Acidente do Trabalho": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência",
             "Atenção à Saúde"
         ],
-        "definicao": "Instrumento de notificação de acidente ou doen ça relacionada ao trabalho, de acordo com o INSS (Instituto Nacional de Seguro Social). COM",
+        "definicao": "Instrumento de notificação de acidente ou doen ça relacionada ao trabalho, de acordo com o INSS (Instituto Nacional de Seguro Social).",
         "fonte": "Ministério da Saúde"
     },
-    "Comunidades terapêuticas": {
-        "sigla": "",
+    "Comissão Intergestores Bipartite Comunidades terapêuticas": {
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
@@ -1320,7 +1164,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Concentração": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -1328,15 +1171,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Condiloma acuminado": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
         "definicao": "Doença sexualmente transmissível causada pelo Papiloma Vírus Humano. Causa aparecimento de verrugas e/ou inchações rosadas e úmidas que formam na pele dos órgãos genitais, superfície semelhante a uma crista de gado. O condiloma acuminado pode aparecer juntamente como os sintomas de gonorréia. Pode parecer também no ânus e no reto.",
         "fonte": "Ministério da Saúde"
     },
-    "Conselho de Secretários Municipais de Saúde": {
-        "sigla": "Cosems",
+    "Conselho de Secretários Municipais de Saúde (Cosems)": {
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
@@ -1344,7 +1185,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Conselho Estadual de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
@@ -1352,39 +1192,34 @@
         "fonte": "Ministério da Saúde"
     },
     "Conselho Municipal de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
         "definicao": "Instância permanente e deliberativa, atua na formulação de estratégias e no controle da execução da Política Municipal de Saúde, com composição e atribuições previstas em lei municipal, observado o disposto na Lei 8.142, de 1990.",
         "fonte": "Ministério da Saúde"
     },
-    "Conselho Nacional de Saúde": {
-        "sigla": "CNS",
+    "Conselho Nacional de Saúde (CNS)": {
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
         "definicao": "Órgão específico do Ministério da Saúde formado por 32 conselheiros titulares com seus respectivos suplentes, representantes de entidades e instituições dos segmentos governo, prestadores de serviços privados de saúde, profissionais de saúde e usuários. Tem como objetivo atuar na formulação e controle da execução da política nacional de saúde, inclusive nos aspectos econômicos e financeiros, nas estratégias e na promoção do processo de controle social em toda a sua amplitude, no âmbito dos setores público e privado. As entidades com representação no CNS foram definidas no Decreto 1.448, de 6 de abril de 1995. A composição é paritária a fim de manter equilíbrio dos interesses envolvidos.",
         "fonte": "Ministério da Saúde"
     },
-    "Conselho Nacional de Secretários Estaduais de Saúde": {
-        "sigla": "Conass",
+    "Conselho Nacional de Secretários Estaduais de Saúde (Conass)": {
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
         "definicao": "Organismo de representação dos secretários estaduais de saúde que serve de interlocutor oficial do Ministério da Saúde com relação à política de saúde.",
         "fonte": "Ministério da Saúde"
     },
-    "Conselho Nacional de Secretários Municipais de Saúde": {
-        "sigla": "Conasems",
+    "Conselho Nacional de Secretários Municipais de Saúde (Conasems)": {
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
-        "definicao": "COM Comunidades terapêuticas Conselho Nacional de Secretários Estaduais de Saúde (Conass) 35 Organização não-governamental que representa potencialmente todos os secretários municipais de saúde do País e serve de interlocutor oficial do Ministério da Saúde com relação à política de saúde. A Lei 8.142, de 1990, ao tratar da participação social no SUS define o Conasems como representante dos municípios no Conselho Nacional de Saúde. O Conasems é membro da Comissão Intergestores Tripartite. A fundação do Conasems é fruto do movimento municipalista da saúde, no próprio contexto que originou o SUS. Este movimento é precedido de diversos encontros nacionais e regionais de Secretários Municipais de Saúde desde 1978, acompanhando o processo de redemocratização do País.",
+        "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Conselho Tutelar": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -1392,7 +1227,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Conselhos de Defesa dos Direitos da Criança e do Adolescente": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -1400,7 +1234,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Conselho de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
@@ -1408,7 +1241,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Conselhos dos Direitos da Mulher": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência",
             "Direito Sanitário"
@@ -1417,7 +1249,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Consórcios Intermunicipais": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1425,7 +1256,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Consulta geriátrica": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1433,15 +1263,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Contágio": {
-        "sigla": "Conasems",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "CON Conselho Nacional de Secretários Municipais de Saúde (Conasems) Consulta geriátrica 36 Transferência do agente etiológico, sem a interferência de veículos.",
+        "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Contra-referência": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1449,7 +1277,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Contrato de compra de serviços": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1457,7 +1284,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Contrato de gestão": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1465,7 +1291,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Controle assistencial": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1473,7 +1298,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Controle de endemias": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -1481,7 +1305,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Controle de qualidade": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -1489,7 +1312,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Controle químico": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde"
         ],
@@ -1497,7 +1319,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Controle social": {
-        "sigla": "",
         "categoria_area": [
             "Políticas públicas e saúde",
             "Promoção e Educação em Saúde"
@@ -1506,15 +1327,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Convênios": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
-        "definicao": "Os convênios são projetos financiados pelo Ministério da Saúde, voltados para construções, reformas, aquisição de equipamentos, unidades móveis e/ou manutenção de hospitais. Esses convênios são firmados entre o ministério e entidades, fundações, hospitais, CON Contágio Convênios 37 instituições filantrópicas, universidades, prefeituras e órgãos federais. Podem originar-se de Emenda Parlamentar ou de programas específicos do Ministério da Saúde.",
+        "definicao": "Os convênios são projetos financiados pelo Ministério da Saúde, voltados para construções, reformas, aquisição de equipamentos, unidades móveis e/ou manutenção de hospitais. Esses convênios são firmados entre o ministério e entidades, fundações, hospitais,",
         "fonte": "Ministério da Saúde"
     },
     "Cooperativas médicas": {
-        "sigla": "",
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
@@ -1522,7 +1341,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Coorte": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -1530,7 +1348,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Coqueluche": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1538,7 +1355,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Coquetel anti-aids": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -1546,7 +1362,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Corantes de medicamentos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -1554,7 +1369,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Correlato": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -1562,7 +1376,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Corrimento": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1570,7 +1383,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Crenças em saúde": {
-        "sigla": "",
         "categoria_area": [
             "Promoção e Educação em Saúde"
         ],
@@ -1578,16 +1390,14 @@
         "fonte": "Ministério da Saúde"
     },
     "Crescimento": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Atenção à Saúde"
         ],
-        "definicao": "Processo dinâmico e contínuo que ocorre CRE Cooperativas médicas Crescimento 38 desde a concepção até o final da vida, considerando-se os fenômenos de substituição e regeneração de tecidos e órgãos. É considerado como um dos melhores indicadores de saúde da criança, em razão de sua estreita dependência de fatores ambientais, tais como alimentação, ocorrência de doenças, cuidados gerais e de higiene, condições de vida da criança, no passado e no presente.",
+        "definicao": "Processo dinâmico e contínuo que ocorre",
         "fonte": "Ministério da Saúde"
     },
     "Crescimento compensatório": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Atenção à Saúde"
@@ -1596,7 +1406,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Cretinismo": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -1605,7 +1414,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Cuidado comunitário do idoso": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -1613,15 +1421,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Cuidados paliativos": {
-        "sigla": "",
         "categoria_area": [
             "Direito Sanitário"
         ],
-        "definicao": "Assistência ativa e integral a pacientes cuja doença não responde mais ao tratamento curativo. Controle da dor, de outros sintomas e solução de problemas psicológico, social e espiritual é soberano. A meta do cuidado paliativo é de proporcionar a melhor qualidade de vida ao paciente e seus familiares. Institui no âmbito do Sistema Único de Saúde o Programa Nacional de Assistência à Dor e Cuidados Paliativos , por meio da PRT-000019, de 3 de janeiro 2002. CRE",
+        "definicao": "Assistência ativa e integral a pacientes cuja doença não responde mais ao tratamento curativo. Controle da dor, de outros sintomas e solução de problemas psicológico, social e espiritual é soberano. A meta do cuidado paliativo é de proporcionar a melhor qualidade de vida ao paciente e seus familiares. Institui no âmbito do Sistema Único de Saúde o Programa Nacional de Assistência à Dor e Cuidados Paliativos , por meio da PRT-000019, de 3 de janeiro 2002.",
         "fonte": "Ministério da Saúde"
     },
     "D4T": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -1629,7 +1435,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Data de vencimento": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -1637,7 +1442,6 @@
         "fonte": "Ministério da Saúde"
     },
     "DDC": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -1645,7 +1449,6 @@
         "fonte": "Ministério da Saúde"
     },
     "DDI": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -1653,7 +1456,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Declaração de saúde do viajante": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -1661,7 +1463,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Declaração marítima de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -1669,7 +1470,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Deficiência de ferro": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -1678,7 +1478,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Deficiência de micronutrientes": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -1687,7 +1486,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Deficiência energético-protéica": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -1695,7 +1493,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Deficiência nutricional": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -1703,7 +1500,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Deficiência primária de iodo": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -1712,7 +1508,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Deficit de altura": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Atenção à Saúde"
@@ -1721,7 +1516,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Delegacia": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -1729,7 +1523,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dengue": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1737,15 +1530,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Denominação comum brasileira": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
         "definicao": "Denominação do fármaco ou princípio farmacologicamente ativo aprovada pelo órgão federal responsável pela vigilância sanitária.",
         "fonte": "Ministério da Saúde"
     },
-    "Departamento de Informática do SUS": {
-        "sigla": "Datasus",
+    "Departamento de Informática do SUS (Datasus)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -1754,7 +1545,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Depressão": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1762,7 +1552,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dermatite atópica": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1770,15 +1559,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Dermatite de contato alérgica": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Reação alérgica retardada tipo IV, desencadeada pelo contato da pele com determinada substância que atua como alergênio, produzindo grau variável de eritema, edema e vesiculação. DEF",
+        "definicao": "Reação alérgica retardada tipo IV, desencadeada pelo contato da pele com determinada substância que atua como alergênio, produzindo grau variável de eritema, edema e vesiculação.",
         "fonte": "Ministério da Saúde"
     },
-    "Dermatite de contato irritativa": {
-        "sigla": "",
+    "Deficiência primária de iodo Dermatite de contato irritativa": {
         "categoria_area": [
             "Doenças"
         ],
@@ -1786,7 +1573,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dermatite seborréica": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1794,7 +1580,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dermatofitose": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1802,7 +1587,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dermatoses ocupacionais": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Doenças"
@@ -1811,7 +1595,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Desburocratização": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1819,7 +1602,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Descentralização": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -1827,7 +1609,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Desenvolvimento tecnológico": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -1835,7 +1616,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Desidratação": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1843,7 +1623,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Desinfetante": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde",
             "Vigilância em Saúde"
@@ -1852,16 +1631,14 @@
         "fonte": "Ministério da Saúde"
     },
     "Desmame": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Atenção à Saúde"
         ],
-        "definicao": "Processo que se inicia com a introdução de qualquer alimento na dieta da criança que Desmame Dermatite de contato irritativa DER 42 não seja o leite materno – incluindo os chás e a água – e que termina com a suspensão completa do leite materno.",
+        "definicao": "Processo que se inicia com a introdução de qualquer alimento na dieta da criança que",
         "fonte": "Ministério da Saúde"
     },
     "Desnutrição": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -1870,7 +1647,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Desnutrição crônica": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -1879,7 +1655,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Desnutrição energético-protéica": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -1888,7 +1663,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Detergente": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde",
             "Vigilância em Saúde"
@@ -1897,7 +1671,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Diabetes": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1905,7 +1678,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Diarréia": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1913,7 +1685,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Diarréia aguda": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1921,7 +1692,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Didanosina": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -1929,7 +1699,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dideoxiinosine": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -1937,7 +1706,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dideoxitidina": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -1945,7 +1713,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dieta": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -1953,7 +1720,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Difteria": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -1961,15 +1727,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Digestão": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
-        "definicao": "Engloba todo o processo de redução da estrada física e química do alimento durante a sua passagem pelas vias digestivas, convertendo-o em formas, que passam ser absorvidos pelo corpo através da corrente sangüínea. DES",
+        "definicao": "Engloba todo o processo de redução da estrada física e química do alimento durante a sua passagem pelas vias digestivas, convertendo-o em formas, que passam ser absorvidos pelo corpo através da corrente sangüínea.",
         "fonte": "Ministério da Saúde"
     },
-    "Direção única": {
-        "sigla": "",
+    "Desnutrição Direção única": {
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -1977,7 +1741,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Direitos civis e políticos": {
-        "sigla": "",
         "categoria_area": [
             "Direito Sanitário"
         ],
@@ -1985,7 +1748,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dislipidemia": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -1994,7 +1756,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dispensação": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2002,7 +1763,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Distritalização": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Atenção à Saúde"
@@ -2010,8 +1770,7 @@
         "definicao": "Espaço descentralizado de construção do SUS, considerado território estratégico para estruturação das ações de saúde do trabalhador. Distritos devem ser compreendidos como processo social de mudanças de práticas sanitárias, tem dimensão política e ideológica (microespaço social) na estruturação de uma nova lógica de atenção, pautada no paradigma da concepção ampliada do processo saúde-doença, o que implica mudança cultural da abordagem sanitária.",
         "fonte": "Ministério da Saúde"
     },
-    "Distúrbio Osteomuscular Relacionado ao Trabalho": {
-        "sigla": "Dort",
+    "Distúrbio Osteomuscular Relacionado ao Trabalho (Dort)": {
         "categoria_area": [
             "Doenças"
         ],
@@ -2019,7 +1778,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Distúrbios alimentares": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -2028,15 +1786,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Doença de Alzheimer": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Processo degenerativo progressivo, com perda de células na parte basal do pró-encéfalo, ao córtex cerebral, principalmente da formação hipocampal e área corticais associativas, bem como de outras regiões encefálicas. DIR",
+        "definicao": "Processo degenerativo progressivo, com perda de células na parte basal do pró-encéfalo, ao córtex cerebral, principalmente da formação hipocampal e área corticais associativas, bem como de outras regiões encefálicas.",
         "fonte": "Ministério da Saúde"
     },
-    "Doença de Chagas": {
-        "sigla": "",
+    "Direção única Doença de Chagas": {
         "categoria_area": [
             "Doenças"
         ],
@@ -2044,7 +1800,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doença de Parkinson": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2052,7 +1807,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doença de Wilson": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2060,7 +1814,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doença profissional": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Doenças"
@@ -2069,7 +1822,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças cardiovasculares": {
-        "sigla": "",
         "categoria_area": [
             "Doenças",
             "Drogas de uso terapêutico e social"
@@ -2078,7 +1830,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças crônico-degenerativas": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2086,7 +1837,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças da nutrição": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -2095,7 +1845,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças degenerativas": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2103,7 +1852,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças do trabalho": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Doenças"
@@ -2112,7 +1860,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças dos idosos": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2120,15 +1867,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças falciformes": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Termo genérico usado para determinar um grupo de alterações genéticas caracterizadas pelo predomínio da hemoglobina S (HbS). No Brasil, a doença distribui-se heterogeneaDOE Doença de Chagas Doenças falciformes 45 mente, sendo mais freqüente onde a proporção de antepassados negros da população é maior (Nordeste). Além das manifestações de anemia crônica, o quadro é dominado por episódios de dores osteoarticulares, dores abdominais, infecções e enfartes pulmonares, retardo do crescimento e maturação sexual, acidente vascular cerebral e comprometimento crônico de múltiplos órgãos, sistemas ou aparelhos.",
+        "definicao": "Termo genérico usado para determinar um grupo de alterações genéticas caracterizadas pelo predomínio da hemoglobina S (HbS). No Brasil, a doença distribui-se heterogenea-",
         "fonte": "Ministério da Saúde"
     },
     "Doenças oportunistas": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2136,7 +1881,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças prevalentes": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2144,7 +1888,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças renais": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2152,7 +1895,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Doenças sexualmente transmissíveis": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2160,7 +1902,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Domiciliação do risco": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -2168,7 +1909,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Donovanose": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2176,7 +1916,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Drogas": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2184,7 +1923,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Drogas ilícitas": {
-        "sigla": "",
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
@@ -2192,7 +1930,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Drogas injetáveis": {
-        "sigla": "",
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
@@ -2200,15 +1937,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Drogas lícitas": {
-        "sigla": "",
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
-        "definicao": "Produtos contendo substâncias psicoativas cuja produção, comercialização e uso não é criminalizado. No nosso meio, as drogas lícitas mais consumidas são as bebidas alcoólicas, o tabaco e os medicamentos. DOE",
+        "definicao": "Produtos contendo substâncias psicoativas cuja produção, comercialização e uso não é criminalizado. No nosso meio, as drogas lícitas mais consumidas são as bebidas alcoólicas, o tabaco e os medicamentos.",
         "fonte": "Ministério da Saúde"
     },
     "Eczema": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2216,15 +1951,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Educação continuada": {
-        "sigla": "",
         "categoria_area": [
-            "Recursos humanos em saúde"
+            "Recursos humanos em saúde Pública"
         ],
-        "definicao": "Pública Constitui-se no processo de permanente aquisição de informações pelo trabalhador, de todo e qualquer conhecimento, por meio de escolarização formal, de vivências, de experiências laborais e emocionais, no âmbito institucional ou fora dele.",
+        "definicao": "Constitui-se no processo de permanente aquisição de informações pelo trabalhador, de todo e qualquer conhecimento, por meio de escolarização formal, de vivências, de experiências laborais e emocionais, no âmbito institucional ou fora dele.",
         "fonte": "Ministério da Saúde"
     },
     "Educação permanente": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -2232,7 +1965,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Educação sexual": {
-        "sigla": "",
         "categoria_area": [
             "Promoção e Educação em Saúde"
         ],
@@ -2240,7 +1972,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Eficácia dos medicamentos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2248,7 +1979,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Elisa": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2256,7 +1986,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Embriaguez": {
-        "sigla": "",
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
@@ -2264,7 +1993,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Endemia": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -2272,7 +2000,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Endemias carenciais": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -2281,7 +2008,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Enriquecimento alimentar": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -2289,7 +2015,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Ensaio terapêutico": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -2297,7 +2022,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Ensaios clínicos": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -2305,7 +2029,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Ensaios de comunidade": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -2314,7 +2037,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Envelhecimento populacional": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
@@ -2322,7 +2044,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Epidemia": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -2330,7 +2051,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Epilepsia": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2338,7 +2058,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Eqüidade": {
-        "sigla": "",
         "categoria_area": [
             "Eqüidade em saúde e social"
         ],
@@ -2346,7 +2065,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Equipamento de diagnóstico": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2354,15 +2072,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Equipe multiprofissional": {
-        "sigla": "",
         "categoria_area": [
-            "Recursos humanos em saúde"
+            "Recursos humanos em saúde Pública"
         ],
-        "definicao": "Pública ENS Ensaio terapêutico Equipe multiprofissional 49 Composta por médico assistente, enfermeiro, técnico-enfermagem, fisioterapeuta, nutricionista, assistente social, fonoaudióloga, psicólogo e terapeuta ocupacional.",
+        "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Equivalência in vitro": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2370,7 +2086,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Escabiose": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2378,7 +2093,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Estabelecimentos de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -2386,15 +2100,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Estrutura de gênero": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
         "definicao": "Delimita o poder entre os sexos. Mesmo quando a norma legal é de igualdade, na vida cotidiana encontramos a desigualdade e a iniqüidade na distribuição do poder e da riqueza entre homens e mulheres.",
         "fonte": "Ministério da Saúde"
     },
-    "Estudo de Utilização de Medicamentos": {
-        "sigla": "EUM",
+    "Estudo de Utilização de Medicamentos (EUM)": {
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2402,7 +2114,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Estudo Terapêutico Ampliado": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2410,7 +2121,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Estudo Terapêutico Piloto": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2418,7 +2128,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Estudos descritivos": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -2426,7 +2135,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Estudos ecológicos": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde"
         ],
@@ -2434,7 +2142,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Estupro": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -2442,15 +2149,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Ética em pesquisa": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
-        "definicao": "ESC Equivalência in vitro Ética em pesquisa 50 Ética e Bioética Termo utilizado de forma ampla, inclui diferentes assuntos relevantes do ponto de vista da ética em pesquisa envolvendo seres humanos e demais seres vivos. Inclui o compartilhamento justo dos créditos de autoria entre participantes de um grupo de pesquisa; o comportamento responsável na submissão ou revisão de pedidos de bolsas de pesquisa e, com maior visibilidade, o tratamento responsável de sujeitos de pesquisa.",
+        "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Evento adverso": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2458,7 +2163,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Evento adverso inesperado": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2466,7 +2170,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Evento adverso sério": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2474,7 +2177,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Exame de genotipagem": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2482,7 +2184,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Expectativa de vida ao nascer": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
@@ -2490,15 +2191,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Explosão demográfica": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
-        "definicao": "Aumento da proporção da população de jovens. A taxa de nascimentos aumenta e a mortalidade diminui consideravelmente, o que ocasiona um crescimento muito grande da população às custas, principalmente, da população jovem. EVE",
+        "definicao": "Aumento da proporção da população de jovens. A taxa de nascimentos aumenta e a mortalidade diminui consideravelmente, o que ocasiona um crescimento muito grande da população às custas, principalmente, da população jovem.",
         "fonte": "Ministério da Saúde"
     },
     "Família": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
@@ -2506,7 +2205,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Farmácia popular": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2514,7 +2212,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Farmácias magistrais": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2522,7 +2219,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Farmacocinética": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2530,7 +2226,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Farmacodinâmica": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2538,7 +2233,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Farmacoepidemiologia": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2546,7 +2240,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Farmacopéia brasileira": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2554,7 +2247,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Farmacoterapia": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2562,7 +2254,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Farmacovigilância": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -2570,15 +2261,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Farmoquímicos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
         "definicao": "Todas as substâncias ativas ou inativas que são empregadas na fabricação de produtos farmacêuticos.",
         "fonte": "Ministério da Saúde"
     },
-    "Fator de Incentivo ao Desenvolvimento de Ensino e Pesquisa": {
-        "sigla": "Fideps",
+    "Fator de Incentivo ao Desenvolvimento de Ensino e Pesquisa (Fideps)": {
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -2586,7 +2275,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Febre amarela": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2594,7 +2282,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Febre tifóide": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2602,7 +2289,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Feminilização no envelhecimento": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
@@ -2610,7 +2296,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Feminização da aids": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -2618,7 +2303,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Ferro medicamentoso": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -2626,15 +2310,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Formação profissional": {
-        "sigla": "",
         "categoria_area": [
-            "Recursos humanos em saúde"
+            "Recursos humanos em saúde Pública"
         ],
-        "definicao": "Pública É o processo que sistematiza os conhecimentos técnicos e científicos por meio da educação profissional de nível básico, técnico e superior, com o objetivo de propiciar ao indivíduo o permanente desenvolvimento de aptidões, habilidades, competências e posturas FAR Farmacovigilância Formação profissional 53 solidárias perante os usuários, para o exercício do trabalho e da educação a fim de inserilo nos setores profissionais.",
+        "definicao": "É o processo que sistematiza os conhecimentos técnicos e científicos por meio da educação profissional de nível básico, técnico e superior, com o objetivo de propiciar ao indivíduo o permanente desenvolvimento de aptidões, habilidades, competências e posturas",
         "fonte": "Ministério da Saúde"
     },
     "Formulação farmacêutica": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2642,7 +2324,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Formulário terapêutico nacional": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -2650,15 +2331,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Fracionamento de alimentos": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
         "definicao": "Operações através das quais se divide um alimento, sem modificar sua composição original.",
         "fonte": "Ministério da Saúde"
     },
-    "Fração Assistencial Especializada": {
-        "sigla": "FAE",
+    "Fração Assistencial Especializada (FAE)": {
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -2666,15 +2345,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Franca explosão demográfica": {
-        "sigla": "",
         "categoria_area": [
             "História da saúde pública"
         ],
         "definicao": "Período que ocorreu a partir da Segunda Guerra Mundial, onde a mortalidade começava a declinar e a fecundidade permanecia alta, período que se completou no começo dos anos 70 com o início da queda acentuada da fecundidade.",
         "fonte": "Ministério da Saúde"
     },
-    "Fundação Nacional de Saúde": {
-        "sigla": "Funasa",
+    "Fundação Nacional de Saúde (Funasa)": {
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -2682,7 +2359,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Fundo Estadual de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -2690,15 +2366,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Fundo Municipal de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Economia de saúde"
         ],
         "definicao": "É a conta onde são depositados todos os recursos repassados ao município pelo Ministério da Saúde e pelo estado para a saúde, além daqueles destinados à saúde pelo próprio município.",
         "fonte": "Ministério da Saúde"
     },
-    "Fundo Nacional de Saúde": {
-        "sigla": "FNS",
+    "Fundo Nacional de Saúde (FNS)": {
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -2706,7 +2380,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Fundos de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -2714,15 +2387,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Furúnculo": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "É um abscesso estafilocócico perifolicular, circunscrito, arredondado, doloroso e agudo que geralmente termina em supuração renal. FOR",
+        "definicao": "É um abscesso estafilocócico perifolicular, circunscrito, arredondado, doloroso e agudo que geralmente termina em supuração renal.",
         "fonte": "Ministério da Saúde"
     },
     "Gelados comestíveis": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -2730,7 +2401,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gênero": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
@@ -2738,7 +2408,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gerência em saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2746,7 +2415,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestação de alto risco": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -2754,7 +2422,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestão Avançada do Sistema Estadual": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2762,7 +2429,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestão do SUS": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2770,7 +2436,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestão Estadual de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2778,7 +2443,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestão Federal de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2786,7 +2450,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestão Municipal de Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2794,7 +2457,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestão Plena da Atenção Básica": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2802,7 +2464,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestão Plena da Atenção Básica Ampliada": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2810,7 +2471,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestão Plena do Sistema Estadual": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2818,7 +2478,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestão Plena do Sistema Municipal": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2826,23 +2485,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Gestor de saúde": {
-        "sigla": "",
         "categoria_area": [
-            "Recursos humanos em saúde"
+            "Recursos humanos em saúde Pública"
         ],
-        "definicao": "Pública São os responsáveis pelo SUS em cada esfera do governo: sistemas municipais, estaduais, do Distrito Federal e nacional de saúde.",
+        "definicao": "São os responsáveis pelo SUS em cada esfera do governo: sistemas municipais, estaduais, do Distrito Federal e nacional de saúde.",
         "fonte": "Ministério da Saúde"
     },
     "Gonorréia": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Doença infectocontagiosa de transmissão predominantemente sexual, causada pela bactéria Neisseria gonorrhoeae ou Gonococo, que se caracteriza por provocar processos infl amatórios na uretra (uretrite), colo uterino (cervicite) e reto/ânus (proctite). A gonorréia é bastante prevalente nos países em desenvolvimento, embora ocorra no mundo inteiro. Geralmente, o tratamento é simples e eficaz, mas, recentemente, vêm sendo observadas variantes resistentes aos antibióticos tradicionais. GES",
+        "definicao": "Doença infectocontagiosa de transmissão predominantemente sexual, causada pela bactéria Neisseria gonorrhoeae ou Gonococo, que se caracteriza por provocar processos infl amatórios na uretra (uretrite), colo uterino (cervicite) e reto/ânus (proctite). A gonorréia é bastante prevalente nos países em desenvolvimento, embora ocorra no mundo inteiro. Geralmente, o tratamento é simples e eficaz, mas, recentemente, vêm sendo observadas variantes resistentes aos antibióticos tradicionais.",
         "fonte": "Ministério da Saúde"
     },
-    "Gravidez de alto risco": {
-        "sigla": "",
+    "Gestão Federal de Saúde Gravidez de alto risco": {
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -2850,7 +2506,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Grupo de apoio ao idoso": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -2858,7 +2513,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Grupo matricial": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
@@ -2866,15 +2520,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Guias terapêuticos padronizados": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Coleções de roteiros terapêuticos preconizados para doenças diversas. GRA",
+        "definicao": "Coleções de roteiros terapêuticos preconizados para doenças diversas.",
         "fonte": "Ministério da Saúde"
     },
     "Habilitação": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -2882,7 +2534,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hábitos saudáveis": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -2890,7 +2541,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hanseníase": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2898,7 +2548,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hemocad": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde",
@@ -2908,7 +2557,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hemocentro": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Vigilância em Saúde"
@@ -2917,7 +2565,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hemoderivados": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -2925,7 +2572,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hemofilia": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2933,7 +2579,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hemoinsp": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde",
@@ -2943,7 +2588,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hemovigilância": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde",
@@ -2953,7 +2597,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hepatite": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2961,7 +2604,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hepatite viral": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2969,7 +2611,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hepatite viral A": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2977,7 +2618,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hepatite viral B": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2985,7 +2625,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hepatite viral C": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -2993,15 +2632,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Hepatite viral D": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Doença causada pelo vírus da hepatite D, que é um vírus RNA defeituoso, de fita simples, com 37mm de diâmetro. A infecção pode fazer-se de duas maneiras. A primeira quando o paciente sofre uma infecção simultânea pelas partículas virais HBV e HDV e quando a infecção pela hepatite D se dá em um paciente que já HEM Hemovigilância Hepatite viral apresentava infecção crônica de hepatite viral B.",
+        "definicao": "Doença causada pelo vírus da hepatite D, que é um vírus RNA defeituoso, de fita simples, com 37mm de diâmetro. A infecção pode fazer-se de duas maneiras. A primeira quando o paciente sofre uma infecção simultânea pelas partículas virais HBV e HDV e quando a infecção pela hepatite D se dá em um paciente que já",
         "fonte": "Ministério da Saúde"
     },
     "Hepatite viral E": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -3009,7 +2646,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Herança genética": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3017,7 +2653,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Herpes simples": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -3025,7 +2660,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hierarquização": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3033,7 +2667,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hipertensão arterial": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -3041,7 +2674,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hipovitaminose A": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -3050,7 +2682,6 @@
         "fonte": "Ministério da Saúde"
     },
     "História natural das doenças": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3058,7 +2689,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hospital": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3066,7 +2696,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hospital de base": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3074,7 +2703,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hospital de capacidade extra": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3082,7 +2710,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hospital de grande porte": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3090,7 +2717,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hospital de médio porte": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3098,15 +2724,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Hospital de pequeno porte": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
-        "definicao": "HEP Hepatite viral E Hospital de pequeno porte 62 Hospital cuja capacidade é de até 50 leitos.",
+        "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Hospital-dia geriátrico": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3114,7 +2738,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hospital especializado": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3122,7 +2745,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hospital local": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3130,7 +2752,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Hospital regional": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3138,7 +2759,6 @@
         "fonte": "Ministério da Saúde"
     },
     "HPV": {
-        "sigla": "HPV",
         "categoria_area": [
             "Doenças"
         ],
@@ -3146,7 +2766,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Humanização": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3154,15 +2773,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Humanização do atendimento": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
-        "definicao": "Responsabilização mútua entre os serviços de saúde e a comunidade e estreitamento do vínculo entre as equipes de profissionais e a população. HOS",
+        "definicao": "Responsabilização mútua entre os serviços de saúde e a comunidade e estreitamento do vínculo entre as equipes de profissionais e a população.",
         "fonte": "Ministério da Saúde"
     },
     "Identidade sexual": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
@@ -3170,7 +2787,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Idiotia": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -3179,7 +2795,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Idoso": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
@@ -3187,7 +2802,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Impetigo": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -3195,7 +2809,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Imunodeprimido": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -3203,7 +2816,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Imunologia": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Vigilância em Saúde"
@@ -3212,15 +2824,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Imunopatogênico": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
         "definicao": "Fase da infecção pelo HIV. Caracteriza-se pela taxa de replicação viral bastante elevada, com níveis sangüíneos geralmente acima de 1.000.000 de cópias/ml e população viral relativamente homogênea do ponto de vista de genotípico.",
         "fonte": "Ministério da Saúde"
     },
-    "Incentivo de Integração ao Sistema Único de Saúde": {
-        "sigla": "Integrasus",
+    "Incentivo de Integração ao Sistema Único de Saúde (Integrasus)": {
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -3228,15 +2838,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Incentivos": {
-        "sigla": "",
         "categoria_area": [
             "Economia de saúde"
         ],
-        "definicao": "O Ministério da Saúde estabeleceu alguns incentivos aos hospitais integrantes do SUS, objetivando o aprimoramento da assistência prestada, a melhoria da infra-estrutura dos serI 64 viços e o estabelecimento de parcerias na identificação de prestadores solidários do sistema.",
+        "definicao": "O Ministério da Saúde estabeleceu alguns incentivos aos hospitais integrantes do SUS, objetivando o aprimoramento da assistência prestada, a melhoria da infra-estrutura dos serviços e o estabelecimento de parcerias na identificação de prestadores solidários do sistema.",
         "fonte": "Ministério da Saúde"
     },
     "Incidência": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3244,7 +2852,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Indicadores demográficos": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
@@ -3252,7 +2859,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Índice de Pobreza Humana": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Epidemiologia"
@@ -3261,7 +2867,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Índice de Valorização de Resultado": {
-        "sigla": "",
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -3269,7 +2874,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Infecção hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Doenças"
@@ -3278,7 +2882,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Informação tóxico-farmacológica": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -3286,7 +2889,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Inseticida": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -3294,7 +2896,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Inseticidas piretróides": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde"
         ],
@@ -3302,7 +2903,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Inspeção de qualidade": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -3310,23 +2910,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Inspeção sanitária": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
-        "definicao": "Investigação no local da existência ou não de INC Incidência Inspeção sanitária 65 fatores de risco sanitário, que poderão produzir agravo à saúde individual ou coletiva, incluindo a verificação de documentos.",
+        "definicao": "Investigação no local da existência ou não de",
         "fonte": "Ministério da Saúde"
     },
     "Instituição de pesquisa": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
         "definicao": "Organização pública ou privada, legitimamente constituída e habilitada na qual são realizadas investigações científicas.",
         "fonte": "Ministério da Saúde"
     },
-    "Instituto Nacional de Câncer": {
-        "sigla": "INCA",
+    "Instituto Nacional de Câncer (INCA)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3334,7 +2931,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Instrumentos de gestão em saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3342,7 +2938,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Insuficiência renal": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -3350,7 +2945,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Insumo farmacêutico": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3358,7 +2952,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Integralidade": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3366,7 +2959,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Integrasus": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -3374,7 +2966,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Intercambialidade": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3382,7 +2973,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Interiorização da aids": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3390,15 +2980,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Internação hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
-        "definicao": "INS Instituição de pesquisa Interiorização da aids 66 Pacientes que são admitidos para ocupar um leito hospitalar por um período igual ou maior a 24 horas.",
+        "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Intersetorialidade": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3406,23 +2994,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Investigação epidemiológica": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
-        "definicao": "Trabalho de campo realizado a partir de casos notificados (clinicamente declarados ou suspeitos) e seus contatos, que tem como principais objetivos: identificar fonte e modo de transmissão; grupos expostos a maior risco; fatores determinantes; confirmar o diagnóstico; e determinar as principais características epidemiológicas e seu propósito final é orientar medidas de controle para impedir a ocorrência de novos casos. INT",
+        "definicao": "Trabalho de campo realizado a partir de casos notificados (clinicamente declarados ou suspeitos) e seus contatos, que tem como principais objetivos: identificar fonte e modo de transmissão; grupos expostos a maior risco; fatores determinantes; confirmar o diagnóstico; e determinar as principais características epidemiológicas e seu propósito final é orientar medidas de controle para impedir a ocorrência de novos casos.",
         "fonte": "Ministério da Saúde"
     },
     "Janela imunológica": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
-        "definicao": "Período entre a infecção e o início da formação de anticorpos específicos contra o agente causador. Geralmente, este período dura algumas semanas, e o paciente, apesar de ter o agente infeccioso presente em seu organismo, apresenta resultados negativos nos testes para a detecção de anticorpos contra o agente.",
+        "definicao": "Período entre a infecção e o início da formação de anticorpos específicos contra o agente causador. Geralmente, este período dura algumas semanas, e o paciente, apesar de ter o agente infeccioso presente em seu organismo, apresenta resultados negativos nos testes para a detecção de anticorpos contra o agente. 69",
         "fonte": "Ministério da Saúde"
     },
     "Laboratório oficial": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3430,15 +3015,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Lavanderia hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
         "definicao": "É o local ou estabelecimento específico para o processamento da roupa utilizada em serviços de saúde, tais como hospitais e clínicas em geral.",
         "fonte": "Ministério da Saúde"
     },
-    "Lei de Diretrizes Orçamentárias": {
-        "sigla": "LDO",
+    "Lei de Diretrizes Orçamentárias (LDO)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Economia de saúde"
@@ -3447,7 +3030,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Leito hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3455,15 +3037,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Leptospirose": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
         "definicao": "Doença infecciosa sistêmica causada por espiroquetas patogênicas do gênero Leptospira . É antropozoonose, transmitida ao homem, principalmente através do contato com coleções de água contaminada com urina de ratos infectados. Pode determinar síndromes clínicas variadas, desde a infecção subclínica até a forma grave, íctero-hemorrágica, conhecida como síndrome de Weil. A leptospirose é uma agravo de notificação compulsória.",
         "fonte": "Ministério da Saúde"
     },
-    "Lesão por Esforço Repetitivo": {
-        "sigla": "LER",
+    "Lesão por Esforço Repetitivo (LER)": {
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -3471,7 +3051,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Licença sanitária": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -3479,7 +3058,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Licitação": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3487,7 +3065,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Limite financeiro": {
-        "sigla": "",
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -3495,7 +3072,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Linfadenopatia persistente generalizada": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -3503,15 +3079,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Linfogranuloma venéreo": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Doença infecciosa de transmissão exclusivamente sexual, conhecida popularmente como “mula”. LIM",
+        "definicao": "Doença infecciosa de transmissão exclusivamente sexual, conhecida popularmente como “mula”.",
         "fonte": "Ministério da Saúde"
     },
     "Macronutrientes": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -3519,7 +3093,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Malária": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -3527,7 +3100,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Mamografia": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3535,7 +3107,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Margem terapêutica": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3543,7 +3114,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Média complexidade": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3551,7 +3121,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos bioequivalentes": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3559,7 +3128,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos biológicos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3567,7 +3135,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos biotecnológicos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3575,7 +3142,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos de controle especial": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3583,7 +3149,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos de dispensação em caráter excepcional": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3591,7 +3156,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos de referência": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3599,7 +3163,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos de saúde mental": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3607,7 +3170,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos de uso contínuo": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3615,7 +3177,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos de venda livre": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3623,7 +3184,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos estratégicos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3631,7 +3191,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos excepcionais": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3639,7 +3198,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos fitoterápicos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3647,7 +3205,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos genéricos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3655,15 +3212,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos homeopáticos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
-        "definicao": "MED Medicamentos de controle especial Medicamentos homeopáticos 73 São preparações manipuladas de forma específica de acordo com regras farmacotécnicas bem definidas, descritas na Farmacopéia. Homeopática Brasileira.",
+        "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos para a atenção básica": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3671,7 +3226,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medicamentos tarjados": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3679,7 +3233,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Médico regulador": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3687,7 +3240,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Medida cautelar": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência",
             "Direito Sanitário"
@@ -3696,7 +3248,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Menopausa": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3704,7 +3255,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Método direto de padronização": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
@@ -3712,7 +3262,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Método epidemiológico": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3720,7 +3269,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Métodos contraceptivos": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Promoção e Educação em Saúde"
@@ -3729,7 +3277,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Métodos de barreiras": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3737,7 +3284,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Micronutrientes": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -3745,7 +3291,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Microrregião de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3753,15 +3298,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Modelo ecológico": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
-        "definicao": "Modelo de intervenção centrado no coletivo no qual prima a inter-relação entre o indivíduo e seu meio ambiente. MED",
+        "definicao": "Modelo de intervenção centrado no coletivo no qual prima a inter-relação entre o indivíduo e seu meio ambiente.",
         "fonte": "Ministério da Saúde"
     },
-    "Módulo assistencial": {
-        "sigla": "",
+    "Medicamentos para a atenção básica Módulo assistencial": {
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3769,7 +3312,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Módulo-padrão de suprimento": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3777,7 +3319,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Morbimortalidade": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
@@ -3785,7 +3326,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Município-pólo": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3793,7 +3333,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Município-sede do módulo assistencial": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3801,15 +3340,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Mutirão": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
-        "definicao": "Destina-se a incrementar a oferta de serviços em áreas específicas da assistência e, com isso, reduzir a demanda reprimida existente e as listas de espera para a realização de determinados procedimentos cirúrgicos eletivos. MOD",
+        "definicao": "Destina-se a incrementar a oferta de serviços em áreas específicas da assistência e, com isso, reduzir a demanda reprimida existente e as listas de espera para a realização de determinados procedimentos cirúrgicos eletivos.",
         "fonte": "Ministério da Saúde"
     },
     "Nascido morto": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3817,7 +3354,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Nascido vivo": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3825,7 +3361,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Natimorto": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -3833,7 +3368,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Nefropatias": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -3841,7 +3375,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Negligência": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -3849,15 +3382,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Níveis de complexidade": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
         "definicao": "Limites utilizados para hierarquizar os estabelecimentos do sistema de prestação de serviços de saúde, segundo a diversificação das atividades prestadas, a profundidade de especialização das mesmas e a freqüência com que ocorrem.",
         "fonte": "Ministério da Saúde"
     },
-    "Norma Operacional de Assistência à Saúde": {
-        "sigla": "NOAS",
+    "Norma Operacional de Assistência à Saúde (NOAS)": {
         "categoria_area": [
             "Direito Sanitário"
         ],
@@ -3865,7 +3396,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Norma Operacional Básica": {
-        "sigla": "",
         "categoria_area": [
             "Direito Sanitário"
         ],
@@ -3873,13 +3403,11 @@
         "fonte": "Ministério da Saúde"
     },
     "Notificação de doenças": {
-        "sigla": "",
         "categoria_area": [],
         "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Notificação de maus-tratos": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -3887,7 +3415,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Notificação de receita": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -3895,7 +3422,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Núcleos de educação em urgências": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -3903,15 +3429,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Nutrimento": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
-        "definicao": "Substância constituinte dos alimentos de valor nutricional, incluindo proteínas, gorduras, hidratos de carbono, água, elementos minerais e vitaminas. NUC",
+        "definicao": "Substância constituinte dos alimentos de valor nutricional, incluindo proteínas, gorduras, hidratos de carbono, água, elementos minerais e vitaminas.",
         "fonte": "Ministério da Saúde"
     },
     "Obesidade": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Doenças"
@@ -3920,7 +3444,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Óbito fetal": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3928,7 +3451,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Óbito hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3936,7 +3458,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Óbito materno": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3944,7 +3465,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Óbito neonatal": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3952,7 +3472,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Óbito neonatal precoce": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -3960,7 +3479,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Observação hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -3968,7 +3486,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Oncologia": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -3976,7 +3493,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Operadora de plano de assistência à saúde": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -3984,7 +3500,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Operadora de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
@@ -3992,7 +3507,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Orçamento da Seguridade Social": {
-        "sigla": "",
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -4000,16 +3514,14 @@
         "fonte": "Ministério da Saúde"
     },
     "Órgão de Vigilância Sanitária Competente": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos",
             "Vigilância em Saúde"
         ],
-        "definicao": "Órgão do Ministério da Saúde dos Estados, do Distrito Federal e dos Territórios, incumO 78 bido da Vigilância Sanitária dos produtos abrangidos por este Regulamento.",
+        "definicao": "Órgão do Ministério da Saúde dos Estados, do Distrito Federal e dos Territórios, incumbido da Vigilância Sanitária dos produtos abrangidos por este Regulamento.",
         "fonte": "Ministério da Saúde"
     },
     "Orientação alimentar": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -4017,15 +3529,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Ouvidoria da Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
-        "definicao": "Órgão onde o cidadão, comunidade e entidades podem recorrer caso sejam afetadas por políticas, normas, procedimentos ou atividades adotadas pelo SUS, assim como decisões, erros, abusos, omissões ou imprudências práticas pelos agentes do sistema de saúde. ORI",
+        "definicao": "Órgão onde o cidadão, comunidade e entidades podem recorrer caso sejam afetadas por políticas, normas, procedimentos ou atividades adotadas pelo SUS, assim como decisões, erros, abusos, omissões ou imprudências práticas pelos agentes do sistema de saúde.",
         "fonte": "Ministério da Saúde"
     },
     "Paciente-dia": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -4033,7 +3543,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Papiloma Vírus Humano": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -4041,7 +3550,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Pátrio poder": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
@@ -4049,7 +3557,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Pauperização da aids": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -4057,7 +3564,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Pediculoses": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -4065,7 +3571,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Perda auditiva induzida por ruído": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4073,7 +3578,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Perfil epidemiológico": {
-        "sigla": "",
         "categoria_area": [
             "Eqüidade em saúde e social"
         ],
@@ -4081,7 +3585,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Perfil nosológico": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -4089,7 +3592,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Período de incubação": {
-        "sigla": "",
         "categoria_area": [
             "Doenças",
             "Epidemiologia"
@@ -4098,7 +3600,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Pesquisa em reprodução humana": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -4106,7 +3607,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Pesquisa em saúde": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -4114,7 +3614,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Pesquisa envolvendo seres humanos": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -4122,7 +3621,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Pesquisador responsável": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -4130,7 +3628,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Peste": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -4138,15 +3635,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Pirâmide alimentar": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
         "definicao": "Instrumento educativo em que divide os alimentos em seis grupos básicos, recomendando um número de porções a serem consumidos diariamente para cada um dos grupos.",
         "fonte": "Ministério da Saúde"
     },
-    "Piso da Atenção Básica": {
-        "sigla": "PAB",
+    "Piso da Atenção Básica (PAB)": {
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -4154,7 +3649,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Plano de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
@@ -4162,7 +3656,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Plano de Saúde (gestão do SUS)": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4170,23 +3663,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Plano Diretor de Regionalização": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
-        "definicao": "Instrumento de ordenamento do processo de PES Pesquisa envolvendo seres humanos Plano Diretor de Regionalização 81 regionalização da da assistência em cada estado e no Distrito Federal, baseado nos objetivos de definição de prioridades de intervenção da população e garantia de acesso dos cidadãos a todos os níveis de atenção.",
+        "definicao": "Instrumento de ordenamento do processo de",
         "fonte": "Ministério da Saúde"
     },
     "Plano Nacional de Saúde do Sistema Penitenciário": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
         "definicao": "Administração e Planejamento em Saúde Objetiva assegurar atendimento médico e ações de promoção e prevenção à população carcerária do Brasil.",
         "fonte": "Ministério da Saúde"
     },
-    "Plano Nacional de Vacinas Anti/aids": {
-        "sigla": "HIV",
+    "Plano Nacional de Vacinas Anti-HIV/aids": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Medicamentos, vacinas e insumos"
@@ -4194,8 +3684,7 @@
         "definicao": "Compreende estudos virológicos e imunológicos, estudos clínicos e epidemiológicos, estudos sociocomportamentais, e desenvolvimento e produção de insumos e vacinas.",
         "fonte": "Ministério da Saúde"
     },
-    "Plano Plurianual": {
-        "sigla": "PPA",
+    "Plano Plurianual (PPA)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Economia de saúde"
@@ -4204,7 +3693,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Plano privado de assistência à saúde": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -4212,7 +3700,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Pneumoconiose": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde",
             "Doenças"
@@ -4221,7 +3708,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Poder de polícia": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -4229,7 +3715,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Política Nacional de Saúde do Idoso": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4237,23 +3722,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Pólos de capacitação": {
-        "sigla": "",
         "categoria_area": [
-            "Recursos humanos em saúde"
+            "Recursos humanos em saúde Pública"
         ],
-        "definicao": "Pública Vinculados em geral a universidades, esses pólos articulam uma ou mais instituições voltadas para a formação, capacitação e educação permanente dos recursos humanos para a saúde, em conjunto com as Secretarias de Saúde dos estados e municípios.",
+        "definicao": "Vinculados em geral a universidades, esses pólos articulam uma ou mais instituições voltadas para a formação, capacitação e educação permanente dos recursos humanos para a saúde, em conjunto com as Secretarias de Saúde dos estados e municípios.",
         "fonte": "Ministério da Saúde"
     },
     "População economicamente ativa": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
-        "definicao": "PLA Plano Nacional de Saúde do Sistema Penitenciário População economicamente ativa 82 É definida pelo IBGE como aquela composta por pessoas de 10 a 65 anos de idade, classificadas como ocupadas ou desocupadas (mas procurando emprego) na semana de referência da pesquisa realizada pelo Instituto.",
+        "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Porto de controle sanitário": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -4261,7 +3743,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Posto de medicamentos": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Medicamentos, vacinas e insumos"
@@ -4270,7 +3751,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Posto de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4278,7 +3758,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Preparações farmacêuticas": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -4286,7 +3765,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Preservativo feminino": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4294,7 +3772,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Preservativo masculino": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4302,7 +3779,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Prevalência": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia",
             "Eqüidade em saúde e social"
@@ -4311,7 +3787,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Princípio ativo": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4319,15 +3794,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Procedimento operacional padronizado": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
-        "definicao": "Procedimento escrito de forma objetiva que POR Porto de controle sanitário Procedimento operacional padronizado 83 estabelece instruções seqüenciais para a realização de operações rotineiras e específicas na industrialização, armazenamento e transporte de alimentos. Este procedimento pode apresentar outras nomenclaturas desde que obedeça ao conteúdo estabelecido na Resolução – RDC n.º 267, de 25 de setembro de 2003.",
+        "definicao": "Procedimento escrito de forma objetiva que",
         "fonte": "Ministério da Saúde"
     },
     "Produção de alimentos": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -4335,7 +3808,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto a granel": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -4343,7 +3815,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto acabado": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -4351,7 +3822,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto biológico": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4359,7 +3829,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto de higiene": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4367,7 +3836,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto dietético": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4375,7 +3843,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto farmacêutico": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4383,7 +3850,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto intermediário": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4391,7 +3857,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto médico estéril": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4399,7 +3864,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto médico invasivo": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4407,7 +3871,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto semi-elaborado": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -4415,7 +3878,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Produtos médicos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4423,15 +3885,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Produto para diagnóstico de uso in vitro": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
-        "definicao": "Regentes, instrumentos e sistemas, junto com PRO Produção de alimentos Produto para diagnóstico de uso in vitro 84 as instruções para seu uso, que contribuam para realizar uma determinação qualitativa, quantitativa ou semi-quantitativa de uma amostra biológica e que não sejam destinados a cumprir função anatômica, física ou terapêutica alguma, que não sejam ingeridos, injetados ou inoculados em seres humanos e que são utilizados unicamente para prover informação sobre espécimes extraídos do corpo humano.",
+        "definicao": "Regentes, instrumentos e sistemas, junto com",
         "fonte": "Ministério da Saúde"
     },
     "Produto para diagnóstico de uso in vivo": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4439,15 +3899,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Profissionais do sexo": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
         "definicao": "Homens e mulheres que prestam serviços sexuais em troca de dinheiro ou objetos de valor.",
         "fonte": "Ministério da Saúde"
     },
-    "Programação Pactuada e Integrada": {
-        "sigla": "PPI",
+    "Programação Pactuada e Integrada (PPI)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Economia de saúde"
@@ -4455,8 +3913,7 @@
         "definicao": "Programação feita em acordo entre os gestores dos três níveis de governo com o objetivo de otimizar serviços e resultados e de racionalizar. A PPI evita a duplicação de gastos porque o planejamento é feito em conjunto e com a intermediação dos governos estaduais.",
         "fonte": "Ministério da Saúde"
     },
-    "Programa de Combate às Carências Nutricionais": {
-        "sigla": "PCCN",
+    "Programa de Combate às Carências Nutricionais (PCCN)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Alimentação e Nutrição"
@@ -4464,24 +3921,21 @@
         "definicao": "O PCCN, instituído em 23 de março de 1998 e integrante da parte variável do Piso da Atenção Básica (PAB), tem por objetivo reduzir e controlar a desnutrição infantil em geral e as carências nutricionais específicas.",
         "fonte": "Ministério da Saúde"
     },
-    "Programa de Humanização no Prée Nascimento (PHPN)": {
-        "sigla": "Natal",
+    "Programa de Humanização no Pré-Natal e Nascimento (PHPN)": {
         "categoria_area": [
             "Atenção à Saúde"
         ],
         "definicao": "O objetivo primordial do Programa de Humanização no Pré-natal e Nascimento (PHPN) é assegurar a melhoria do acesso, da cobertura e da qualidade do acompanhamento pré-natal, da assistência ao parto e puerpério às gestantes e ao recém-nascido, na perspectiva dos direitos de cidadania.",
         "fonte": "Ministério da Saúde"
     },
-    "Programa de Interiorização do Trabalho em Saúde": {
-        "sigla": "PITS",
+    "Programa de Interiorização do Trabalho em Saúde (PITS)": {
         "categoria_area": [
             "Atenção à Saúde"
         ],
         "definicao": "Atende as populações de municípios desprovidos ou com precários serviços de saúde, mediante a lotação de médicos e enfermeiros naquelas localidades, por meios de oferta de incentivos financeiros e de formação profissional aos participantes. A interiorização de médicos e enfermeiros tem por objetivo impulsionar a reorganização da atenção básica de saúde no país e fortalecer o Programa de Saúde da Família, que é a base desta interiorização.",
         "fonte": "Ministério da Saúde"
     },
-    "Programa Nacional de Avaliação dos Serviços Hospitalares": {
-        "sigla": "PNASH",
+    "Programa Nacional de Avaliação dos Serviços Hospitalares (PNASH)": {
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4489,15 +3943,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Programa Nacional de Humanização da Assistência Hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
-        "definicao": "O PNHAH propõe um conjunto de ações integradas que visam mudar substancialmenPRO Produto para diagnóstico de uso in vivo Programa Nacional de Humanização da Assistência Hospitalar 85 te o padrão de assistência ao usuário nos hospitais públicos do Brasil, melhorando a qualidade e a eficácia dos serviços hoje prestados por essas instituições. É seu objetivo fundamental aprimorar as relações entre profissional de saúde e usuário, dos profissionais entre si e do hospital com a comunidade.",
+        "definicao": "O PNHAH propõe um conjunto de ações integradas que visam mudar substancialmen-",
         "fonte": "Ministério da Saúde"
     },
     "Programa Qualidade do Sangue": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Vigilância em Saúde"
@@ -4505,8 +3957,7 @@
         "definicao": "O Programa Qualidade do Sangue tem por objetivo maior assegurar a qualidade e autosuficiência em sangue, componentes, derivados sangüíneos e correlatos, bem como garantir a assistência aos portadores de doenças de coagulação sangüínea e de má formação das hemáceas, e elevar o padrão do atendimento dos serviços disponibizados à população.",
         "fonte": "Ministério da Saúde"
     },
-    "Programa Saúde da Família": {
-        "sigla": "PSF",
+    "Programa Saúde da Família (PSF)": {
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4514,7 +3965,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Programas de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4522,7 +3972,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Projeto Bela Vista": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -4531,7 +3980,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Projeto Carteiro Amigo": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Alimentação e Nutrição"
@@ -4539,26 +3987,23 @@
         "definicao": "Atividade de incentivo ao aleitamento materno, tendo surgido no Estado do Ceará como uma estratégia para reverter o quadro de desnutrição e mortalidade infantil.",
         "fonte": "Ministério da Saúde"
     },
-    "Projeto de Profissionalização dos Trabalhadores da Área de Enfermagem": {
-        "sigla": "Profae",
+    "Projeto de Profissionalização dos Trabalhadores da Área de Enfermagem (Profae)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
-            "Recursos humanos em saúde"
+            "Recursos humanos em saúde Pública"
         ],
-        "definicao": "Pública Projeto desenvolvido pelo Ministério da Saúde com vários parceiros para garantir a qualidade do atendimento ambulatorial e hospitalar das redes públicas e privada de saúde por meio de cursos de complementação do ensino fundamental para aqueles trabalhadores que não tiveram a oportunidade de concluir o primeiro grau, atual ensino fundamental.",
+        "definicao": "Projeto desenvolvido pelo Ministério da Saúde com vários parceiros para garantir a qualidade do atendimento ambulatorial e hospitalar das redes públicas e privada de saúde por meio de cursos de complementação do ensino fundamental para aqueles trabalhadores que não tiveram a oportunidade de concluir o primeiro grau, atual ensino fundamental.",
         "fonte": "Ministério da Saúde"
     },
     "Projeto Horizonte": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Epidemiologia"
         ],
-        "definicao": "Estudo que visa à formação de uma coorte de homossexuais e bissexuais masculinos para, primeiramente, determinar a incidência e PRO Programa Qualidade do Sangue Projeto Horizonte 86 prevalência da infecção pelo HIV, avaliar o impacto de intervenções educativas e aconselhamento na incidência desta infecção. O projeto também tem como objetivos avaliar a possibilidade de acompanhamento a longo prazo desta coorte e sua utilização em ensaio clínico de vacina anti-HIV, como parte integrante do Plano Nacional Vacinas Anti-HIV, do Ministério da Saúde.",
+        "definicao": "Estudo que visa à formação de uma coorte de homossexuais e bissexuais masculinos para, primeiramente, determinar a incidência e",
         "fonte": "Ministério da Saúde"
     },
     "Promoção da saúde": {
-        "sigla": "",
         "categoria_area": [
             "Promoção e Educação em Saúde"
         ],
@@ -4566,7 +4011,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Promoção do envelhecimento saudável": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4574,7 +4018,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Prontuário médico": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4582,7 +4025,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Propaganda de produtos farmacêuticos": {
-        "sigla": "",
         "categoria_area": [
             "Comunicação em Saúde"
         ],
@@ -4590,7 +4032,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Protocolos clínicos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4598,7 +4039,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Protocolo de pesquisa": {
-        "sigla": "",
         "categoria_area": [
             "Ciência e Tecnologia em Saúde"
         ],
@@ -4606,7 +4046,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Proposta de concorrência": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -4614,7 +4053,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Psicotrópico": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4622,16 +4060,14 @@
         "fonte": "Ministério da Saúde"
     },
     "Pureza": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos",
             "Vigilância em Saúde"
         ],
-        "definicao": "Grau em que uma droga determinada não contém outros materiais estranhos. PRO",
+        "definicao": "Grau em que uma droga determinada não contém outros materiais estranhos.",
         "fonte": "Ministério da Saúde"
     },
     "Quadro de metas": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4639,23 +4075,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Qualificação profissional": {
-        "sigla": "",
         "categoria_area": [
-            "Recursos humanos em saúde"
+            "Recursos humanos em saúde Pública"
         ],
-        "definicao": "Pública É o processo no qual o trabalhador adquire conhecimentos qualificados para o desempenho de determinada função visando ao seu melhor aproveitamento no exercício do trabalho.",
+        "definicao": "É o processo no qual o trabalhador adquire conhecimentos qualificados para o desempenho de determinada função visando ao seu melhor aproveitamento no exercício do trabalho.",
         "fonte": "Ministério da Saúde"
     },
     "Quimioterápico": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
-        "definicao": "Antimicrobianos sintetizados em laboratórios.",
+        "definicao": "Antimicrobianos sintetizados em laboratórios. 89",
         "fonte": "Ministério da Saúde"
     },
     "Raiva humana": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -4663,7 +4096,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Raticida": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -4671,7 +4103,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Reabilitação": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência",
             "Atenção à Saúde"
@@ -4680,7 +4111,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Reação adversa": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4688,15 +4118,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Recomendações nutricionais": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
         "definicao": "Recomendações para a ingestão diária de nutrientes e calorias. São determinadas através de pesquisas científicas, baseando-se nas necessidades nutricionais do indivíduo.",
         "fonte": "Ministério da Saúde"
     },
-    "Rede Nacional de Genotipagem": {
-        "sigla": "Renageno",
+    "Rede Nacional de Genotipagem (Renageno)": {
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4704,7 +4132,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Rede Sentinela Nacional de Parturientes": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -4712,7 +4139,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Redes regionais": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4720,7 +4146,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Redes sociais": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4728,7 +4153,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Redução de danos": {
-        "sigla": "",
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
@@ -4736,7 +4160,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Redução de demandas reprimidas": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -4744,7 +4167,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Reforço à reorganização do sistema único de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -4752,7 +4174,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Reforsus": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4760,15 +4181,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Região de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
-        "definicao": "Representa uma base de planejamento – e não uma estrutura administrativa ou operacional – a ser definida no âmbito estadual, de acordo com as características e estratégias de regionalização de cada estado, considerando variáveis geográficas, sanitárias, epidemiológicas, de oferta de serviços, entre outras. De acordo com a normativa 02, de 6 de abril de 2001, cada estado deverá estabelecer o critério que defi - nirá a unidade mínima de qualificação (região ou microrregião de saúde), que deverá agregar oferta assistencial em relação ao módulo. RED",
+        "definicao": "Representa uma base de planejamento – e não uma estrutura administrativa ou operacional – a ser definida no âmbito estadual, de acordo com as características e estratégias de regionalização de cada estado, considerando variáveis geográficas, sanitárias, epidemiológicas, de oferta de serviços, entre outras. De acordo com a normativa 02, de 6 de abril de 2001, cada estado deverá estabelecer o critério que defi - nirá a unidade mínima de qualificação (região ou microrregião de saúde), que deverá agregar oferta assistencial em relação ao módulo.",
         "fonte": "Ministério da Saúde"
     },
-    "Registro de produto": {
-        "sigla": "",
+    "Redes regionais Registro de produto": {
         "categoria_area": [
             "Direito Sanitário"
         ],
@@ -4776,7 +4195,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Regulação assistencial": {
-        "sigla": "",
         "categoria_area": [
             "Eqüidade em saúde e social"
         ],
@@ -4784,15 +4202,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Regulamento técnico": {
-        "sigla": "",
         "categoria_area": [
             "Saúde animal"
         ],
         "definicao": ". Vigilância em Saúde Documento normativo editado pela autoridade de saúde competente, contendo especificações técnicas ou requisitos de qualidade aplicáveis compulsoriamente a produto, observadas as normas técnicas brasileiras (Resolução CONMETRO n.º 11/75).",
         "fonte": "Ministério da Saúde"
     },
-    "Relação Nacional de Medicamentos Essenciais": {
-        "sigla": "Rename",
+    "Relação Nacional de Medicamentos Essenciais (Rename)": {
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -4800,7 +4216,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Relatório de gestão": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4808,7 +4223,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Relatório de vistoria": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4816,7 +4230,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Remuneração por serviços produzidos": {
-        "sigla": "",
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -4824,15 +4237,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Reposição de nicotina": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
-        "definicao": "Visa a permitir a diminuição gradual de REG Registro de produto Reposição de nicotina 92 concentração sérica de nicotina após o abandono do cigarro.",
+        "definicao": "Visa a permitir a diminuição gradual de",
         "fonte": "Ministério da Saúde"
     },
     "Resolutividade": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4840,7 +4251,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Retinopatia diabética": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -4848,7 +4258,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Riscos ocupacionais": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência",
             "Ambiente e Saúde"
@@ -4857,7 +4266,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Rotulagem nutricional": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição",
             "Vigilância em Saúde"
@@ -4866,7 +4274,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Rótulo": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -4874,15 +4281,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Ruído": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde"
         ],
-        "definicao": "É um agente físico, universalmente distribuído, estando presente praticamente em todos os ramos de auditiva, acarreta alterações importantes na qualidade de vida do trabalhador em geral, à medida que provoca ansiedade, irritabilidade, aumento da pressão arterial, isolamento e perda de auto-imagem. No seu conjunto, esses fatores compreendem as relações do indivíduo na família, no trabalho e na sociedade. RES",
+        "definicao": "É um agente físico, universalmente distribuído, estando presente praticamente em todos os ramos de auditiva, acarreta alterações importantes na qualidade de vida do trabalhador em geral, à medida que provoca ansiedade, irritabilidade, aumento da pressão arterial, isolamento e perda de auto-imagem. No seu conjunto, esses fatores compreendem as relações do indivíduo na família, no trabalho e na sociedade.",
         "fonte": "Ministério da Saúde"
     },
     "Salubridade ambiental": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde"
         ],
@@ -4890,7 +4295,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Saneantes domissanitários": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -4898,7 +4302,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Sarampo": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -4906,7 +4309,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Sarcoma de Kaposi": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -4914,7 +4316,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Saturismo": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -4922,7 +4323,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Saúde da criança": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4930,7 +4330,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Saúde da Família": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -4938,7 +4337,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Saúde da Mulher": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4946,7 +4344,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Saúde do Adolescente e do Jovem": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4954,7 +4351,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Saúde do Trabalhador": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Vigilância em Saúde"
@@ -4963,7 +4359,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Saúde Indígena": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -4971,7 +4366,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Saúde Infantil": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -4979,7 +4373,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Secretaria-Executiva": {
-        "sigla": "Executiva",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -4987,7 +4380,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Segurança alimentar": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -4995,7 +4387,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Sensibilidade diagnóstica": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5003,7 +4394,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Serviço de assistência especializada": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -5011,15 +4401,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Sexo forçado no casamento": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
-        "definicao": "É a imposição de manter relações sexuais no casamento. Devido a normas e costumes predominantes, a mulher é forçada a manter relações sexuais como parte de suas obrigações de esposa. SAU",
+        "definicao": "É a imposição de manter relações sexuais no casamento. Devido a normas e costumes predominantes, a mulher é forçada a manter relações sexuais como parte de suas obrigações de esposa.",
         "fonte": "Ministério da Saúde"
     },
-    "Sexualidade": {
-        "sigla": "",
+    "Saúde do Adolescente e do Jovem Sexualidade": {
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
@@ -5027,7 +4415,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Sífilis": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5035,7 +4422,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Sífilis congênita": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5043,7 +4429,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Silicose": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5051,7 +4436,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Síndrome da Criança Espancada": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5059,7 +4443,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Síndrome da Imunodeficiência Adquirida": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -5067,7 +4450,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Síndrome de Munchausen por Provocação": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5075,7 +4457,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Síndrome do bebê sacudido": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5083,15 +4464,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Sistema de gênero": {
-        "sigla": "",
         "categoria_area": [
             "Ciências Sociais em Saúde"
         ],
-        "definicao": "Ordena a vida nas sociedades contemporâneas a partir da linguagem, dos símbolos, das instituições e hierarquias da organização social, da representação política e do poder. Com base na interação desses elementos e de suas formas de expressão, distinguem-se os papéis do homem e da mulher na família, na divisão do trabalho, na oferta de bens e serviços e até na instituição e aplicação de normas legais. SEX",
+        "definicao": "Ordena a vida nas sociedades contemporâneas a partir da linguagem, dos símbolos, das instituições e hierarquias da organização social, da representação política e do poder. Com base na interação desses elementos e de suas formas de expressão, distinguem-se os papéis do homem e da mulher na família, na divisão do trabalho, na oferta de bens e serviços e até na instituição e aplicação de normas legais.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema de Informação de HIV Soropositivo Assintomático": {
-        "sigla": "",
+    "Sexualidade Sistema de Informação de HIV Soropositivo Assintomático": {
         "categoria_area": [
             "Ciência e Tecnologia em Saúde",
             "Epidemiologia"
@@ -5099,8 +4478,7 @@
         "definicao": "O SIHIV é um software importante como instrumento de avaliação para a vigilância epidemiológica. Permite avaliar algumas tendências da epidemia quanto às categorias de exposição, faixa etária, escolaridade, ocupação e residência dos indíviduos infectados. Estas informações devem fornecer subsídios para uma melhor organização das municipais, regionais e estaduais.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema de Informações do Programa Nacional de Imunizações -PNI)": {
-        "sigla": "SI",
+    "Sistema de Informações do Programa Nacional de Imunizações (SI-PNI)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -5108,8 +4486,7 @@
         "definicao": "Contribui para o controle, eliminação e/ou erradicação das doenças transmissíveis e imunopreveníveis, com a imunização sistemática da população.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema de Informações sobre Agravos de Notificação": {
-        "sigla": "Sinan",
+    "Sistema de Informações sobre Agravos de Notificação (Sinan)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -5117,25 +4494,22 @@
         "definicao": "Tem como objetivo coletar, transmitir e disseminar dados gerados rotineiramente pelo Sistema de Vigilância Epidemiológica para apoiar processos de investigação e de análise sobre as principais doenças e agravos sujeitos a notificação compulsória.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema de Informações sobre Orçamentos Públicos em Saúde": {
-        "sigla": "Siops",
+    "Sistema de Informações sobre Orçamentos Públicos em Saúde (Siops)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
         "definicao": "Instrumento de coleta e de processamento de informações sobre receitas e gastos públicos em saúde nas três esferas.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema de Informações Ambulatoriais -SUS)": {
-        "sigla": "SIA",
+    "Sistema de Informações Ambulatoriais (SIA-SUS)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
         ],
-        "definicao": "O SIA-SUS oferece aos gestores estaduais e municipais de saúde instrumentos para a operacionalização da funções de cadastramento ambulatorial, controle orçamentário, controle e cálculo da produção ambulaSIS Sistema de Informação de HIV Soropositivo Assintomático Sistema de Informações Ambulatoriais (SIA-SUS) 97 torial (RCA), gerenciamento da capacidade instalada e produzida; gerenciamento dos recursos financeiros orçados e repassados aos prestadores de serviços.",
+        "definicao": "O SIA-SUS oferece aos gestores estaduais e municipais de saúde instrumentos para a operacionalização da funções de cadastramento ambulatorial, controle orçamentário, controle e cálculo da produção ambula-",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema de Informações da Atenção Básica": {
-        "sigla": "Siab",
+    "Sistema de Informações da Atenção Básica (Siab)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -5143,8 +4517,7 @@
         "definicao": "Método que permite o registro de diversas informações de interesse das equipes e do gestor local, relativas à saúde da população coberta e ao andamento das atividades das equipes. Permite ainda que sejam feitas avaliações do trabalho realizado e de seu impacto na organização do sistema e na saúde da população.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistemas de Informações Hospitalares do SUS -SUS)": {
-        "sigla": "SIH",
+    "Sistemas de Informações Hospitalares do SUS (SIH-SUS)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -5152,8 +4525,7 @@
         "definicao": "O SIH-SUS contém informações que viabilizam efetuar o pagamento dos serviços hospitalares prestados pelo SUS, através da captação de dados em disquete das Autorizações de Internação Hospitalar (AIH). Sendo o sistema que processa as AIHs, dispõe de informações sobre recursos destinados a cada hospital que integra a rede do SUS; as principais causas de internações no Brasil; a relação dos procedimentos mais freqüentes realizados mensalmente em cada hospital, município e estado; a quantidade de leitos existentes para cada especialidade; o tempo médio de permanência do paciente no hospital.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema de Informações sobre Mortalidade": {
-        "sigla": "SIM",
+    "Sistema de Informações sobre Mortalidade (SIM)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -5161,8 +4533,7 @@
         "definicao": "Coleta dados sobre óbitos e fornece informações sobre o perfil de mortalidade nos diferentes níveis do SUS. Permite que os dados sejam agregados ou desagregados por estados, município, bairro ou endereço residencial.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema de Informações sobre Nascidos Vivos": {
-        "sigla": "Sinasc",
+    "Sistema de Informações sobre Nascidos Vivos (Sinasc)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Ciência e Tecnologia em Saúde"
@@ -5171,7 +4542,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Sistemas de Informação": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -5179,23 +4549,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Sistemas de Informação em Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
-        "definicao": "Instrumento para adquirir, organizar e anaSIS Sistema de Informações da Atenção Básica (Siab) Sistemas de Informação 98 lisar dados necessários a definição de problemas e riscos para a saúde, avaliar a eficácia, eficiência e infl uência que os serviços prestados possam ter no estado de saúde da população, além de contribuir para a produção de conhecimentos acerca da saúde e dos assuntos a ela ligados.",
+        "definicao": "Instrumento para adquirir, organizar e ana-",
         "fonte": "Ministério da Saúde"
     },
     "Sistema Nacional de Auditoria": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
         "definicao": "Estabelece que todos os níveis de governo devem organizar e implantar seus componentes do SNA subordinados à direção do SUS, que exercerá as seguintes atividades sobre as ações e serviços verificar a regularidade dos padrões estabelecidos; avaliação da estrutura, dos processos e dos resultados de acordo com os critérios de eficiência, eficácia e efetividade; auditoria da regularidade dos procedimentos praticados.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema Nacional de Laboratórios de Sorologia para HIV": {
-        "sigla": "Sinalaids",
+    "Sistema Nacional de Laboratórios de Sorologia para HIV (Sinalaids)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde",
             "Atenção à Saúde"
@@ -5203,8 +4570,7 @@
         "definicao": "Objetivo geral de implantar um sistema de assegurasse a qualidade dos resultados dos exames, provesse a padronização de metodologia, racionalizasse o emprego de reagentes, coletasse, processasse e difundisse dados que auxiliassem a vigilância epidemiológica e subsidiassem a avaliação das medidas adotadas permitindo a otimização das ações de controle.",
         "fonte": "Ministério da Saúde"
     },
-    "Sistema Único de Saúde": {
-        "sigla": "SUS",
+    "Sistema Único de Saúde (SUS)": {
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -5212,7 +4578,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Sistemas Formais de Cuidados": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -5220,7 +4585,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Sistemas Informais de Cuidados": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -5228,7 +4592,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Solvente orgânico": {
-        "sigla": "",
         "categoria_area": [
             "Ambiente e Saúde"
         ],
@@ -5236,7 +4599,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Soroconversão": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5244,15 +4606,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Soropositivo": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "SIS Sistemas de Informação em Saúde Soroconversão 99 Expressão usada para identificar os doentes com aids.",
+        "definicao": "",
         "fonte": "Ministério da Saúde"
     },
     "Soroprevalência": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -5260,7 +4620,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Substância ativa": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -5268,7 +4627,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Substância proscrita": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -5276,7 +4634,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Suporte avançado de vida": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5284,7 +4641,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Suporte básico de vida": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5292,15 +4648,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Suporte social": {
-        "sigla": "",
         "categoria_area": [
             "Promoção e Educação em Saúde"
         ],
-        "definicao": "Instrumento de trabalho na atenção básica à saúde visando a melhorar a qualidade de vida e o domínio do grupo e do indivíduo sobre as situações. Representa um conjunto de ações que podem ser realizadas por diferentes tipos de pessoas: os membros da equipe de saúde da família, parentes e amigos, voluntários. SOR",
+        "definicao": "Instrumento de trabalho na atenção básica à saúde visando a melhorar a qualidade de vida e o domínio do grupo e do indivíduo sobre as situações. Representa um conjunto de ações que podem ser realizadas por diferentes tipos de pessoas: os membros da equipe de saúde da família, parentes e amigos, voluntários.",
         "fonte": "Ministério da Saúde"
     },
     "Taxa de ataque": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -5308,7 +4662,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Tecnovigilância": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -5316,7 +4669,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Termo de compromisso": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -5324,7 +4676,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Testagem sorológica": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
@@ -5332,23 +4683,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Tétano": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
         "definicao": "Doença infecciosa aguda, não contagiosa e que ainda se constitui em grave problema público. O agente etiológico é o bacilo grampositivo, anaeróbico, espolurado : Clostridium tetani. A transmissão ocorre pela introdução dos esporos em uma solução de continuidade (ferimento) geralmente do tipo perfurante, contaminado com terra, poeira, fezes de animais ou humanos.",
         "fonte": "Ministério da Saúde"
     },
-    "Teto Financeiro da Assistência do Estado": {
-        "sigla": "TFAE",
+    "Teto Financeiro da Assistência do Estado (TFAE)": {
         "categoria_area": [
             "Economia de saúde"
         ],
         "definicao": "É o valor correspondente ao financiamento do conjunto das ações assistenciais sob a responsabilidade da SES (Secretaria Estadual de Saúde). É transferido, regular e automaticamente do Fundo Nacional de Saúde de acordo com as condições de gestão.",
         "fonte": "Ministério da Saúde"
     },
-    "Teto Financeiro da Assistência do Município": {
-        "sigla": "TFAM",
+    "Teto Financeiro da Assistência do Município (TFAM)": {
         "categoria_area": [
             "Economia de saúde"
         ],
@@ -5356,7 +4704,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Titular de registro": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -5364,7 +4711,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Trabalhador": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Demografia",
@@ -5374,7 +4720,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Trabalhador coletivo": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Demografia"
@@ -5383,7 +4728,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Trabalho precoce": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde",
             "Demografia"
@@ -5392,7 +4736,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Tracoma": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5400,7 +4743,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Transição demográfica": {
-        "sigla": "",
         "categoria_area": [
             "Demografia"
         ],
@@ -5408,7 +4750,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Transmissão direta": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -5416,7 +4757,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Transmissão vertical (aids)": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5424,7 +4764,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Transplante de órgãos": {
-        "sigla": "",
         "categoria_area": [
             "Ética e bioética"
         ],
@@ -5432,7 +4771,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Transtornos alimentares": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -5440,15 +4778,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Tuberculose": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
-        "definicao": "Doença progressiva ou crônica que resulta da infecção por Mycobacterium tuberculosis (adquirida geralmente por ingestão de material infectante). Começa habitualmente no pulmão mas pode afetar qualquer outro órgão ou sistema, tais como o sistema linfático, ósseo, urogenital, nervoso, digestivo ou a pele. TRA",
+        "definicao": "Doença progressiva ou crônica que resulta da infecção por Mycobacterium tuberculosis (adquirida geralmente por ingestão de material infectante). Começa habitualmente no pulmão mas pode afetar qualquer outro órgão ou sistema, tais como o sistema linfático, ósseo, urogenital, nervoso, digestivo ou a pele.",
         "fonte": "Ministério da Saúde"
     },
     "Unidade básica de saúde": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -5456,7 +4792,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Unidade de Saúde da Família": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -5464,7 +4799,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Unidade integrada": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -5472,7 +4806,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Unidade Mista": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -5480,7 +4813,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Unidade Sanitária": {
-        "sigla": "",
         "categoria_area": [
             "Atenção à Saúde"
         ],
@@ -5488,7 +4820,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Unidade Territorial de Qualificação na Assistência à Saúde": {
-        "sigla": "",
         "categoria_area": [
             "Políticas públicas e saúde"
         ],
@@ -5496,7 +4827,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Unidades de Referência": {
-        "sigla": "",
         "categoria_area": [
             "Administração e Planejamento em Saúde"
         ],
@@ -5504,7 +4834,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Universalidade": {
-        "sigla": "",
         "categoria_area": [
             "Eqüidade em saúde e social"
         ],
@@ -5512,7 +4841,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Uretrites": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5520,7 +4848,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Urticária": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5528,23 +4855,20 @@
         "fonte": "Ministério da Saúde"
     },
     "Uso racional de medicamentos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, vacinas e insumos"
         ],
         "definicao": "É o processo que compreende a prescrição apropriada; a disponibilidade oportuna e a preços acessíveis; a dispensação em condições adequadas; e o consumo nas doses indicadas, nos intervalos definidos e no período de tempo indicado de medicamentos eficazes, seguros e de qualidade.",
         "fonte": "Ministério da Saúde"
     },
-    "Usuários de Droga Injetável": {
-        "sigla": "UDI",
+    "Usuários de Droga Injetável (UDI)": {
         "categoria_area": [
             "Drogas de uso terapêutico e social"
         ],
-        "definicao": "Homens e mulheres que fazem uso injetável de substâncias psicoativas. Compartilhar agulhas, seringas e equipamentos para diluição durante esta prática contribui fortemente para o aumento nos índices de infecção pelo HIV. USO Uso racional de medicamentos Usuários de Droga Injetável (UDI) 105",
+        "definicao": "Homens e mulheres que fazem uso injetável de substâncias psicoativas. Compartilhar agulhas, seringas e equipamentos para diluição durante esta prática contribui fortemente para o aumento nos índices de infecção pelo HIV.",
         "fonte": "Ministério da Saúde"
     },
     "Vegetarianismo": {
-        "sigla": "",
         "categoria_area": [
             "Alimentação e Nutrição"
         ],
@@ -5552,7 +4876,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Veículos para atendimento pré-hospitalar": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5560,7 +4883,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Vigilância epidemiológica": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -5568,7 +4890,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Vigilância nacional de parturientes": {
-        "sigla": "",
         "categoria_area": [
             "Vigilância em Saúde"
         ],
@@ -5576,7 +4897,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Vigilância sentinela": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -5584,7 +4904,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Violência econômica": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5592,7 +4911,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Violência financeira": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
@@ -5600,7 +4918,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Violência física": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5608,7 +4925,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Violência institucional": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5616,15 +4932,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Violência intrafamiliar": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
-        "definicao": "Toda ação ou omissão que prejudique o bemV 106 estar, a integridade física, psicológica ou a liberdade e o direito ao pleno desenvolvimento de outro membro da família. Pode ser cometida dentro ou fora de casa por algum membro da família, incluindo pessoas que passam a assumir função parental, ainda que sem laços de consangüinidade, e em relação de poder à outra.",
+        "definicao": "Toda ação ou omissão que prejudique o bemestar, a integridade física, psicológica ou a liberdade e o direito ao pleno desenvolvimento de outro membro da família. Pode ser cometida dentro ou fora de casa por algum membro da família, incluindo pessoas que passam a assumir função parental, ainda que sem laços de consangüinidade, e em relação de poder à outra.",
         "fonte": "Ministério da Saúde"
     },
     "Violência psicológica": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5632,7 +4946,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Violência sexual": {
-        "sigla": "",
         "categoria_area": [
             "Acidentes e Violência"
         ],
@@ -5640,7 +4953,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Vulnerabilidade": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -5648,7 +4960,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Vulnerabilidade individual": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5656,23 +4967,13 @@
         "fonte": "Ministério da Saúde"
     },
     "Zalcitabina": {
-        "sigla": "",
         "categoria_area": [
             "Referência Cruzada"
         ],
-        "definicao": "Ver DDC. VIO Violência psicológica Zalcitabina 107 As áreas temáticas descritas a seguir foram desenvolvidas por um grupo de especialistas, sob coordenação da Faculdade de Saúde Pública da USP, com o objetivo de definir os temas da saúde pública brasileira no sentido de abranger as necessidades de informação de grupos acadêmicos, de profissionais de saúde, legisladores, gestores e formuladores de políticas de saúde, divulgado ao público na Biblioteca Virtual de Saúde Pública: (www.saudepublica.bvs.br) . Assim, esse recorte temático foi incorporado ao VCMS como estrutura inicial. Porém, os temas relacionados às Doenças Crônicas e Degenerativas e Doenças Infecciosas e Parasitárias foram substituídas por uma categoria intitulada Doenças, pois era preciso incluir outros tipos de doenças relacionados à saúde pública nesse vocabulário.",
-        "fonte": "Ministério da Saúde"
-    },
-    "Acidentes de trabalho graves": {
-        "sigla": "",
-        "categoria_area": [
-            "Acidentes e Violência"
-        ],
-        "definicao": "Acidentes com trabalhador menor de 18 anos independentemente da gravidade; acidente ocular; fratura fechada; fratura aberta ou exposta; fratura múltipla; traumatismo cranioencefálico; traumatismo de nervos e medula espinhal; eletrocussão; asfixia traumática ou estrangulamento; politraumatismo; afogamento; traumatismo de tórax/abdome/bacia, com lesão; ferimento com menção de lesão visceral ou de músculo ou de tendão; amputação traumática; lesão por esmagamento; queimadura de terceiro grau; traumatismo de nervos e da medula espinhal e intoxicações agudas.",
+        "definicao": "Ver DDC.",
         "fonte": "Ministério da Saúde"
     },
     "Chlamydia trachomatis": {
-        "sigla": "",
         "categoria_area": [
             "Doenças"
         ],
@@ -5680,7 +4981,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Dispensário de medicamentos": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, Vacinas e Insumos"
         ],
@@ -5688,7 +4988,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Epidemiologia descritiva": {
-        "sigla": "",
         "categoria_area": [
             "Epidemiologia"
         ],
@@ -5696,7 +4995,6 @@
         "fonte": "Ministério da Saúde"
     },
     "Fármaco": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, Vacinas e Insumos"
         ],
@@ -5704,13 +5002,11 @@
         "fonte": "Ministério da Saúde"
     },
     "Febre do nilo ocidental": {
-        "sigla": "",
         "categoria_area": [],
         "definicao": "Nilo. É caracterizada por um quadro agudo febril, com linfadenopatia e, por vezes, exantema.",
         "fonte": "Ministério da Saúde"
     },
     "Western blot": {
-        "sigla": "",
         "categoria_area": [
             "Medicamentos, Vacinas e Insumos"
         ],
