@@ -81,47 +81,75 @@ for bloco in blocos:
         continue
     conceito = conceito_match.group(1).strip()
     
-    # 2. Extrair Categorias (em formato de lista para suportar múltiplas ocorrências)
+    # 2. Extrair Categoria (em formato de lista para suportar múltiplas ocorrências)
     cat_match = re.search(r'@@CATEGORIA:(.*?)@@', bloco)
-    if cat_match:
-        cat_raw = cat_match.group(1).strip()
-        # Divide a string sempre que encontrar 2 ou mais espaços consecutivos
-        categorias = [c.strip() for c in re.split(r'\s{2,}', cat_raw) if c.strip()]
-    else:
-        categorias = []
+    # Divide a string sempre que encontrar 2 ou mais espaços consecutivos
+    categorias = [c.strip() for c in re.split(r'\s{2,}', cat_match.group(1).strip()) if c.strip()] if cat_match else []
+    if not categorias:
+        categorias = "Categoria não identificada"
+    
     
     # 3. Extrair Sinónimos (SIN)
     sin_match = re.search(r'@@SIN:(.*?)(?=@@|$)', bloco)
     sinonimos = [s.strip() for s in sin_match.group(1).split(';')] if sin_match else []
-    
+    if not sinonimos:
+        sinonimos = "Sinónimos não identificados"
+
     # 4. Extrair Variantes (VAR)
     var_match = re.search(r'@@VAR:(.*?)(?=@@|$)', bloco)
     variantes = [v.strip() for v in var_match.group(1).split(';')] if var_match else []
+    if not variantes:
+        variantes = "Variantes não identificadas"
     
-    # 5. Extrair Nota
+    # 5. Extrair Nota/Descrição
     nota_match = re.search(r'@@NOTA:(.*?)(?=@@|$)', bloco)
-    nota = nota_match.group(1).strip() if nota_match else "Não existe"
+    nova_descricao = nota_match.group(1).strip() if nota_match else "Descrição não identificada"
     
     # 6. Extrair Traduções
     traducoes = {}
     idiomas = [("ES", "@@ES:"), ("EN", "@@EN:"), ("PT", "@@PT:"), ("LA", "@@LA:")]
     for lang, tag in idiomas:
-        # A captura pára sempre que encontra o próximo @@ (seja idioma, nota, ou o nosso @@LIXO, ou fim da string ($))
+        # A captura para sempre que encontra o próximo @@ (seja idioma, nota, ou o nosso @@LIXO, ou fim da string ($))
         lang_match = re.search(rf'{tag}(.*?)(?=@@|$)', bloco)
         if lang_match:
             # Limpa o texto e normaliza a pontuação
             traducao_limpa = lang_match.group(1).strip().replace(" ; ", "; ")
             traducoes[lang] = traducao_limpa
-    
+    if not traducoes:
+        traducoes = "Traduções não identificadas"
 
-    # Guardar os dados estruturados no dicionário
-    dicionario_medicina[conceito] = {
-        "categorias": categorias,
-        "sinonimos": sinonimos,
-        "variantes": variantes,
-        "nota": nota,
-        "traducoes": traducoes
-    }
+    # ==========================================================
+    # ESTRUTURA DOS DADOS EM JSON C/ TRATAMENTO DE REPETIÇÕES
+    # ==========================================================
+
+    if conceito in dicionario_medicina:
+        desc_atual = dicionario_medicina[conceito]["descricao"]
+        
+        # Só fundimos as descrições se a nova for válida e diferente da que já lá está
+        if nova_descricao != "Descrição não identificada" and nova_descricao not in desc_atual:
+            
+            # Se a atual estava vazia, substituímos simplesmente
+            if desc_atual == "Descrição não identificada":
+                dicionario_medicina[conceito]["descricao"] = nova_descricao
+                
+            # Se já tinha uma descrição real, mas é a primeira vez que fundimos (não tem "(1)")
+            elif not desc_atual.startswith("(1)"):
+                dicionario_medicina[conceito]["descricao"] = f"(1) {desc_atual} (2) {nova_descricao}"
+                
+            # Se já tem (1), (2), etc., descobrimos qual é o próximo número
+            else:
+                qtd_existentes = len(re.findall(r'\(\d+\)', desc_atual))
+                dicionario_medicina[conceito]["descricao"] = f"{desc_atual} ({qtd_existentes + 1}) {nova_descricao}"
+    else:
+        # Se for a primeira vez que vemos o conceito, guardamos normalmente
+        dicionario_medicina[conceito] = {
+            "categoria": categorias,
+            "sinonimos": sinonimos,
+            "variantes": variantes,
+            "descricao": nova_descricao,
+            "traducoes": traducoes
+        }
+
 
 # ==========================================
 # FASE 3: EXPORTAR PARA JSON
