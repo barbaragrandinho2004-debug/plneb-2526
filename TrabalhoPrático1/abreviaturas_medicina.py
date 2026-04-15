@@ -8,7 +8,7 @@ with open(caminho_xml, 'r', encoding='utf-8') as f:
     texto = f.read()
 
 # ==========================================
-# CORTAR AS EXTREMIDADES DO DOCUMENTO (Foco nas Abreviaturas):
+# CORTAR AS EXTREMIDADES DO DOCUMENTO:
 # ==========================================
 
 # Cortar tudo o que está para trás do título das abreviaturas
@@ -22,9 +22,10 @@ if end_match:
     texto = texto[:end_match.start()]
 
 # ==========================================
-# EXTRAÇÃO (Apenas dentro da zona segura)
+# EXTRAÇÃO E PROCESSAMENTO DOS DADOS
 # ==========================================
 
+#As chaves estão sempre na posição left="174" e as descrições na posição left="259", então basta extrair tudo o que está entre essas tags para obter os pares chave-descrição. 
 chaves_cruas = re.findall(r'<text[^>]*left="174"[^>]*>(.*?)</text>', texto)
 descricoes_cruas = re.findall(r'<text[^>]*left="259"[^>]*>(.*?)</text>', texto)
 
@@ -42,7 +43,7 @@ json_final = {
 # EXPORTAÇÃO
 # ==========================================
 
-caminho_json = r'C:\Users\barba\OneDrive - Universidade do Minho\Universidade\4ºano\2º Semestre\PLN\plneb-2526\TrabalhoPrático1\jsons_temporarios\abreviaturas.json'
+caminho_json = r'C:\Users\barba\OneDrive - Universidade do Minho\Universidade\4ºano\2º Semestre\PLN\plneb-2526\TrabalhoPrático1\jsons_temporarios\abreviaturas_medicina.json'
 
 with open(caminho_json, "w", encoding="utf-8") as f_out:
     json.dump(json_final, f_out, ensure_ascii=False, indent=4)
