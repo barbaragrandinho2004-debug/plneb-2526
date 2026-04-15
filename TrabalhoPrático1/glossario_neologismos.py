@@ -122,12 +122,13 @@ def extrair_neologismos(caminho_xml):
             # 7. Estruturação Final e Validação
             # Assegura que o termo é válido e inicia por letra minúscula (padrão tipográfico do glossário)
             if termo and termo[0].islower():
-                entrada = {                 
+                entrada = {      
+                    "descricao": descricao_completa,           
                     "traducoes": {
                         "EN": trad_ing,
                         "ES": trad_esp
-                    },
-                    "descricao": descricao_completa
+                    }
+                
                 }
                 dicionario_final[termo] = entrada
 
