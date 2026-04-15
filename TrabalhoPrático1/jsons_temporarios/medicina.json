@@ -272,10 +272,7 @@
     "accidente isquémico transitorio": {
         "categoria": [
             "Semioloxía",
-            "Patoloxías",
-            "AIT",
-            "TIA (sg)",
-            "AIT"
+            "Patoloxías"
         ],
         "sinonimos": [
             "ataque isquémico transitorio",
@@ -284,9 +281,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "accidente isquémico transitorio ;",
-            "EN": "",
-            "PT": "acidente isquêmico transitório ;"
+            "ES": "accidente isquémico transitorio; AIT (sg); ataque isquémico transitorio",
+            "EN": "TIA (sg); transient ischemic attack",
+            "PT": "acidente isquêmico transitório; AIT (sg); ataque isquêmico transitório"
         }
     },
     "aceptación": {
@@ -473,12 +470,7 @@
     },
     "ácido desoxirribonucleico": {
         "categoria": [
-            "Bioquímica",
-            "ADN (sg)",
-            "DNA (sg)",
-            "DNA (sg)",
-            "ADN (sg)",
-            "DNA (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "ADN",
@@ -487,9 +479,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "ácido desoxirribonucleico ;",
-            "EN": "deoxyribonucleic acid; deoxyribonucleic acid ;",
-            "PT": "ácido desoxirribonucléico ;"
+            "ES": "ácido desoxirribonucleico; ADN (sg); DNA (sg)",
+            "EN": "deoxyribonucleic acid; deoxyribonucleic acid; DNA (sg)",
+            "PT": "ácido desoxirribonucléico; ADN (sg); DNA (sg)"
         }
     },
     "ácido fólico": {
@@ -508,10 +500,7 @@
     "ácido gamma-aminobutírico": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "GABA (sg)",
-            "GABA (sg)",
-            "GABA (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "GABA (sg)"
@@ -519,9 +508,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "ácido gamma-aminobutírico ;",
-            "EN": "",
-            "PT": "ácido gama-aminobutírico ;"
+            "ES": "ácido gamma-aminobutírico; GABA (sg)",
+            "EN": "GABA (sg); gamma-aminobutyric acid",
+            "PT": "ácido gama-aminobutírico; GABA (sg)"
         }
     },
     "ácido glutámico": {
@@ -543,10 +532,7 @@
     },
     "ácido graxo": {
         "categoria": [
-            "Bioquímica",
-            "AG (sg)",
-            "FA (sg)",
-            "AG (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "AG (sg)"
@@ -554,9 +540,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "ácido graso ;",
-            "EN": "",
-            "PT": "ácido graxo ;"
+            "ES": "ácido graso; AG (sg)",
+            "EN": "FA (sg); fatty acid",
+            "PT": "ácido graxo; AG (sg)"
         }
     },
     "ácido láctico": {
@@ -587,12 +573,7 @@
     },
     "ácido ribonucleico": {
         "categoria": [
-            "Bioquímica",
-            "ARN (sg)",
-            "RNA (sg)",
-            "RNA (sg)",
-            "ARN (sg)",
-            "RNA (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "ARN (sg)",
@@ -601,9 +582,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "ácido ribonucleico ;",
-            "EN": "ribonucleic acid ;",
-            "PT": "ácido ribonucléico ;"
+            "ES": "ácido ribonucleico; ARN (sg); RNA (sg)",
+            "EN": "ribonucleic acid; RNA (sg)",
+            "PT": "ácido ribonucléico; ARN (sg); RNA (sg)"
         }
     },
     "ácido salicílico": {
@@ -1202,9 +1183,7 @@
     },
     "adenosinmonofosfato cíclico": {
         "categoria": [
-            "Bioquímica",
-            "AMPc (sg)",
-            "AMPc (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "AMPc (sg)",
@@ -1213,17 +1192,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "adenosinmonofosfato cíclico ;",
+            "ES": "adenosinmonofosfato cíclico; AMPc (sg)",
             "EN": "cAMP (sg); cyclic adenosine monophosphate; cyclic AMP",
-            "PT": "adenosina monofosfato cíclica ;"
+            "PT": "adenosina monofosfato cíclica; AMPc (sg)"
         }
     },
     "adenosintrifosfato": {
         "categoria": [
-            "Bioquímica",
-            "ATP (sg)",
-            "ATP (sg)",
-            "ATP (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "trifosfato de adenosina",
@@ -1232,9 +1208,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "adenosina trifosfato; adenosintrifosfato; adenosín- trifosfato ;",
-            "EN": "adenosine triphosphate ;",
-            "PT": "adenosina trifosfato ;"
+            "ES": "adenosina trifosfato; adenosintrifosfato; adenosín- trifosfato; ATP (sg); trifosfato de adenosina",
+            "EN": "adenosine triphosphate; ATP (sg)",
+            "PT": "adenosina trifosfato; ATP (sg); trifosfato de adenosina"
         }
     },
     "adenovirus": {
@@ -1930,10 +1906,7 @@
     },
     "alfa-fetoproteína": {
         "categoria": [
-            "Bioquímica",
-            "AFP (sg)",
-            "AFP (sg)",
-            "AFP (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "AFP (sg)"
@@ -1941,9 +1914,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "AFP (sg); alfa fetoproteína",
+            "EN": "AFP (sg); alpha fetoprotein",
+            "PT": "AFP (sg); alfa-fetoproteína"
         }
     },
     "alimentación artificial": {
@@ -2514,8 +2487,7 @@
     },
     "análise de líquido cefalorraquídeo": {
         "categoria": [
-            "Probas complementarias",
-            "CSF analysis"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "análise de LCR",
@@ -2526,7 +2498,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "análisis de LCR; análisis de líquido cefalorraquídeo; examen de LCR; examen de líquido cefalorraquídeo",
-            "EN": "cerebrospinal fluid analysis ;",
+            "EN": "cerebrospinal fluid analysis; CSF analysis",
             "PT": "análise do LCR; análise do líquido cefalorraquidiano; exame do LCR; exame do líquido cefalorraquidiano"
         }
     },
@@ -3420,11 +3392,7 @@
     },
     "antagonista dos receptores da anxiotensina II": {
         "categoria": [
-            "Farmacoloxía",
-            "ARA II",
-            "II receptor antagonist",
-            "ARA II (sg)",
-            "ARA II (sg)"
+            "Farmacoloxía"
         ],
         "sinonimos": [
             "ARA II (sg)",
@@ -3433,9 +3401,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "antagonista de la angiotensina II; antagonista de los receptores de la angiotensina II ;",
-            "EN": "angiotensin II antagonist; angiotensin",
-            "PT": "antagonista da angiotensina II; antagonista dos receptores da angiotensina II ;"
+            "ES": "antagonista de la angiotensina II; antagonista de los receptores de la angiotensina II; ARA II",
+            "EN": "angiotensin II antagonist; angiotensin II receptor antagonist; ARA II (sg)",
+            "PT": "antagonista da angiotensina II; antagonista dos receptores da angiotensina II; ARA II (sg)"
         }
     },
     "antagonista dos receptores da serotonina": {
@@ -3466,15 +3434,14 @@
     },
     "antagonista dos receptores H2": {
         "categoria": [
-            "Farmacoloxía",
-            "H-2 receptor antagonist"
+            "Farmacoloxía"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "antagonista de receptores H2",
-            "EN": "",
+            "EN": "H-2 receptor antagonist",
             "PT": "antagonista dos receptores H2"
         }
     },
@@ -4109,10 +4076,7 @@
     },
     "antiinflamatorio non-esteroide": {
         "categoria": [
-            "Farmacoloxía",
-            "AINE (sg)",
-            "NSAID (sg)",
-            "AINE (sg)"
+            "Farmacoloxía"
         ],
         "sinonimos": [
             "AINE (sg)"
@@ -4120,9 +4084,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "nonsteroidal antiinflammatory drug ;",
-            "PT": ""
+            "ES": "AINE (sg); antiinflamatorio no esteroide; antiinflamatorio no esteroideo",
+            "EN": "nonsteroidal antiinflammatory drug; NSAID (sg)",
+            "PT": "AINE (sg); anti-inflamatório não- esteróide"
         }
     },
     "antimaníaco": {
@@ -5882,10 +5846,7 @@
     },
     "arteria cerebral anterior": {
         "categoria": [
-            "Anatomía",
-            "ACA (sg)",
-            "ACA (sg)",
-            "ACA (sg)"
+            "Anatomía"
         ],
         "sinonimos": [
             "ACA (sg)"
@@ -5893,18 +5854,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": "",
+            "ES": "ACA (sg); arteria cerebral anterior",
+            "EN": "ACA (sg); anterior cerebral artery",
+            "PT": "ACA (sg); artéria cerebral anterior",
             "LA": "arteria cerebri anterior"
         }
     },
     "arteria cerebral media": {
         "categoria": [
-            "Anatomía",
-            "ACM (sg)",
-            "MCA (sg)",
-            "ACM (sg)"
+            "Anatomía"
         ],
         "sinonimos": [
             "ACM (sg)"
@@ -5912,18 +5870,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": "",
+            "ES": "ACM (sg); arteria cerebral media",
+            "EN": "MCA (sg); middle cerebral artery",
+            "PT": "ACM (sg); artéria cerebral media",
             "LA": "arteria cerebri media"
         }
     },
     "arteria cerebral posterior": {
         "categoria": [
-            "Anatomía",
-            "ACP (sg); arteria cerebral posterior",
-            "PCA (sg); posterior cerebral artery",
-            "ACP"
+            "Anatomía"
         ],
         "sinonimos": [
             "ACP (sg)"
@@ -5931,9 +5886,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": "",
+            "ES": "ACP (sg); arteria cerebral posterior",
+            "EN": "PCA (sg); posterior cerebral artery",
+            "PT": "ACP (sg); artéria cerebral posterior",
             "LA": "arteria cerebri posterior"
         }
     },
@@ -7646,12 +7601,7 @@
     },
     "atlas": {
         "categoria": [
-            "Anatomía",
-            "CI (sg); vértebra",
-            "CI",
-            "CI (sg); CI vertebra",
-            "CI (sg); vértebra",
-            "CI"
+            "Anatomía"
         ],
         "sinonimos": [
             "vértebra CI",
@@ -7660,9 +7610,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "atlas ;",
-            "EN": "atlas ;",
-            "PT": "atlas ;",
+            "ES": "atlas; CI (sg); vértebra CI",
+            "EN": "atlas; CI (sg); CI vertebra",
+            "PT": "atlas; CI (sg); vértebra CI",
             "LA": "atlas"
         }
     },
@@ -8062,11 +8012,7 @@
     },
     "axe": {
         "categoria": [
-            "Anatomía",
-            "C II (sg)",
-            "C II (sg)",
-            "C II vertebra",
-            "C II (sg)"
+            "Anatomía"
         ],
         "sinonimos": [
             "vértebra C II (f)",
@@ -8077,9 +8023,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "axis ;",
-            "EN": "axis ;",
-            "PT": "áxis ;",
+            "ES": "axis; C II (sg); vértebra C II",
+            "EN": "axis; C II (sg); C II vertebra; second cervical vertebra",
+            "PT": "áxis; C II (sg); vértebra C II",
             "LA": "axis"
         }
     },
@@ -8215,10 +8161,7 @@
     },
     "bacilo ácido-alcol-resistente": {
         "categoria": [
-            "Etiopatoxenia",
-            "BAAR (sg)",
-            "AFB (sg)",
-            "BAAR (sg)"
+            "Etiopatoxenia"
         ],
         "sinonimos": [
             "BAAR (sg)"
@@ -8228,9 +8171,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "acid-fast bacillus ;",
-            "PT": ""
+            "ES": "BAAR (sg); bacilo ácido-alcohol- resistente",
+            "EN": "acid-fast bacillus; AFB (sg)",
+            "PT": "BAAR (sg); bacilo álcool-ácido resistente"
         }
     },
     "baciloscopia": {
@@ -8454,8 +8397,7 @@
     },
     "balón de contrapulsación aórtico": {
         "categoria": [
-            "Terapéutica",
-            "IABP (sg)"
+            "Terapéutica"
         ],
         "sinonimos": [
             "balón intraaórtico"
@@ -8464,7 +8406,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "balón de contrapulsación aórtico",
-            "EN": "",
+            "EN": "IABP (sg); intra-aortic balloon pump",
             "PT": "balão intra-aórtico"
         }
     },
@@ -9267,10 +9209,7 @@
     },
     "bomba H(+)-ATPase": {
         "categoria": [
-            "Bioquímica",
-            "H+ATPasa",
-            "H(+)-ATPase pump",
-            "H(+)-ATPase"
+            "Bioquímica"
         ],
         "sinonimos": [
             "bomba de protóns"
@@ -9278,9 +9217,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "bomba de protones; bomba",
-            "EN": "",
-            "PT": "bomba de protões [Pt.]; bomba de prótons [Br.] ;"
+            "ES": "bomba de protones; bomba H+ATPasa",
+            "EN": "H(+)-ATPase pump; proton pump",
+            "PT": "bomba de protões [Pt.]; bomba de prótons [Br.]; H(+)-ATPase"
         }
     },
     "bomba Na+K+ATPase": {
@@ -10382,7 +10321,6 @@
     "canal atrioventricular": {
         "categoria": [
             "Fisioloxía",
-            "AV canal",
             "clivus"
         ],
         "sinonimos": [
@@ -10393,7 +10331,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "canal atrioventricular; canal aurículoventricular; canal AV",
-            "EN": "atrioventricular canal ;",
+            "EN": "atrioventricular canal; AV canal",
             "PT": "canal átrio-ventricular; canal AV"
         }
     },
@@ -10531,10 +10469,7 @@
     },
     "capacidade inspiratoria": {
         "categoria": [
-            "Fisioloxía",
-            "CI (sg)",
-            "IC (sg)",
-            "CI (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "CI (sg)"
@@ -10542,9 +10477,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "capacidad inspiratoria ;",
-            "EN": "",
-            "PT": "capacidade inspiratória ;"
+            "ES": "capacidad inspiratoria; CI (sg)",
+            "EN": "IC (sg); inspiratory capacity",
+            "PT": "capacidade inspiratória; CI (sg)"
         }
     },
     "capacidade pulmonar": {
@@ -10562,10 +10497,7 @@
     },
     "capacidade pulmonar total": {
         "categoria": [
-            "Fisioloxía",
-            "CPT (sg)",
-            "TLC (sg)",
-            "CPT (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "CPT (sg)"
@@ -10573,17 +10505,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "capacidad pulmonar total ;",
-            "EN": "",
-            "PT": "capacidade pulmonar total ;"
+            "ES": "capacidad pulmonar total; CPT (sg)",
+            "EN": "TLC (sg); total lung capacity",
+            "PT": "capacidade pulmonar total; CPT (sg)"
         }
     },
     "capacidade vital": {
         "categoria": [
-            "Fisioloxía",
-            "CV (sg)",
-            "VC (sg)",
-            "CV (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "CV (sg)"
@@ -10591,9 +10520,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "capacidad vital ;",
-            "EN": "",
-            "PT": "capacidade vital ;"
+            "ES": "capacidad vital; CV (sg)",
+            "EN": "VC (sg); vital capacity",
+            "PT": "capacidade vital; CV (sg)"
         }
     },
     "capilar": {
@@ -12244,8 +12173,7 @@
     },
     "célula NK": {
         "categoria": [
-            "Histoloxía",
-            "NK cell"
+            "Histoloxía"
         ],
         "sinonimos": [
             "célula asasina natural",
@@ -12255,7 +12183,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "célula asesina natural; célula citotóxica natural; célula NK",
-            "EN": "natural cytotoxic cell; natural killer cell ;",
+            "EN": "natural cytotoxic cell; natural killer cell; NK cell",
             "PT": "célula assassina natural; célula citotóxica natural; célula NK"
         }
     },
@@ -13732,10 +13660,7 @@
     },
     "cistouretrografía miccional": {
         "categoria": [
-            "Probas complementarias",
-            "CUGM",
-            "VCU (sg)",
-            "UCM"
+            "Probas complementarias"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": [
@@ -13743,9 +13668,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "cistouretrografía miccional ;",
-            "EN": "",
-            "PT": "cistouretrografia miccional ;"
+            "ES": "cistouretrografía miccional; CUGM (sg); uretrocistografía miccional",
+            "EN": "VCU (sg); voiding cystourethrography",
+            "PT": "cistouretrografia miccional; UCM (sg); uretrocistografia miccional"
         }
     },
     "citocina": {
@@ -13833,10 +13758,7 @@
     },
     "citomegalovirus": {
         "categoria": [
-            "Etiopatoxenia",
-            "CMV (sg)",
-            "CMV (sg)",
-            "CMV (sg)"
+            "Etiopatoxenia"
         ],
         "sinonimos": [
             "virus citomegálico",
@@ -13845,9 +13767,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "citomegalovirus ;",
-            "EN": "",
-            "PT": "citomegalovírus ;"
+            "ES": "citomegalovirus; CMV (sg)",
+            "EN": "CMV (sg); cytomegalovirus",
+            "PT": "citomegalovírus; CMV (sg)"
         }
     },
     "citometría de fluxo": {
@@ -14477,9 +14399,7 @@
     },
     "colanxiografía percutánea transhepática": {
         "categoria": [
-            "Probas complementarias",
-            "CPTH (sg)",
-            "PTHC (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "colanxiografía transparietohepática"
@@ -14487,8 +14407,8 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "colangiografía percutánea transhepática; colangiografía transparietohepática ;",
-            "EN": "percutaneous transhepatic cholangiography ;",
+            "ES": "colangiografía percutánea transhepática; colangiografía transparietohepática; CPTH (sg)",
+            "EN": "percutaneous transhepatic cholangiography; PTHC (sg)",
             "PT": "colangiografia transparietohepática"
         }
     },
@@ -14522,10 +14442,7 @@
     },
     "colanxiopancreatografía retrógrada endoscópica": {
         "categoria": [
-            "Probas complementarias",
-            "CPRE (sg)",
-            "ERPC",
-            "CPRE (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "CPRE (sg)"
@@ -14533,9 +14450,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "colangiopancreatografía retrógrada endoscópica ;",
-            "EN": "endoscopic retrograde cholangiopancreatography ;",
-            "PT": "colangiopancreatografia retrógrada endoscópica ;"
+            "ES": "colangiopancreatografía retrógrada endoscópica; CPRE (sg)",
+            "EN": "endoscopic retrograde cholangiopancreatography; ERPC (sg)",
+            "PT": "colangiopancreatografia retrógrada endoscópica; CPRE (sg)"
         }
     },
     "colanxiopatía": {
@@ -15133,9 +15050,7 @@
     },
     "colon sigmoide": {
         "categoria": [
-            "Anatomía",
-            "S ilíaca",
-            "S ilíaco"
+            "Anatomía"
         ],
         "sinonimos": [
             "sigma",
@@ -15144,9 +15059,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "colon sigmoideo ;",
+            "ES": "colon sigmoideo; S ilíaca; sigma",
             "EN": "sigmoid colon",
-            "PT": "cólon sigmóide ;",
+            "PT": "cólon sigmóide; S ilíaco",
             "LA": "colon sigmoideum"
         }
     },
@@ -15451,12 +15366,7 @@
     },
     "complexo principal de histocompatibilidade": {
         "categoria": [
-            "Bioquímica",
-            "CMH (sg)",
-            "MHC (sg)",
-            "MHC (sg)",
-            "CMH (sg)",
-            "MHC (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "complexo maior de histocompatibilidade",
@@ -15466,15 +15376,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "major histocompatibility complex ;",
-            "PT": ""
+            "ES": "CMH (sg); complejo principal de histocompatibilidad; MHC (sg)",
+            "EN": "major histocompatibility complex; MHC (sg)",
+            "PT": "CMH (sg); complexo maior de histocompatibilidade; complexo principal de histocompatibilidade; MHC (sg)"
         }
     },
     "complexo QRS": {
         "categoria": [
-            "Fisioloxía",
-            "QRS complex"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "complexo ventricular"
@@ -15483,7 +15392,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "complejo QRS; complejo ventricular",
-            "EN": "",
+            "EN": "QRS complex; ventricular complex",
             "PT": "complexo QRS; complexo ventricular"
         }
     },
@@ -17244,10 +17153,7 @@
     },
     "creatina quinase": {
         "categoria": [
-            "Bioquímica",
-            "CK (sg)",
-            "CK (sg)",
-            "CK (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "CK (sg)"
@@ -17257,9 +17163,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "CK (sg); creatina cinasa; creatina kinasa; creatina quinasa",
+            "EN": "CK (sg); creatine kinase",
+            "PT": "CK (sg); creatina quinase"
         }
     },
     "creatinina": {
@@ -19651,10 +19557,7 @@
     },
     "dietilamida do ácido lisérxico": {
         "categoria": [
-            "Etiopatoxenia",
-            "LSD",
-            "LSD (sg)",
-            "LSD"
+            "Etiopatoxenia"
         ],
         "sinonimos": [
             "LSD (sg)"
@@ -19662,9 +19565,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "dietilamida del ácido lisérgico ;",
-            "EN": "",
-            "PT": "dietilamida do ácido lisérgico ;"
+            "ES": "dietilamida del ácido lisérgico; LSD (sg)",
+            "EN": "LSD (sg); lysergic acid diethylamide",
+            "PT": "dietilamida do ácido lisérgico; LSD (sg)"
         }
     },
     "diferenciación celular": {
@@ -20263,8 +20166,7 @@
     },
     "disociación auriculoventricular": {
         "categoria": [
-            "Etiopatoxenia",
-            "AV"
+            "Etiopatoxenia"
         ],
         "sinonimos": [
             "disociación atrioventricular",
@@ -20274,7 +20176,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "disociación auriculoventricular; disociación AV",
-            "EN": "atrioventricular dissociation ;",
+            "EN": "atrioventricular dissociation; AV dissociation",
             "PT": "dissociação atrio-ventricular; dissociação AV"
         }
     },
@@ -20345,10 +20247,7 @@
     },
     "dispositivo intrauterino": {
         "categoria": [
-            "Medicina preventiva",
-            "DIU (sg)",
-            "IUD (sg)",
-            "DIU (sg)"
+            "Medicina preventiva"
         ],
         "sinonimos": [
             "DIU (sg)"
@@ -20356,9 +20255,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "dispositivo intrauterino ;",
-            "EN": "intrauterine contraceptive device; intrauterine device ;",
-            "PT": "dispositivo intra-uterino ;"
+            "ES": "dispositivo intrauterino; DIU (sg)",
+            "EN": "intrauterine contraceptive device; intrauterine device; IUD (sg)",
+            "PT": "dispositivo intra-uterino; DIU (sg)"
         }
     },
     "disqueratose": {
@@ -21820,10 +21719,7 @@
     },
     "ELISA": {
         "categoria": [
-            "Probas complementarias",
-            "ELISA (sg)",
-            "ELISA (sg)",
-            "ELISA (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "ensaio inmunoenzimático indirecto (m)",
@@ -21832,9 +21728,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "ELISA (sg); ensayo con sustancias inmunoabsorbentes unidas a enzimas; ensayo inmunoenzimatico indirecto",
+            "EN": "ELISA (sg); enzyme-linked immunosorbent assay",
+            "PT": "ELISA (sg); ensaio de imunoabsorção enzimática; ensaio imunoenzimático indireto"
         }
     },
     "elixir": {
@@ -22681,8 +22577,7 @@
     },
     "enfermeiro -ra": {
         "categoria": [
-            "Organización sanitaria",
-            "ATS [arc.]"
+            "Organización sanitaria"
         ],
         "sinonimos": [
             "auxiliar técnico sanitario [arc.]",
@@ -22691,7 +22586,7 @@
         "variantes": "Variantes não identificadas",
         "descricao": "En inglés emprégase “male nurse” cando quen exerce esa profesión é un home.",
         "traducoes": {
-            "ES": "",
+            "ES": "ATS [arc.]; auxiliar técnico sanitario [arc.]; enfermero",
             "EN": "nurse",
             "PT": "enfermeiro"
         }
@@ -22758,10 +22653,7 @@
     },
     "enfermidade de declaración obrigatoria": {
         "categoria": [
-            "Epidemioloxía",
-            "EDO (sg)",
-            "ND (sg)",
-            "DDO (sg)"
+            "Epidemioloxía"
         ],
         "sinonimos": [
             "EDO (sg)"
@@ -22769,19 +22661,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "EDO (sg); enfermedad de declaración obligatoria",
+            "EN": "ND (sg); notifiable disease; reportable disease",
+            "PT": "DDO (sg); doença de declaração obrigatória"
         }
     },
     "enfermidade de transmisión sexual": {
         "categoria": [
-            "Patoloxías",
-            "ETS (sg)",
-            "ITS (sg)",
-            "STD (sg)",
-            "DTS",
-            "ITS (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "ETS (sg)",
@@ -22791,17 +22678,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "enfermedad de transmisión sexual ;",
-            "EN": "sexually transmitted disease; sexually transmitted infection (STI) ;",
-            "PT": "doença de transmissão sexual ;"
+            "ES": "enfermedad de transmisión sexual; ETS (sg); infección de transmisión sexual; ITS (sg)",
+            "EN": "sexually transmitted disease; sexually transmitted infection (STI); STD (sg)",
+            "PT": "doença de transmissão sexual; DTS (sg); infecção de transmissão sexual; ITS (sg)"
         }
     },
     "enfermidade do refluxo gastroesofáxico": {
         "categoria": [
-            "Patoloxías",
-            "ERGE (sg)",
-            "GERD (sg)",
-            "DRGE (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "ERGE (sg)",
@@ -22811,9 +22695,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "enfermedad del reflujo gastresofágico ;",
-            "EN": "gastroesophageal reflux disease ;",
-            "PT": "doença do refluxo gastro-esofágico ;"
+            "ES": "enfermedad del reflujo gastresofágico; ERGE (sg)",
+            "EN": "gastroesophageal reflux disease; GERD (sg)",
+            "PT": "doença do refluxo gastro-esofágico; DRGE (sg)"
         }
     },
     "enfermidade do sono": {
@@ -22947,10 +22831,7 @@
     },
     "enfermidade inflamatoria intestinal": {
         "categoria": [
-            "Patoloxías",
-            "EII (sg)",
-            "IBD (sg)",
-            "DII (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "EII (sg)",
@@ -22960,17 +22841,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "EII (sg); enfermedad inflamatoria intestinal",
+            "EN": "IBD (sg); inflammatory bowel disease",
+            "PT": "DII (sg); doença inflamatória intestinal"
         }
     },
     "enfermidade inflamatoria pélvica": {
         "categoria": [
-            "Patoloxías",
-            "EIP (sg)",
-            "PID",
-            "DIP (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "EIP (sg)",
@@ -22980,9 +22858,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "pelvic inflammatory disease ;",
-            "PT": ""
+            "ES": "EIP (sg); enfermedad inflamatoria pélvica",
+            "EN": "pelvic inflammatory disease; PID (sg)",
+            "PT": "DIP (sg); doença inflamatória pélvica"
         }
     },
     "enfermidade intersticial": {
@@ -23033,10 +22911,7 @@
     },
     "enfermidade pulmonar obstrutiva crónica": {
         "categoria": [
-            "Patoloxías",
-            "EPOC (sg)",
-            "COPD (sg)",
-            "DPOC (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "EPOC (sg)",
@@ -23046,9 +22921,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "enfermedad pulmonar obstructiva crónica ;",
-            "EN": "chronic obstructive pulmonary disease ;",
-            "PT": "doença pulmonar obstrutiva crônica [Br.]; doença pulmonar obstrutiva crónica [Pt.] ;"
+            "ES": "enfermedad pulmonar obstructiva crónica; EPOC (sg)",
+            "EN": "chronic obstructive pulmonary disease; COPD (sg)",
+            "PT": "doença pulmonar obstrutiva crônica [Br.]; doença pulmonar obstrutiva crónica [Pt.]; DPOC (sg)"
         }
     },
     "enfermidade pulmonar restritiva": {
@@ -23200,16 +23075,14 @@
     },
     "ensaio aleatorizado controlado": {
         "categoria": [
-            "Epidemioloxía",
-            "EAC (sg)",
-            "RCT"
+            "Epidemioloxía"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "randomized controlled trial ;",
+            "ES": "EAC (sg); ensayo aleatorio controlado",
+            "EN": "randomized controlled trial; RCT (sg)",
             "PT": "ensaio aleatorizado e controlado; ensaio randomizado e controlado"
         }
     },
@@ -23615,10 +23488,7 @@
     },
     "enzima conversor da anxiotensina": {
         "categoria": [
-            "Bioquímica",
-            "ECA (sg)",
-            "ACE (sg)",
-            "ECA (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "ECA (sg)"
@@ -23626,9 +23496,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "ECA (sg); enzima convertidora de la angiotensina",
+            "EN": "ACE (sg); angiotensin-converting enzyme",
+            "PT": "ECA (sg); enzima conversora de angiotensina"
         }
     },
     "enzimopatía": {
@@ -24345,10 +24215,7 @@
     "eritropoetina": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "EPO (sg)",
-            "EPO (sg)",
-            "EPO (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "hematopoetina",
@@ -24357,9 +24224,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "EPO (sg); eritropoyetina; hematopoyetina",
+            "EN": "EPO (sg); erythropoietin; hematopoietin",
+            "PT": "EPO (sg); eritropoetina; eritropoietina"
         }
     },
     "erosión": {
@@ -24683,10 +24550,7 @@
     },
     "esclerose lateral amiotrófica": {
         "categoria": [
-            "Patoloxías",
-            "ELA (sg)",
-            "ALS (sg)",
-            "ELA (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "ELA (sg)"
@@ -24694,17 +24558,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "ELA (sg); esclerosis lateral amiotrófica",
+            "EN": "ALS (sg); amyotrophic lateral sclerosis",
+            "PT": "ELA (sg); esclerose lateral amiotrófica"
         }
     },
     "esclerose múltiple": {
         "categoria": [
-            "Patoloxías",
-            "EM (sg)",
-            "MS (sg)",
-            "EM (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "EM (sg)",
@@ -24713,9 +24574,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "disseminated sclerosis ;",
-            "PT": ""
+            "ES": "EM (sg); esclerosis diseminada; esclerosis en placas; esclerosis múltiple",
+            "EN": "disseminated sclerosis; MS (sg); multiple sclerosis",
+            "PT": "EM (sg); esclerose disseminada; esclerose em placas; esclerose múltipla"
         }
     },
     "esclerose tuberosa": {
@@ -25176,8 +25037,7 @@
     },
     "espasmo difuso do esófago": {
         "categoria": [
-            "Patoloxías",
-            "DES (sg)"
+            "Patoloxías"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": [
@@ -25186,7 +25046,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "espasmo difuso del esófago; espasmo esofágico difuso",
-            "EN": "",
+            "EN": "DES (sg); diffuse esophageal spasm",
             "PT": "espasmo difuso do esôfago; espasmo esofágico difuso"
         }
     },
@@ -27413,12 +27273,7 @@
     "factor de necrose tumoral": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "FNT (sg)",
-            "TNF (sg)",
-            "TNF (sg)",
-            "FNT (sg)",
-            "TNF (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "TNF (sg)",
@@ -27427,9 +27282,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "factor de necrosis tumoral ;",
-            "EN": "",
-            "PT": "factor de necrose tumoral [Pt.]; fator de necrose tumoral [Br.] ;"
+            "ES": "factor de necrosis tumoral; FNT (sg); TNF (sg)",
+            "EN": "TNF (sg); tumor necrosis factor",
+            "PT": "factor de necrose tumoral [Pt.]; fator de necrose tumoral [Br.]; FNT (sg); TNF (sg)"
         }
     },
     "factor de risco": {
@@ -27532,10 +27387,7 @@
     },
     "factor reumatoide": {
         "categoria": [
-            "Bioquímica",
-            "FR (sg)",
-            "RF (sg)",
-            "FR (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "FR (sg)"
@@ -27543,9 +27395,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "factor reumatoide ;",
-            "EN": "",
-            "PT": "factor reumatóide [Pt.]; fator reumatóide [Br.] ;"
+            "ES": "factor reumatoide; FR (sg)",
+            "EN": "RF (sg); rheumatoid factor",
+            "PT": "factor reumatóide [Pt.]; fator reumatóide [Br.]; FR (sg)"
         }
     },
     "fagocitose": {
@@ -27905,10 +27757,7 @@
     },
     "febre mediterránea familiar": {
         "categoria": [
-            "Patoloxías",
-            "FMF",
-            "FMF",
-            "FMF"
+            "Patoloxías"
         ],
         "sinonimos": [
             "FMF (sg)"
@@ -27916,9 +27765,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "fiebre mediterránea familiar ;",
-            "EN": "familial Mediterranean fever ;",
-            "PT": "febre mediterrânica familiar ;"
+            "ES": "fiebre mediterránea familiar; FMF (sg)",
+            "EN": "familial Mediterranean fever; FMF (sg)",
+            "PT": "febre mediterrânica familiar; FMF (sg)"
         }
     },
     "febre reumática": {
@@ -29625,11 +29474,7 @@
     },
     "fracción de exección": {
         "categoria": [
-            "Fisioloxía",
-            "FE (sg)",
-            "EF",
-            "EF (sg)",
-            "FE (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "FE (sg)"
@@ -29637,9 +29482,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "FE (sg); fracción de eyección",
+            "EN": "EF; EF (sg); ejection fraction",
+            "PT": "FE (sg); fração de ejecção [Br.]; fracção de ejecção [Pt.]"
         }
     },
     "fracción de filtración": {
@@ -29657,10 +29502,7 @@
     },
     "fracción etiolóxica de risco": {
         "categoria": [
-            "Epidemioloxía",
-            "FER (sg)",
-            "AR% (sg)",
-            "RAP"
+            "Epidemioloxía"
         ],
         "sinonimos": [
             "FER (sg)",
@@ -29669,9 +29511,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Cfr. con “risco atribuíble”.",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": "fração etiológica de risco [Br.]; fracção etiológica de risco [Pt.] ;"
+            "ES": "FER (sg); fracción atribuíble de riesgo; fracción etiológica de riesgo",
+            "EN": "AR% (sg); attributable risk percent; etiologic fraction",
+            "PT": "fração etiológica de risco [Br.]; fracção etiológica de risco [Pt.]; RAP (sg); risco atribuível percentual"
         }
     },
     "fractura": {
@@ -32502,8 +32344,7 @@
     },
     "herdanza holándrica": {
         "categoria": [
-            "Xenética",
-            "Y-linked"
+            "Xenética"
         ],
         "sinonimos": [
             "herdanza ligada ao Y"
@@ -32512,21 +32353,20 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "herencia holándrica; herencia ligada a Y",
-            "EN": "holandric inheritance ;",
+            "EN": "holandric inheritance; Y-linked inheritance",
             "PT": "herança holândrica; herança ligada ao Y"
         }
     },
     "herdanza ligada ao X": {
         "categoria": [
-            "Xenética",
-            "X-linked inheritance"
+            "Xenética"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "herencia ligada a X",
-            "EN": "",
+            "EN": "X-linked inheritance",
             "PT": "herança ligada ao X"
         }
     },
@@ -33938,10 +33778,7 @@
     "hiperreactividade bronquial": {
         "categoria": [
             "Etiopatoxenia",
-            "Semioloxía",
-            "HRB",
-            "BHR (sg)",
-            "HRB (sg)"
+            "Semioloxía"
         ],
         "sinonimos": [
             "HRB (sg)"
@@ -33949,9 +33786,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "hiperreactividade bronquial ;",
-            "EN": "",
-            "PT": "hiper-reactividade brônquica [Br.]; hiperreactividade brônquica [Pt.]; hiper-reatividade brônquica [Br.] ;"
+            "ES": "hiperreactividade bronquial; HRB (sg)",
+            "EN": "BHR (sg); bronchial hyperreactivity",
+            "PT": "hiper-reactividade brônquica [Br.]; hiperreactividade brônquica [Pt.]; hiper-reatividade brônquica [Br.]; HRB (sg)"
         }
     },
     "hiperreflexia": {
@@ -35280,10 +35117,7 @@
     "hormona adrenocorticotrópica": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "ACTH",
-            "ACTH (sg)",
-            "ACTH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "ACTH (sg)",
@@ -35295,18 +35129,15 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "ACTH; adrenocorticotropina; hormona adrenocorticotropa",
+            "EN": "ACTH (sg); adrenocorticotropic hormone; adrenocorticotropin; corticotropin",
+            "PT": "ACTH (sg); adrenocorticotropina; corticotropina; hormona adrenocorticotrópica [Pt.]; hormônio adrenocorticotrópico [Br.]"
         }
     },
     "hormona antidiurética": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "ADH (sg)",
-            "ADH (sg)",
-            "ADH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "ADH (sg)",
@@ -35315,18 +35146,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "ADH (sg); hormona antidiurética; vasopresina",
+            "EN": "ADH (sg); antidiuretic hormone; vasopressin",
+            "PT": "ADH (sg); hormona antidiurética [Pt.]; hormônio antidiurético [Br.]; vasopressina"
         }
     },
     "hormona do crecemento": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "GH (sg)",
-            "GH (sg)",
-            "GH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "GH (sg)"
@@ -35334,18 +35162,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "GH (sg); hormona del crecimiento",
+            "EN": "GH (sg); growth hormone",
+            "PT": "GH (sg); hormona do crescimento [Pt.]; hormônio do crescimento [Br.]"
         }
     },
     "hormona estimuladora da tiroide": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "TSH (sg)",
-            "TSH (sg)",
-            "TSH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "TSH (sg)",
@@ -35354,18 +35179,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "hormona estimulante del tiroides; tirotropina ;",
-            "EN": "thyroid stimulating hormone; thyrotropin ;",
-            "PT": "hormona estimulante da tiróide [Pt.]; hormônio estimulante da tiróide [Br.]; tirotrofina; tirotropina ;"
+            "ES": "hormona estimulante del tiroides; tirotropina; TSH (sg)",
+            "EN": "thyroid stimulating hormone; thyrotropin; TSH (sg)",
+            "PT": "hormona estimulante da tiróide [Pt.]; hormônio estimulante da tiróide [Br.]; tirotrofina; tirotropina; TSH (sg)"
         }
     },
     "hormona estimuladora do melanocito": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "MSH (sg)",
-            "MSH (sg)",
-            "MSH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "hormona estimulante do melanocito",
@@ -35374,18 +35196,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "hormona estimulante del melanocito ;",
-            "EN": "melanocyte stimulating hormone ;",
-            "PT": "hormona melanócito-estimulante [Pt.]; hormônio melanócito- estimulante [Br.] ;"
+            "ES": "hormona estimulante del melanocito; MSH (sg)",
+            "EN": "melanocyte stimulating hormone; MSH (sg)",
+            "PT": "hormona melanócito-estimulante [Pt.]; hormônio melanócito- estimulante [Br.]; MSH (sg)"
         }
     },
     "hormona folículoestimulante": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "FSH (sg)",
-            "FSH",
-            "FSH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "FSH (sg)"
@@ -35393,18 +35212,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "follicle-stimulating hormone ;",
-            "PT": ""
+            "ES": "FSH (sg); hormona folículo estimulante; hormona folículoestimulante",
+            "EN": "follicle-stimulating hormone; FSH (sg)",
+            "PT": "FSH (sg); hormona folículo- estimulante [Pt.]; hormônio folículo- estimulante [Br.]"
         }
     },
     "hormona liberadora da hormona do crecemento": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "GHRH (sg)",
-            "GHRF (sg)",
-            "GHRH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "GHRH (sg)"
@@ -35412,18 +35228,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "GHRH (sg); hormona liberadora de la hormona del crecimiento",
+            "EN": "GHRF (sg); growth hormone releasing factor",
+            "PT": "GHRH (sg); hormona liberadora da hormona do crescimento [Pt.]; hormônio liberador do hormônio do crescimento [Br.]"
         }
     },
     "hormona liberadora de corticotropina": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "CRH (sg)",
-            "CRH (sg)",
-            "CRH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "CRH (sg)"
@@ -35431,9 +35244,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "corticotropin-releasing hormone ;",
-            "PT": ""
+            "ES": "CRH (sg); hormona liberadora de corticotropina",
+            "EN": "corticotropin-releasing hormone; CRH (sg)",
+            "PT": "CRH (sg); hormona liberadora de corticotropina [Pt.]; hormônio liberador de corticotropina [Br.]"
         }
     },
     "hormona liberadora de gonadotropina": {
@@ -35458,10 +35271,7 @@
     "hormona liberadora de tirotropina": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "TRH (sg)",
-            "TRH",
-            "CRH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "TRH (sg)"
@@ -35469,20 +35279,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "hormona liberadora de tirotropina ;",
-            "EN": "thyrotropin-releasing hormone ;",
-            "PT": ""
+            "ES": "hormona liberadora de tirotropina; TRH (sg)",
+            "EN": "thyrotropin-releasing hormone; TRH (sg)",
+            "PT": "CRH (sg); hormona liberadora de tirotropina [Pt.]; hormônio liberador de tirotropina [Br.]"
         }
     },
     "hormona luteinizante": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "LH (sg)",
-            "ICSH (sg)",
-            "ICSH (sg)",
-            "LH (sg)",
-            "ICSH (sg); LH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "LH (sg)",
@@ -35492,18 +35297,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "hormona estimulante de las células intersticiales; hormona luteinizante",
-            "EN": "",
-            "PT": "hormona estimulante das células intersticiais [Pt]; hormona luteinizante [Pt.]; hormônio estimulante das células intersticiais [Br.]; hormônio luteinizante [Br.];"
+            "ES": "hormona estimulante de las células intersticiales; hormona luteinizante LH (sg); ICSH (sg)",
+            "EN": "ICSH (sg); interstitial cell-stimulating hormone; LH (sg); luteinizing hormone",
+            "PT": "hormona estimulante das células intersticiais [Pt]; hormona luteinizante [Pt.]; hormônio estimulante das células intersticiais [Br.]; hormônio luteinizante [Br.]; ICSH (sg); LH (sg)"
         }
     },
     "hormona paratiroide": {
         "categoria": [
             "Fisioloxía",
-            "Bioquímica",
-            "PTH (sg)",
-            "PTH (sg)",
-            "PTH (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "parathormona",
@@ -35512,9 +35314,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "hormona paratiroidea; parathormona ;",
-            "EN": "parathormone; parathyroid hormone ;",
-            "PT": "hormona paratiroideia [Pt.]; hormônio da paratireóide [Br.]; paratormona [Pt.]; paratormônio [Br.] ;"
+            "ES": "hormona paratiroidea; parathormona; PTH (sg)",
+            "EN": "parathormone; parathyroid hormone; PTH (sg)",
+            "PT": "hormona paratiroideia [Pt.]; hormônio da paratireóide [Br.]; paratormona [Pt.]; paratormônio [Br.]; PTH (sg)"
         }
     },
     "hormonoterapia": {
@@ -35609,8 +35411,7 @@
     },
     "hospitalización a domicilio": {
         "categoria": [
-            "Terapéutica",
-            "HADO (sg)"
+            "Terapéutica"
         ],
         "sinonimos": [
             "hospitalización domiciliaria",
@@ -35619,7 +35420,7 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Cfr. con “asistencia domiciliaria”.",
         "traducoes": {
-            "ES": "",
+            "ES": "HADO (sg); hospitalización a domicilio; hospitalización domiciliaria",
             "EN": "hospital home care",
             "PT": "internação domiciliar"
         }
@@ -35725,10 +35526,7 @@
     },
     "ictus": {
         "categoria": [
-            "Patoloxías",
-            "ACV (sg)",
-            "CVA (sg)",
-            "ACV (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "accidente vascular cerebral",
@@ -35738,9 +35536,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "accidente cerebrovascular; accidente vascular cerebral ;",
-            "EN": "cerebral vascular accident; cerebrovascular accident ;",
-            "PT": "acidente cerebrovascular; acidente vascular cerebral ;"
+            "ES": "accidente cerebrovascular; accidente vascular cerebral; ACV (sg); ictus",
+            "EN": "cerebral vascular accident; cerebrovascular accident; CVA (sg); ictus",
+            "PT": "acidente cerebrovascular; acidente vascular cerebral; ACV (sg); icto; ictus"
         }
     },
     "idade cronolóxica": {
@@ -36102,15 +35900,14 @@
     },
     "inactivación do cromosoma X": {
         "categoria": [
-            "Xenética",
-            "X-chromosome inactivation"
+            "Xenética"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "inactivación del cromosoma X",
-            "EN": "",
+            "EN": "X-chromosome inactivation",
             "PT": "inactivação do cromossoma X [Pt.]; inativação do cromossomo X [Br.]"
         }
     },
@@ -36272,10 +36069,7 @@
     },
     "índice cardíaco": {
         "categoria": [
-            "Fisioloxía",
-            "IC (sg)",
-            "CI (sg)",
-            "IC (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "IC (sg)"
@@ -36283,9 +36077,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "cardiac index ;",
-            "PT": ""
+            "ES": "IC (sg); índice cardíaco",
+            "EN": "cardiac index; CI (sg)",
+            "PT": "IC (sg); índice cardíaco"
         }
     },
     "índice de envellecemento": {
@@ -36317,10 +36111,7 @@
     "índice de masa corporal": {
         "categoria": [
             "Fisioloxía",
-            "Probas complementarias",
-            "IMC (sg)",
-            "BMI (sg)",
-            "IMC (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "IMC (sg)"
@@ -36328,9 +36119,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "IMC (sg); índice de masa corporal",
+            "EN": "BMI (sg); body mass index",
+            "PT": "IMC (sg); índice de massa corporal"
         }
     },
     "índice de masculinidade": {
@@ -36777,10 +36568,7 @@
     },
     "inhibidor da monoaminooxidase": {
         "categoria": [
-            "Farmacoloxía",
-            "IMAO (sg)",
-            "MAOI (sg)",
-            "IMAO (sg)"
+            "Farmacoloxía"
         ],
         "sinonimos": [
             "IMAO (sg)"
@@ -36788,9 +36576,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "IMAO (sg); inhibidor de la monoaminooxidasa",
+            "EN": "MAOI (sg); monoamine oxidase inhibitor",
+            "PT": "IMAO (sg); inibidor da monoamino- oxidase; inibidor da monoaminoxidase"
         }
     },
     "inhibidor da protease": {
@@ -36877,10 +36665,7 @@
     },
     "inhibidor do enzima conversor da anxiotensina": {
         "categoria": [
-            "Farmacoloxía",
-            "IECA (sg)",
-            "ACEI (sg)",
-            "IECA (sg)"
+            "Farmacoloxía"
         ],
         "sinonimos": [
             "IECA (sg)"
@@ -36888,9 +36673,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "IECA (sg); inhibidor de la enzima convertidora de la angiotensina",
+            "EN": "ACEI (sg); angiotensin converting enzyme inhibitor; angiotensin- converting enzyme inhibitor",
+            "PT": "IECA (sg); inibidor da enzima conversora da angiotensina"
         }
     },
     "inhibidor non-selectivo da recaptación de monaminas": {
@@ -36908,10 +36693,7 @@
     },
     "inhibidor selectivo da cicloosixenase": {
         "categoria": [
-            "Farmacoloxía",
-            "COXIB (sg)",
-            "COXIB (sg)",
-            "COXIB (sg)"
+            "Farmacoloxía"
         ],
         "sinonimos": [
             "COXIB (sg)"
@@ -36919,17 +36701,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "COXIB (sg); inhibidor selectivo de la ciclooxigenasa",
+            "EN": "COXIB (sg); cyclooxygenase selective inhibitor",
+            "PT": "COXIB (sg); inibidor selectivo da ciclooxigenase [Pt.]; inibidor seletivo da ciclooxigenase [Br.]"
         }
     },
     "inhibidor selectivo da recaptación da serotonina": {
         "categoria": [
-            "Farmacoloxía",
-            "ISRS (sg)",
-            "SSRI (sg)",
-            "ISRS (sg)"
+            "Farmacoloxía"
         ],
         "sinonimos": [
             "ISRS (sg)"
@@ -36937,9 +36716,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "inhibidor selectivo de la recaptación de la serotonina ;",
-            "EN": "selective serotonin reuptake inhibitor ;",
-            "PT": "inibidor seletivo da recaptação da serotonina ;"
+            "ES": "inhibidor selectivo de la recaptación de la serotonina; ISRS (sg)",
+            "EN": "selective serotonin reuptake inhibitor; SSRI (sg)",
+            "PT": "inibidor seletivo da recaptação da serotonina; ISRS (sg)"
         }
     },
     "iniciador": {
@@ -37710,10 +37489,7 @@
     "interferón": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "IFN (sg)",
-            "IFN (sg)",
-            "IFN (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "IFN (sg)"
@@ -37721,9 +37497,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "IFN (sg); interferón",
+            "EN": "IFN (sg); interferon",
+            "PT": "IFN (sg); interferon"
         }
     },
     "interleucina": {
@@ -39393,10 +39169,7 @@
     },
     "leucoplasia pilosa oral": {
         "categoria": [
-            "Patoloxías",
-            "LVO (sg)",
-            "OHL (sg)",
-            "LPO (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "LPO (sg)",
@@ -39405,9 +39178,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "leucoplasia vellosa oral ;",
-            "EN": "",
-            "PT": "leucoplasia pilosa oral ;"
+            "ES": "leucoplasia vellosa oral; LVO (sg)",
+            "EN": "OHL (sg); oral hairy leukoplakia",
+            "PT": "leucoplasia pilosa oral; LPO (sg)"
         }
     },
     "leucorrea": {
@@ -39467,8 +39240,7 @@
     },
     "lexionelose": {
         "categoria": [
-            "Patoloxías",
-            "LD (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "enfermidade dos lexionarios",
@@ -39478,7 +39250,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "enfermedad del legionario; legionelosis",
-            "EN": "",
+            "EN": "LD (sg); legionellosis; legionnaires’ disease",
             "PT": "doença dos legionários; legionelose"
         }
     },
@@ -39938,9 +39710,7 @@
     },
     "linfocito B": {
         "categoria": [
-            "Histoloxía",
-            "B-cell",
-            "B-lymphocyte"
+            "Histoloxía"
         ],
         "sinonimos": [
             "célula B (f)"
@@ -39949,15 +39719,13 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "célula B; linfocito B",
-            "EN": "",
+            "EN": "B-cell; B-lymphocyte",
             "PT": "célula B; linfócito B"
         }
     },
     "linfocito T": {
         "categoria": [
-            "Histoloxía",
-            "T-cell",
-            "T-lymphocyte"
+            "Histoloxía"
         ],
         "sinonimos": [
             "célula T (f)"
@@ -39966,16 +39734,13 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "célula T; linfocito T",
-            "EN": "",
+            "EN": "T-cell; T-lymphocyte",
             "PT": "célula T; linfócito T"
         }
     },
     "linfocito T citotóxico": {
         "categoria": [
-            "Histoloxía",
-            "LTC (sg)",
-            "CTL (sg)",
-            "LTC (sg)"
+            "Histoloxía"
         ],
         "sinonimos": [
             "LTC (sg)"
@@ -39983,16 +39748,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "célula T citotóxica; linfocito T citotóxico ;",
-            "EN": "",
-            "PT": "célula T citotóxica; linfócito T citotóxico ;"
+            "ES": "célula T citotóxica; linfocito T citotóxico; LTC (sg)",
+            "EN": "CTL (sg); cytotoxic T cell; cytotoxic T lymphocyte",
+            "PT": "célula T citotóxica; linfócito T citotóxico; LTC (sg)"
         }
     },
     "linfocito T cooperador": {
         "categoria": [
-            "Histoloxía",
-            "LTh",
-            "LTh (sg)"
+            "Histoloxía"
         ],
         "sinonimos": [
             "LTh (sg)"
@@ -40000,9 +39763,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "célula T cooperadora; linfocito T cooperador ;",
+            "ES": "célula T cooperadora; linfocito T cooperador; LTh",
             "EN": "helper T cell; helper T lymphocyte; hTL (sg)",
-            "PT": "célula T helper; linfócito T helper ;"
+            "PT": "célula T helper; linfócito T helper; LTh (sg)"
         }
     },
     "linfocitoma": {
@@ -40063,10 +39826,7 @@
     },
     "linfogranuloma venéreo": {
         "categoria": [
-            "Patoloxías",
-            "LGV (sg)",
-            "LGV (sg)",
-            "LGV (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "LGV (sg)"
@@ -40074,9 +39834,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "LGV (sg); linfogranuloma venéreo",
+            "EN": "LGV (sg); lymphogranuloma venereum",
+            "PT": "LGV (sg); linfogranuloma venéreo"
         }
     },
     "linfoma": {
@@ -40470,10 +40230,7 @@
     },
     "lipoproteína de alta densidade": {
         "categoria": [
-            "Bioquímica",
-            "HDL (sg)",
-            "HDL (sg)",
-            "HDL (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "HDL (sg)"
@@ -40481,17 +40238,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "HDL (sg); lipoproteína de alta densidad",
+            "EN": "HDL (sg); high density lipoprotein",
+            "PT": "HDL (sg); lipoproteína de alta densidade"
         }
     },
     "lipoproteína de baixa densidade": {
         "categoria": [
-            "Bioquímica",
-            "LDL (sg)",
-            "LDL (sg)",
-            "LDL (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "LDL (sg)"
@@ -40499,17 +40253,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "LDL (sg); lipoproteína de baja densidad",
+            "EN": "LDL (sg); low density lipoprotein",
+            "PT": "LDL (sg); lipoproteína de baixa densidade"
         }
     },
     "lipoproteína de densidade intermedia": {
         "categoria": [
-            "Bioquímica",
-            "IDL (sg)",
-            "IDL (sg)",
-            "IDL (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "IDL (sg)"
@@ -40517,17 +40268,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "IDL (sg); lipoproteína de densidad intermedia",
+            "EN": "IDL (sg); intermediate density lipoprotein",
+            "PT": "IDL (sg); lipoproteína de densidade intermediária"
         }
     },
     "lipoproteína de moi baixa densidade": {
         "categoria": [
-            "Bioquímica",
-            "VLDL (sg)",
-            "VLDL",
-            "VLDL (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "VLDL (sg)"
@@ -40535,9 +40283,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "lipoproteína de muy baja densidad ;",
-            "EN": "very low density lipoprotein ;",
-            "PT": "lipoproteína de muito baixa densidade ;"
+            "ES": "lipoproteína de muy baja densidad; VLDL (sg)",
+            "EN": "very low density lipoprotein; VLDL (sg)",
+            "PT": "lipoproteína de muito baixa densidade; VLDL (sg)"
         }
     },
     "liposarcoma": {
@@ -40649,10 +40397,7 @@
     },
     "líquido cefalorraquídeo": {
         "categoria": [
-            "Fisioloxía",
-            "LCR (sg)",
-            "CSF (sg)",
-            "LCR (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "LCR (sg)"
@@ -40660,9 +40405,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "cerebrospinal fluid ;",
-            "PT": ""
+            "ES": "LCR (sg); líquido cefalorraquídeo",
+            "EN": "cerebrospinal fluid; CSF (sg)",
+            "PT": "LCR (sg); líquido cefalorraquidiano"
         }
     },
     "líquido intersticial": {
@@ -40680,10 +40425,7 @@
     },
     "líquido intracelular": {
         "categoria": [
-            "Fisioloxía",
-            "LIC (sg)",
-            "ICF (sg)",
-            "LIC (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "LIC (sg)"
@@ -40691,9 +40433,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "LIC (sg); líquido intracelular",
+            "EN": "ICF (sg); intracellular fluid",
+            "PT": "LIC (sg); líquido intracelular"
         }
     },
     "líquido pericárdico": {
@@ -41289,10 +41031,7 @@
     },
     "lupus eritematoso sistémico": {
         "categoria": [
-            "Patoloxías",
-            "LES (sg)",
-            "SLE (sg)",
-            "LES (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "LES (sg)",
@@ -41302,9 +41041,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "disseminated lupus erythematosus ;",
-            "PT": ""
+            "ES": "LES (sg); lupus eritematoso diseminado; lupus eritematoso generalizado; lupus eritematoso sistémico",
+            "EN": "disseminated lupus erythematosus; SLE (sg); systemic lupus erythematosus",
+            "PT": "LES (sg); lupus eritematoso disseminado; lupus eritematoso sistêmico"
         }
     },
     "luxación": {
@@ -44114,10 +43853,7 @@
     },
     "mieloperoxidase": {
         "categoria": [
-            "Bioquímica",
-            "MPO (sg)",
-            "MPO (sg)",
-            "MPO (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "MPO (sg)"
@@ -44125,9 +43861,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "mieloperoxidasa ;",
-            "EN": "",
-            "PT": "mieloperoxidase ;"
+            "ES": "mieloperoxidasa; MPO (sg)",
+            "EN": "MPO (sg); myeloperoxidase",
+            "PT": "mieloperoxidase; MPO (sg)"
         }
     },
     "mielosupresión": {
@@ -44759,10 +44495,7 @@
     },
     "modulador selectivo do receptor de estróxeno": {
         "categoria": [
-            "Farmacoloxía",
-            "SERM (sg)",
-            "SERM (sg)",
-            "SERM"
+            "Farmacoloxía"
         ],
         "sinonimos": [
             "SERM (sg)"
@@ -44770,9 +44503,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "modulador selectivo del receptor de estrógenos ;",
-            "EN": "selective estrogen receptor modulator ;",
-            "PT": "modulador selectivo dos receptores de estrogénio; modulador seletivo dos receptores de estrógeno ;"
+            "ES": "modulador selectivo del receptor de estrógenos; SERM (sg)",
+            "EN": "selective estrogen receptor modulator; SERM (sg)",
+            "PT": "modulador selectivo dos receptores de estrogénio; modulador seletivo dos receptores de estrógeno; SERM (sg)"
         }
     },
     "mola": {
@@ -44901,9 +44634,7 @@
     },
     "monofosfato cíclico de guanosina": {
         "categoria": [
-            "Bioquímica",
-            "GMPc",
-            "GMPc (sg)"
+            "Bioquímica"
         ],
         "sinonimos": [
             "GMPc (sg)"
@@ -44911,9 +44642,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
+            "ES": "GMPc; guanosín monofosfato cíclico; monofosfato cíclico de guanosina",
             "EN": "cGMP (sg); cyclic guanosine monophosphate",
-            "PT": ""
+            "PT": "GMPc (sg); guanosina monofosfato cíclico; monofosfato de guanosina cíclico"
         }
     },
     "monomorfismo": {
@@ -48657,9 +48388,7 @@
     },
     "nervio abducente": {
         "categoria": [
-            "Anatomía",
-            "VI par craneal",
-            "VI par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "nervio motor ocular externo",
@@ -48668,17 +48397,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "nervio abducens; nervio motor ocular externo ;",
+            "ES": "nervio abducens; nervio motor ocular externo; VI par craneal",
             "EN": "abducens nerve; abducent nerve; cranial nerve VI",
-            "PT": "nervo abducente ;",
+            "PT": "nervo abducente; VI par craniano",
             "LA": "nervus abducens"
         }
     },
     "nervio accesorio": {
         "categoria": [
-            "Anatomía",
-            "XI",
-            "XI par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "XI par cranial",
@@ -48687,9 +48414,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "nervio accesorio; nervio espinal ;",
+            "ES": "nervio accesorio; nervio espinal; XI par craneal",
             "EN": "accessory nerve; cranial nerve XI",
-            "PT": "nervo acessório; nervo espinhal; nervo raquidiano ;",
+            "PT": "nervo acessório; nervo espinhal; nervo raquidiano; XI par craniano",
             "LA": "nervus accessorius"
         }
     },
@@ -48851,9 +48578,7 @@
     },
     "nervio facial": {
         "categoria": [
-            "Anatomía",
-            "VII par craneal",
-            "VII par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "VII par cranial"
@@ -48861,9 +48586,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "nervio facial ;",
+            "ES": "nervio facial; VII par craneal",
             "EN": "cranial nerve VII; facial nerve",
-            "PT": "nervo facial ;",
+            "PT": "nervo facial; VII par craniano",
             "LA": "nervus facialis"
         }
     },
@@ -48931,9 +48656,7 @@
     },
     "nervio glosofarínxeo": {
         "categoria": [
-            "Anatomía",
-            "IX par craneal",
-            "IX par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "IX par cranial"
@@ -48941,9 +48664,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
+            "ES": "IX par craneal; nervio glosofaríngeo",
             "EN": "cranial nerve IX; glossopharyngeal nerve",
-            "PT": "",
+            "PT": "IX par craniano; nervo glossofaríngeo",
             "LA": "nervus glossopharyngeus"
         }
     },
@@ -48991,9 +48714,7 @@
     },
     "nervio hipogloso": {
         "categoria": [
-            "Anatomía",
-            "XII par craneal",
-            "XII par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "XII par cranial"
@@ -49001,9 +48722,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "nervio hipogloso ;",
+            "ES": "nervio hipogloso; XII par craneal",
             "EN": "cranial nerve XII; hypoglossal nerve",
-            "PT": "nervo hipoglosso ;",
+            "PT": "nervo hipoglosso; XII par craniano",
             "LA": "nervus hypoglossus"
         }
     },
@@ -49182,9 +48903,7 @@
     },
     "nervio oculomotor": {
         "categoria": [
-            "Anatomía",
-            "III par craneal",
-            "III par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "nervio motor ocular común",
@@ -49193,9 +48912,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
+            "ES": "III par craneal; nervio motor ocular común",
             "EN": "cranial nerve III; oculomotor nerve",
-            "PT": "",
+            "PT": "III par craniano; nervo oculomotor",
             "LA": "nervus oculomotorius"
         }
     },
@@ -49215,9 +48934,7 @@
     },
     "nervio olfactorio": {
         "categoria": [
-            "Anatomía",
-            "I par craneal",
-            "I par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "I par cranial"
@@ -49225,17 +48942,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
+            "ES": "I par craneal; nervio olfatorio",
             "EN": "cranial nerve I; olfactory nerve",
-            "PT": "",
+            "PT": "I par craniano; nervo olfatório",
             "LA": "nervus olfactorius"
         }
     },
     "nervio óptico": {
         "categoria": [
-            "Anatomía",
-            "II par craneal",
-            "II par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "II par cranial"
@@ -49243,9 +48958,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
+            "ES": "II par craneal; nervio óptico",
             "EN": "cranial nerve II; optic nerve",
-            "PT": "",
+            "PT": "II par craniano; nervo óptico",
             "LA": "nervus opticus"
         }
     },
@@ -49335,9 +49050,7 @@
     },
     "nervio trixémino": {
         "categoria": [
-            "Anatomía",
-            "V par craneal",
-            "V par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "V par cranial"
@@ -49345,17 +49058,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "nervio trigémino ;",
+            "ES": "nervio trigémino; V par craneal",
             "EN": "cranial nerve V; trigeminal nerve",
-            "PT": "nervo trigêmeo [Br.]; nervo trigémeo [Pt.] ;",
+            "PT": "nervo trigêmeo [Br.]; nervo trigémeo [Pt.]; V par craniano",
             "LA": "nervus trigeminus"
         }
     },
     "nervio troclear": {
         "categoria": [
-            "Anatomía",
-            "IV par craneal",
-            "IV par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "nervio patético",
@@ -49364,9 +49075,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
+            "ES": "IV par craneal; nervio patético; nervio troclear",
             "EN": "cranial nerve IV; trochlear nerve",
-            "PT": "",
+            "PT": "IV par craniano; nervo patético; nervo troclear",
             "LA": "nervus trochlearis"
         }
     },
@@ -49388,10 +49099,7 @@
     },
     "nervio vago": {
         "categoria": [
-            "Anatomía",
-            "X par craneal",
-            "X par",
-            "X par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "nervio pneumogástrico",
@@ -49400,17 +49108,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "nervio vago ;",
+            "ES": "nervio vago; X par craneal; X par craneal pneumogástrico",
             "EN": "cranial nerve X; vagus nerve",
-            "PT": "nervo pneumogástrico; nervo vago ;",
+            "PT": "nervo pneumogástrico; nervo vago; X par craniano",
             "LA": "nervus vagus"
         }
     },
     "nervio vestibulococlear": {
         "categoria": [
-            "Anatomía",
-            "VIII par craneal",
-            "VIII par craniano"
+            "Anatomía"
         ],
         "sinonimos": [
             "nervio auditivo",
@@ -49419,9 +49125,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "nervio auditivo; nervio vestibulococlear ;",
+            "ES": "nervio auditivo; nervio vestibulococlear; VIII par craneal",
             "EN": "auditory nerve; cranial nerve VIII; vestibulocochlear nerve",
-            "PT": "nervo auditivo; nervo vestibulococlear ;",
+            "PT": "nervo auditivo; nervo vestibulococlear; VIII par craniano",
             "LA": "nervus vestibulocochlearis"
         }
     },
@@ -50152,10 +49858,7 @@
     },
     "nivel de consciencia": {
         "categoria": [
-            "Termos xerais",
-            "NC (sg)",
-            "LOC (sg)",
-            "NC (sg)"
+            "Termos xerais"
         ],
         "sinonimos": [
             "NC (sg)"
@@ -50163,9 +49866,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "level of consciousness ;",
-            "PT": ""
+            "ES": "NC (sg); nivel de consciencia",
+            "EN": "level of consciousness; LOC (sg)",
+            "PT": "NC (sg); nível de consciência"
         }
     },
     "nivel de prevención": {
@@ -52967,11 +52670,7 @@
     },
     "otorrinolaringoloxía": {
         "categoria": [
-            "Organización sanitaria",
-            "ORL (sg)",
-            "ENT (sg)",
-            "ORL (sg)",
-            "ORL (sg)"
+            "Organización sanitaria"
         ],
         "sinonimos": [
             "ORL (sg)"
@@ -52979,9 +52678,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "ORL (sg); otorrinolaringología",
+            "EN": "ENT (sg); ORL (sg); otolaringology; otorhinolaryngology",
+            "PT": "ORL (sg); otorrinolaringologia"
         }
     },
     "otosclerose": {
@@ -54612,25 +54311,21 @@
     "péptido C": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "C-peptide"
+            "Fisioloxía"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "péptido C",
-            "EN": "",
+            "EN": "C-peptide",
             "PT": "peptídeo C [Br.]; peptídio C [Br.]; péptido C [Pt.]"
         }
     },
     "péptido intestinal vasoactivo": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "VIP",
-            "VIP",
-            "VIP (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "VIP (sg)"
@@ -54638,19 +54333,15 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "péptido intestinal vasoactivo ;",
-            "EN": "vasoactive intestinal peptide ;",
-            "PT": "peptídeo intestinal vasoativo [Br.]; peptídio intestinal vasoativo [Br.]; péptido intestinal vasoactivo [Pt.] ;"
+            "ES": "péptido intestinal vasoactivo; VIP (sg)",
+            "EN": "vasoactive intestinal peptide; VIP (sg)",
+            "PT": "peptídeo intestinal vasoativo [Br.]; peptídio intestinal vasoativo [Br.]; péptido intestinal vasoactivo [Pt.]; VIP (sg)"
         }
     },
     "péptido natriurético atrial": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "PNA (sg)",
-            "ANP (sg)",
-            "ANP (sg)",
-            "PNA"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "péptido natriurético auricular",
@@ -54659,9 +54350,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "péptido natriurético atrial; péptido natriurético auricular ;",
-            "EN": "",
-            "PT": ""
+            "ES": "péptido natriurético atrial; péptido natriurético auricular; PNA (sg)",
+            "EN": "ANP (sg); atrial natriuretic peptide",
+            "PT": "ANP (sg); peptídeo natriurético atrial [Br.]; peptídio natriurético atrial [Br.]; péptido natriurético atrial [Pt.]; PNA (sg)"
         }
     },
     "peptidoglicano": {
@@ -57965,8 +57656,7 @@
     },
     "proba do antíxeno prostático específico": {
         "categoria": [
-            "Probas complementarias",
-            "PSA"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "proba do PSA"
@@ -57975,7 +57665,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "prueba del antígeno prostático específico; prueba del PSA",
-            "EN": "prostate specific antigen test ;",
+            "EN": "prostate specific antigen test; PSA test",
             "PT": "teste do antígeno prostático específico; teste do PSA"
         }
     },
@@ -58463,10 +58153,7 @@
     "proopiomelanocortina": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "POMC (sg)",
-            "POMC (sg)",
-            "POMC (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "POMC (sg)"
@@ -58476,9 +58163,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "POMC (sg); proopiomelanocortina; pro-opiomelanocortina",
+            "EN": "POMC (sg); proopiomelanocortin; pro-opiomelanocortin",
+            "PT": "POMC (sg); pró-opiomelanocortina [Br.]; pro-opiomelanocortina [Pt.]"
         }
     },
     "propedéutica clínica": {
@@ -58693,11 +58380,7 @@
     "proteína C reactiva": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "PCR (sg)",
-            "C-reactive protein",
-            "CRP (sg)",
-            "PCR (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "PCR (sg)"
@@ -58705,9 +58388,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "PCR (sg); proteína C reactiva",
+            "EN": "C-reactive protein; CRP (sg)",
+            "PT": "PCR (sg); proteína C reactiva [Pt.]; proteína C reativa [Br.]"
         }
     },
     "proteinograma": {
@@ -59508,10 +59191,7 @@
     },
     "punción aspirativa con agulla fina": {
         "categoria": [
-            "Probas complementarias",
-            "PAAF (sg)",
-            "FNA (sg)",
-            "PAAF (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "punción-aspiración con agulla fina",
@@ -59520,9 +59200,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "fine needle aspiration ;",
-            "PT": ""
+            "ES": "PAAF (sg); punción-aspiración con aguja fina",
+            "EN": "fine needle aspiration; FNA (sg)",
+            "PT": "PAAF (sg); punção aspirativa por agulha fina"
         }
     },
     "punción lumbar": {
@@ -59598,10 +59278,7 @@
     },
     "púrpura trombopénica idiopática": {
         "categoria": [
-            "Patoloxías",
-            "PTI (sg)",
-            "PTI (sg)",
-            "PTI (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "PTI (sg)"
@@ -59611,16 +59288,14 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "idiopathic thrombocytopenic purpura ;",
-            "PT": ""
+            "ES": "PTI (sg); púrpura trombocitopénica idiopática; púrpura trombopénica idiopática",
+            "EN": "idiopathic thrombocytopenic purpura; PTI (sg)",
+            "PT": "PTI (sg); púrpura trombocitopênica idiopática [Br.]; púrpura trombocitopénica idiopática [Pt.]"
         }
     },
     "púrpura trombopénica trombótica": {
         "categoria": [
-            "Patoloxías",
-            "PTT",
-            "PTT (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "PTT (sg)"
@@ -59630,9 +59305,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
+            "ES": "PTT; púrpura trombocitopénica trombótica; púrpura trombopénica trombótica",
             "EN": "thrombotic thrombocytopenic purpura ;TTP (sg)",
-            "PT": ""
+            "PT": "PTT (sg); púrpura trombocitopênica trombótica [Br.]; púrpura trombocitopénica trombótica [Pt.]"
         }
     },
     "pus": {
@@ -60320,15 +59995,14 @@
     },
     "radical libre de O 2": {
         "categoria": [
-            "Bioquímica",
-            "O"
+            "Bioquímica"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "radical libre de O 2",
-            "EN": "",
+            "EN": "O 2 free radical",
             "PT": "radical livre de O 2"
         }
     },
@@ -60831,10 +60505,7 @@
     "reacción en cadea da polimerase": {
         "categoria": [
             "Probas complementarias",
-            "Xenética",
-            "PCR (sg)",
-            "PCR (sg)",
-            "PCR (sg)"
+            "Xenética"
         ],
         "sinonimos": [
             "PCR (sg)"
@@ -60844,9 +60515,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "PCR (sg); reacción en cadena de la polimerasa; reacción en cadena por la polimerasa",
+            "EN": "PCR (sg); polymerase chain reaction",
+            "PT": "PCR (sg); reação em cadeia da polimerase [Br.]; reacção em cadeia da polimerase [Pt.]"
         }
     },
     "reacción idiosincrática": {
@@ -61268,10 +60939,7 @@
     },
     "reflexo vestibuloocular": {
         "categoria": [
-            "Semioloxía",
-            "RVO (sg)",
-            "VOR (sg)",
-            "RVO (sg)"
+            "Semioloxía"
         ],
         "sinonimos": [
             "RVO (sg)"
@@ -61279,9 +60947,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "reflejo vestibuloocular; reflejo vestibulo-ocular ;",
-            "EN": "vestibulo-ocular reflex ;",
-            "PT": "reflexo vestíbulo-ocular ;"
+            "ES": "reflejo vestibuloocular; reflejo vestibulo-ocular; RVO (sg)",
+            "EN": "vestibulo-ocular reflex; VOR (sg)",
+            "PT": "reflexo vestíbulo-ocular; RVO (sg)"
         }
     },
     "reflexoterapia": {
@@ -61432,10 +61100,7 @@
     },
     "relación cintura-cadeira": {
         "categoria": [
-            "Probas complementarias",
-            "ICC (sg)",
-            "WHR (sg)",
-            "RCQ (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "RCC (sg)",
@@ -61445,9 +61110,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "waist to hip ratio; waist-hip ratio ;",
-            "PT": ""
+            "ES": "ICC (sg); índice cintura-cadera; relación cintura-cadera",
+            "EN": "waist to hip ratio; waist-hip ratio; WHR (sg)",
+            "PT": "RCQ (sg); relação cintura-quadril"
         }
     },
     "remodelación ósea": {
@@ -61535,10 +61200,7 @@
     },
     "reparación do ADN": {
         "categoria": [
-            "Xenética",
-            "DNA",
-            "DNA repair",
-            "DNA"
+            "Xenética"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": [
@@ -61546,9 +61208,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "reparación del ADN; reparación del",
-            "EN": "",
-            "PT": "reparação do ADN; reparação do"
+            "ES": "reparación del ADN; reparación del DNA",
+            "EN": "DNA repair",
+            "PT": "reparação do ADN; reparação do DNA"
         }
     },
     "repelente": {
@@ -61711,11 +61373,7 @@
     },
     "resonancia magnética nuclear": {
         "categoria": [
-            "Probas complementarias",
-            "RMN (sg)",
-            "NMR (sg)",
-            "RMN (sg)",
-            "RNM (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "RMN (sg)",
@@ -61728,9 +61386,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "resonancia magnética; resonancia magnética nuclear ;",
-            "EN": "magnetic resonance ;",
-            "PT": "ressonância magnética nuclear; ressonância nuclear magnética ;"
+            "ES": "resonancia magnética; resonancia magnética nuclear; RMN (sg)",
+            "EN": "magnetic resonance; NMR (sg); nuclear magnetic resonance",
+            "PT": "ressonância magnética nuclear; ressonância nuclear magnética; RMN (sg); RNM (sg)"
         }
     },
     "respiración": {
@@ -61897,11 +61555,7 @@
     },
     "retículo endoplasmático liso": {
         "categoria": [
-            "Histoloxía",
-            "REL (sg)",
-            "AER (sg)",
-            "SER (sg)",
-            "REL (sg)"
+            "Histoloxía"
         ],
         "sinonimos": [
             "retículo endoplasmático agranular",
@@ -61912,18 +61566,14 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "REL (sg); retículo endoplasmático agranular; retículo endoplasmático liso",
+            "EN": "AER (sg); agranular endoplasmic reticulum; SER (sg); smooth endoplasmic reticulum",
+            "PT": "REL (sg); retículo endoplasmático liso"
         }
     },
     "retículo endoplasmático rugoso": {
         "categoria": [
-            "Histoloxía",
-            "RER (sg)",
-            "GER (sg)",
-            "RER (sg)",
-            "RER (sg)"
+            "Histoloxía"
         ],
         "sinonimos": [
             "retículo endoplasmático granular",
@@ -61934,9 +61584,9 @@
         ],
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "RER (sg); retículo endoplasmático granular; retículo endoplasmático rugoso",
+            "EN": "GER (sg); granular endoplasmic reticulum; RER (sg); rough endoplasmic reticulum",
+            "PT": "RER (sg); retículo endoplasmático rugoso"
         }
     },
     "reticulocito": {
@@ -64913,10 +64563,7 @@
     },
     "síndrome da apnea-hipopnea durante o sono": {
         "categoria": [
-            "Patoloxías",
-            "SAHS (sg)",
-            "SAHS (sg)",
-            "SAHS (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "SAHS (sg)"
@@ -64924,9 +64571,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "SAHS (sg); síndrome de apnea- hipopnea durante el sueño",
+            "EN": "SAHS (sg); sleep apnea-hypopnea syndrome",
+            "PT": "SAHS (sg); síndrome da apnéia- hipopnéia do sono"
         }
     },
     "síndrome da arteria vertebrobasilar": {
@@ -65003,15 +64650,14 @@
     },
     "síndrome da vea cava superior": {
         "categoria": [
-            "Patoloxías",
-            "SVCS"
+            "Patoloxías"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "síndrome de la vena cava superior",
-            "EN": "superior vena cava syndrome ;",
+            "EN": "superior vena cava syndrome; SVCS (sg)",
             "PT": "síndrome da veia cava superior"
         }
     },
@@ -65059,9 +64705,7 @@
     "síndrome de desconforto respiratorio do adulto": {
         "categoria": [
             "Probas complementarias",
-            "Patoloxías",
-            "SDRA (sg)",
-            "ARDS (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "síndrome de desconforto respiratorio agudo",
@@ -65070,8 +64714,8 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "acute respiratory distress syndrome; adult respiratory distress syndrome ;",
+            "ES": "SDRA (sg); síndrome de dificultad respiratoria aguda; síndrome de dificultad respiratoria del adulto",
+            "EN": "acute respiratory distress syndrome; adult respiratory distress syndrome; ARDS (sg)",
             "PT": "síndrome do desconforto respiratório do adulto"
         }
     },
@@ -65123,10 +64767,7 @@
     },
     "síndrome de fatiga crónica": {
         "categoria": [
-            "Patoloxías",
-            "SFC (sg)",
-            "CFS (sg)",
-            "SFC (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "SFC (sg)"
@@ -65134,9 +64775,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "SFC (sg); síndrome de fatiga crónica",
+            "EN": "CFS (sg); chronic fatigue syndrome",
+            "PT": "SFC (sg); síndrome de fadiga crônica [Br.]; síndrome de fadiga crónica [Pt.]"
         }
     },
     "síndrome de inestabilidade cromosómica": {
@@ -65154,10 +64795,7 @@
     },
     "síndrome de inmunodeficiencia adquirida": {
         "categoria": [
-            "Patoloxías",
-            "AIDS",
-            "AIDS",
-            "SIDA"
+            "Patoloxías"
         ],
         "sinonimos": [
             "sida"
@@ -65166,8 +64804,8 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "sida; síndrome de inmunodeficiencia adquirida",
-            "EN": "acquired immuno-deficiency syndrome ;",
-            "PT": ""
+            "EN": "acquired immuno-deficiency syndrome; AIDS",
+            "PT": "AIDS; SIDA; síndrome da imunodeficiência adquirida"
         }
     },
     "síndrome de lise tumoral": {
@@ -65198,8 +64836,7 @@
     },
     "síndrome de morte súbita do lactante": {
         "categoria": [
-            "Patoloxías",
-            "SIDS (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "morte súbita infantil"
@@ -65208,15 +64845,13 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "muerte súbita infantil; síndrome de muerte súbita del lactante",
-            "EN": "",
+            "EN": "SIDS (sg); sudden infant death syndrome",
             "PT": "síndrome da morte súbita na infância"
         }
     },
     "síndrome de resposta inflamatoria sistémica": {
         "categoria": [
-            "Patoloxías",
-            "SRIS (sg)",
-            "SIRS (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "SRIS (sg)"
@@ -65224,8 +64859,8 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "síndrome de respuesta inflamatoria sistémica ;",
-            "EN": "",
+            "ES": "síndrome de respuesta inflamatoria sistémica; SRIS (sg)",
+            "EN": "SIRS (sg); systemic inflammatory response syndrome",
             "PT": "síndrome de resposta inflamatória sistêmica [Br.]; síndrome de resposta inflamatória sistémica [Pt.]"
         }
     },
@@ -65246,10 +64881,7 @@
     },
     "síndrome de secreción inadecuada de ADH": {
         "categoria": [
-            "Patoloxías",
-            "SIADH (sg)",
-            "SIADH (sg)",
-            "SIHAD"
+            "Patoloxías"
         ],
         "sinonimos": [
             "SIADH (sg)"
@@ -65257,9 +64889,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "inappropriate ADH syndrome ;",
-            "PT": ""
+            "ES": "SIADH (sg); síndrome de secreción inadecuada de ADH",
+            "EN": "inappropriate ADH syndrome; SIADH (sg)",
+            "PT": "SIHAD; síndrome de secreção inadequada de HAD"
         }
     },
     "síndrome do aprisionamento poplíteo": {
@@ -65403,15 +65035,14 @@
     },
     "síndrome do ovario poliquístico": {
         "categoria": [
-            "Patoloxías",
-            "PCOS (sg)"
+            "Patoloxías"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "síndrome del ovario poliquístico",
-            "EN": "",
+            "EN": "PCOS (sg); polycystic ovary syndrome",
             "PT": "síndrome do ovário policístico"
         }
     },
@@ -65802,10 +65433,7 @@
     },
     "sistema ABO": {
         "categoria": [
-            "Fisioloxía",
-            "ABO blood-group system",
-            "ABO",
-            "ABO system"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "sistema do grupo sanguíneo ABO",
@@ -65815,7 +65443,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "factores ABO; sistema ABO; sistema del grupo sanguíneo ABO",
-            "EN": "",
+            "EN": "ABO blood-group system; ABO factors; ABO system",
             "PT": "factores ABO [Pt.]; fatores ABO [Br.]; sistema ABO; sistema do grupo sanguíneo ABO"
         }
     },
@@ -65877,8 +65505,7 @@
     },
     "sistema HLA": {
         "categoria": [
-            "Fisioloxía",
-            "HLA system"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "sistema de histocompatibilidade humano"
@@ -65887,7 +65514,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "sistema HLA",
-            "EN": "",
+            "EN": "HLA system",
             "PT": "sistema HLA"
         }
     },
@@ -65955,10 +65582,7 @@
     },
     "sistema nervioso central": {
         "categoria": [
-            "Anatomía",
-            "SNC (sg)",
-            "NCS (sg)",
-            "SNC (sg)"
+            "Anatomía"
         ],
         "sinonimos": [
             "SNC (sg)"
@@ -65966,9 +65590,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "sistema nervioso central ;",
-            "EN": "central nervous system ;",
-            "PT": "sistema nervoso central ;",
+            "ES": "sistema nervioso central; SNC (sg)",
+            "EN": "central nervous system; NCS (sg)",
+            "PT": "sistema nervoso central; SNC (sg)",
             "LA": "pars centralis; systema nervosum centrale"
         }
     },
@@ -67044,15 +66668,14 @@
     },
     "tacto rectal": {
         "categoria": [
-            "Probas complementarias",
-            "DRE (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "tacto rectal",
-            "EN": "digital rectal examination ;",
+            "EN": "digital rectal examination; DRE (sg)",
             "PT": "toque rectal [Pt.]; toque retal [Br.]"
         }
     },
@@ -67994,11 +67617,7 @@
     },
     "terapia de reposición hormonal": {
         "categoria": [
-            "Terapéutica",
-            "THS",
-            "TRH (sg)",
-            "HRT",
-            "TRH"
+            "Terapéutica"
         ],
         "sinonimos": [
             "TRH (sg)",
@@ -68008,9 +67627,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "terapia de reemplazo hormonal; terapia hormonal sustitutiva ;",
-            "EN": "hormone replacement therapy ;",
-            "PT": "terapia de reposição hormonal ;"
+            "ES": "terapia de reemplazo hormonal; terapia hormonal sustitutiva; THS (sg); TRH (sg)",
+            "EN": "hormone replacement therapy; HRT (sg)",
+            "PT": "terapia de reposição hormonal; TRH (sg)"
         }
     },
     "terapia xénica": {
@@ -68390,10 +68009,7 @@
     },
     "test de absorción de anticorpos treponémicos fluorescentes": {
         "categoria": [
-            "Probas complementarias",
-            "FTA-ABS",
-            "FTA-ABS test",
-            "FTA-ABS"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "test FTA-ABS",
@@ -68402,9 +68018,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "prueba de absorción de anticuerpos treponémicos fluorescentes; prueba",
-            "EN": "fluorescent treponemal antibody absortion test ;",
-            "PT": "teste de absorção de anticorpos treponêmicos fluorescentes; teste"
+            "ES": "prueba de absorción de anticuerpos treponémicos fluorescentes; prueba FTA-ABS",
+            "EN": "fluorescent treponemal antibody absortion test; FTA-ABS test",
+            "PT": "teste de absorção de anticorpos treponêmicos fluorescentes; teste FTA-ABS"
         }
     },
     "test de aglutinación en látex": {
@@ -68439,8 +68055,7 @@
     },
     "test de anticorpo fluorescente directo": {
         "categoria": [
-            "Probas complementarias",
-            "DFA (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "test de inmunofluorescencia directa",
@@ -68450,7 +68065,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "prueba de anticuerpo fluorescente directo; prueba de inmunofluorescencia directa",
-            "EN": "",
+            "EN": "DFA (sg); direct fluorescent antibody test; direct immunofluorescence test",
             "PT": "teste de imunofluorescência direta"
         }
     },
@@ -68471,8 +68086,7 @@
     },
     "test de colecistocinina": {
         "categoria": [
-            "Probas complementarias",
-            "CCK test"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "test de CCK",
@@ -68482,7 +68096,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "prueba de CCK; prueba de colecistocinina",
-            "EN": "",
+            "EN": "CCK test; cholecystokinin test",
             "PT": "teste de CCK; teste de colecistocinina; teste de colecistoquinina"
         }
     },
@@ -68533,8 +68147,7 @@
     },
     "test de estimulación con adrenocorticotropina": {
         "categoria": [
-            "Probas complementarias",
-            "ACTH stimulation test"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "test de estimulación con ACTH",
@@ -68544,7 +68157,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "prueba de estimulación con ACTH; prueba de estimulación con adrenocorticotropina",
-            "EN": "",
+            "EN": "ACTH stimulation test; adrenocorticotrophin stimulation test",
             "PT": "teste de estimulação com ACTH; teste de estimulação com adrenocorticotropina"
         }
     },
@@ -69259,10 +68872,7 @@
     "tiroxina": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "T4",
-            "T4",
-            "T4"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "tetraiodotironina",
@@ -69271,9 +68881,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "T4; tetrayodotironina; tiroxina",
+            "EN": "T4; tetraiodothyronine; thyroxin; thyroxine",
+            "PT": "T4; tetraiodotironina; tiroxina"
         }
     },
     "toalliña": {
@@ -69330,10 +68940,7 @@
     },
     "tomografía computadorizada": {
         "categoria": [
-            "Probas complementarias",
-            "TC (sg)",
-            "CT (sg)",
-            "TC (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "TC (sg)"
@@ -69341,17 +68948,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "computed tomography; computerized tomography ;",
-            "PT": ""
+            "ES": "TC (sg); tomografía computarizada",
+            "EN": "computed tomography; computerized tomography; CT (sg)",
+            "PT": "TC (sg); tomografía computadorizada"
         }
     },
     "tomografía por emisión de fotón único": {
         "categoria": [
-            "Probas complementarias",
-            "SPECT (sg)",
-            "SPECT (sg)",
-            "SPECT (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "tomografía computadorizada por emisión de fotón único",
@@ -69360,19 +68964,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "single photon emission computed tomography ;",
-            "PT": ""
+            "ES": "SPECT (sg); tomografía computarizada por emisión de fotón único; tomografía por emisión de fotón único",
+            "EN": "single photon emission computed tomography; SPECT (sg)",
+            "PT": "SPECT (sg); tomografia por emissão de fotão único [Pt.]; tomografia por emissão de fóton único [Br.]"
         }
     },
     "tomografía por emisión de positróns": {
         "categoria": [
-            "Probas complementarias",
-            "PET (sg)",
-            "TEP (sg)",
-            "PET (sg)",
-            "PET (sg)",
-            "TEP (sg)"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "PET (sg)",
@@ -69381,9 +68980,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "PET (sg); TEP (sg); tomografía por emisión de positrones",
+            "EN": "PET (sg); positron emmision tomography",
+            "PT": "PET (sg); TEP (sg); tomografia de emissão de positrões [Pt.]; tomografia de emissão de pósitrons [Br.]"
         }
     },
     "ton muscular": {
@@ -70285,8 +69884,7 @@
     },
     "trastorno afectivo estacional": {
         "categoria": [
-            "Patoloxías",
-            "SAD (sg)"
+            "Patoloxías"
         ],
         "sinonimos": [
             "síndrome afectiva estacional (f)"
@@ -70295,7 +69893,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "síndrome afectivo estacional; trastorno afectivo estacional",
-            "EN": "",
+            "EN": "SAD (sg); seasonal affective disorder",
             "PT": "depressão sazonal; distúrbio afetivo sazonal"
         }
     },
@@ -70562,10 +70160,7 @@
     "triiodotironina": {
         "categoria": [
             "Bioquímica",
-            "Fisioloxía",
-            "T3",
-            "T3",
-            "T3"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "T3"
@@ -70573,9 +70168,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "T3; triyodotironina",
+            "EN": "T3; triiodothyronine",
+            "PT": "T3; triiodotironina"
         }
     },
     "trimetoprim": {
@@ -71469,11 +71064,7 @@
     },
     "unidade de coidados intensivos": {
         "categoria": [
-            "Termos xerais",
-            "UCI (sg)",
-            "ICU (sg)",
-            "UCI (sg)",
-            "UTI (sg) [Br.]"
+            "Termos xerais"
         ],
         "sinonimos": [
             "UCI (sg)"
@@ -71481,9 +71072,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "UCI (sg); unidad de cuidados intensivos",
+            "EN": "ICU (sg); intensive care unit",
+            "PT": "UCI (sg); unidade de cuidados intensivos; unidade de tratamento intensivo [Br.]; UTI (sg) [Br.]"
         }
     },
     "unidade de coidados paliativos": {
@@ -71501,10 +71092,7 @@
     },
     "unidade formadora de colonias": {
         "categoria": [
-            "Histoloxía",
-            "UFC (sg)",
-            "CFU (sg)",
-            "UFC (sg)"
+            "Histoloxía"
         ],
         "sinonimos": [
             "UFC (sg)"
@@ -71512,9 +71100,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "UFC (sg); unidad formadora de colonias",
+            "EN": "CFU (sg); colony-forming unit",
+            "PT": "UFC (sg); unidade formadora de colônia"
         }
     },
     "unión celular": {
@@ -73369,8 +72957,7 @@
     },
     "velocidade de sedimentación dos glóbulos vermellos": {
         "categoria": [
-            "Probas complementarias",
-            "ESR"
+            "Probas complementarias"
         ],
         "sinonimos": [
             "velocidade de sedimentación globular",
@@ -73380,7 +72967,7 @@
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "velocidad de sedimentación globular",
-            "EN": "erythrocyte sedimentation rate ;",
+            "EN": "erythrocyte sedimentation rate; ESR (sg)",
             "PT": "velocidade de hemossedimentação [Br.]; velocidade de sedimentação eritrocitária [Pt.]"
         }
     },
@@ -74417,11 +74004,7 @@
     },
     "virus da inmunodeficiencia humana": {
         "categoria": [
-            "Etiopatoxenia",
-            "VIH (sg)",
-            "SIDA",
-            "HIV (sg)",
-            "VIH (sg)"
+            "Etiopatoxenia"
         ],
         "sinonimos": [
             "VIH (sg)",
@@ -74430,9 +74013,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "",
-            "PT": ""
+            "ES": "VIH (sg); virus de la inmunodeficiencia humana; virus del SIDA",
+            "EN": "HIV (sg); human immunodeficiency virus",
+            "PT": "VIH (sg); vírus da imunodeficiência humana"
         }
     },
     "virus da parainfluenza": {
@@ -74465,10 +74048,7 @@
     },
     "virus herpes simple": {
         "categoria": [
-            "Etiopatoxenia",
-            "VHS (sg)",
-            "HSV (sg)",
-            "VHS (sg)"
+            "Etiopatoxenia"
         ],
         "sinonimos": [
             "VHS (sg)"
@@ -74476,9 +74056,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "herpes simplex virus ;",
-            "PT": ""
+            "ES": "VHS (sg); virus herpes simple",
+            "EN": "herpes simplex virus; HSV (sg)",
+            "PT": "VHS (sg); vírus herpes simples"
         }
     },
     "virus respiratorio sincitial": {
@@ -74498,10 +74078,7 @@
     },
     "virus varicela-zóster": {
         "categoria": [
-            "Etiopatoxenia",
-            "VVZ (sg)",
-            "VZV (sg)",
-            "VVZ (sg)"
+            "Etiopatoxenia"
         ],
         "sinonimos": [
             "VVZ (sg)"
@@ -74509,9 +74086,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "virus varicela-zóster ;",
-            "EN": "varicella-zoster virus ;",
-            "PT": "vírus varicela-zoster ;"
+            "ES": "virus varicela-zóster; VVZ (sg)",
+            "EN": "varicella-zoster virus; VZV (sg)",
+            "PT": "vírus varicela-zoster; VVZ (sg)"
         }
     },
     "víscera": {
@@ -74626,8 +74203,7 @@
     },
     "vitamina B3": {
         "categoria": [
-            "Bioquímica",
-            "B3"
+            "Bioquímica"
         ],
         "sinonimos": [
             "niacina",
@@ -74638,7 +74214,7 @@
         "traducoes": {
             "ES": "ácido nicotínico; vitamina B3",
             "EN": "niacine; nicotinic acid; vitamin B3",
-            "PT": "ácido nicotínico; niacina; vitamina"
+            "PT": "ácido nicotínico; niacina; vitamina B3"
         }
     },
     "vitamina B6": {
@@ -74812,11 +74388,7 @@
     },
     "volume corrente": {
         "categoria": [
-            "Fisioloxía",
-            "VC (sg)",
-            "VT (sg)",
-            "TV (sg)",
-            "VC (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "volume tidal",
@@ -74826,17 +74398,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "tidal volume ;",
-            "PT": ""
+            "ES": "VC (sg); volumen corriente; volumen tidal; VT (sg)",
+            "EN": "tidal volume; TV (sg)",
+            "PT": "VC (sg); volume corrente"
         }
     },
     "volume de distribución": {
         "categoria": [
-            "Fisioloxía",
-            "VD (sg)",
-            "DV (sg)",
-            "VD (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "VD (sg)"
@@ -74844,9 +74413,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "",
-            "EN": "distribution volume ;",
-            "PT": ""
+            "ES": "VD (sg); volumen de distribución",
+            "EN": "distribution volume; DV (sg)",
+            "PT": "VD (sg); volume de distribuição"
         }
     },
     "volume de exección": {
@@ -74864,10 +74433,7 @@
     },
     "volume de reserva expiratoria": {
         "categoria": [
-            "Fisioloxía",
-            "VRE",
-            "ERV (sg)",
-            "VRE"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "VRE (sg)"
@@ -74875,17 +74441,14 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "volumen de reserva espiratoria ;",
-            "EN": "",
-            "PT": "volume de reserva expiratória ;"
+            "ES": "volumen de reserva espiratoria; VRE (sg)",
+            "EN": "ERV (sg); expiratory reserve volume",
+            "PT": "volume de reserva expiratória; VRE (sg)"
         }
     },
     "volume de reserva inspiratoria": {
         "categoria": [
-            "Fisioloxía",
-            "VRI (sg)",
-            "IRV (sg)",
-            "VRI (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "VRI (sg)"
@@ -74893,31 +74456,27 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "volumen de reserva inspiratoria ;",
-            "EN": "inspiratory reserve volume ;",
-            "PT": "volume de reserva inspiratória ;"
+            "ES": "volumen de reserva inspiratoria; VRI (sg)",
+            "EN": "inspiratory reserve volume; IRV (sg)",
+            "PT": "volume de reserva inspiratória; VRI (sg)"
         }
     },
     "volume pulmonar": {
         "categoria": [
-            "Fisioloxía",
-            "LV (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": "Sinónimos não identificados",
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
             "ES": "volumen pulmonar",
-            "EN": "lung volume ;",
+            "EN": "lung volume; LV (sg)",
             "PT": "volume pulmonar"
         }
     },
     "volume residual": {
         "categoria": [
-            "Fisioloxía",
-            "VR (sg)",
-            "RV (sg)",
-            "VR (sg)"
+            "Fisioloxía"
         ],
         "sinonimos": [
             "VR (sg)"
@@ -74925,9 +74484,9 @@
         "variantes": "Variantes não identificadas",
         "descricao": "Descrição não identificada",
         "traducoes": {
-            "ES": "volumen residual ;",
-            "EN": "residual volume ;",
-            "PT": "volume residual ;"
+            "ES": "volumen residual; VR (sg)",
+            "EN": "residual volume; RV (sg)",
+            "PT": "volume residual; VR (sg)"
         }
     },
     "vólvulo": {

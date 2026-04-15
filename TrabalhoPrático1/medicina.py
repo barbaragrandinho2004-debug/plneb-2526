@@ -40,10 +40,10 @@ texto = re.sub(r'<text[^>]*>\s*<b>\s*(?!\d+\s+)(.*?)\s*</b>\s*</text>', r'@@LIXO
 
 
 # 2. MARCAR A CATEGORIA:
-# A maioria está na font="21". As que estão na font="22" (erro do PDF) começam sempre por Maiúscula,
-# o que as distingue das traduções que começam por minúscula.
+# A maioria está na font="21". 
 texto = re.sub(r'<text[^>]*font="21"[^>]*>\s*<i>\s*(.*?)\s*</i>\s*</text>', r'@@CATEGORIA:\1@@', texto)
-texto = re.sub(r'<text[^>]*font="22"[^>]*>\s*<i>\s*([A-ZÁÉÍÓÚÑÇ].*?)\s*</i>\s*</text>', r'@@CATEGORIA:\1@@', texto)
+# Regra font=22: Exige uma Maiúscula seguida obrigatoriamente de uma minúscula, porque as traduções estão na mesma font, mas começam sempre cxom minúscula com exceção das siglas, e assim ignoramo-las.
+texto = re.sub(r'<text[^>]*font="22"[^>]*>\s*<i>\s*([A-ZÁÉÍÓÚÑÇ][a-záéíóúñç]+.*?)\s*</i>\s*</text>', r'@@CATEGORIA:\1@@', texto)
 
 # 3. MARCAR OS IDIOMAS (traduções):
 texto = re.sub(r'<text[^>]*>\s*es\s*</text>', r'@@ES:', texto)
