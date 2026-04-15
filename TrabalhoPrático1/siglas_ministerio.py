@@ -2,7 +2,7 @@ import re
 import json
 
 def extrair_lista_siglas(caminho_xml):
-    print(f"[{caminho_xml}] A iniciar extração cirúrgica da Lista de Siglas...")
+    print(f"[{caminho_xml}] A iniciar extração da Lista de Siglas...")
 
     with open(caminho_xml, 'r', encoding='utf-8') as f:
         texto = f.read()
@@ -61,8 +61,13 @@ def extrair_lista_siglas(caminho_xml):
     # Ordena as siglas alfabeticamente
     dicionario_siglas = dict(sorted(dicionario_siglas.items(), key=lambda item: item[0].lower()))
 
-    with open("jsons_temporarios/ministerio_saude_siglas.json", "w", encoding="utf-8") as f_out:
-        json.dump(dicionario_siglas, f_out, indent=4, ensure_ascii=False)
+    json_final = {
+        "Siglas": dicionario_siglas
+    }
+
+
+    with open("jsons_temporarios/siglas_ministerio.json", "w", encoding="utf-8") as f_out:
+        json.dump(json_final, f_out, indent=4, ensure_ascii=False)
 
     print(f"Concluído! Foram extraídas {len(dicionario_siglas)} siglas.")
     return dicionario_siglas

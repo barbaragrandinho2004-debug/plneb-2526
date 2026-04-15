@@ -3,8 +3,7 @@ import json
 
 def extrair_neologismos(caminho_xml):
     """
-    Extrai neologismos, classes gramaticais, traduções, definições e informações
-    enciclopédicas de um arquivo XML gerado a partir de um PDF, estruturando 
+    Extrai neologismos, traduções e definições de um arquivo XML gerado a partir de um PDF, estruturando 
     os dados resultantes num dicionário JSON.
     
     Parâmetros:
@@ -60,7 +59,9 @@ def extrair_neologismos(caminho_xml):
 
     # 6. Segmentação e Processamento Iterativo dos Neologismos
     blocos = re.split(r'###TERMO###', texto)
+
     dicionario_final = {}
+    siglas_embutidas = {}
 
     for bloco in blocos[1:]:
         bloco = bloco.strip()
@@ -97,46 +98,58 @@ def extrair_neologismos(caminho_xml):
             # 6.3. Extração da Definição (Isolando citações e exemplos práticos)
             # O delimitador baseia-se na presença de aspas seguidas ou precedidas de pontuação
             elems_citacao = re.split(r'\s*[“"”]\s*[\.…]+|\s*[\.…]+\s*[“"”]', resto, maxsplit=1)
-            definicao_completa = elems_citacao[0].strip()
+            descricao_completa = elems_citacao[0].strip()
             
             # Remoção de numerações de página residuais no final da string
-            definicao_completa = re.sub(r'\s*\(\d+.*?\)*$', '', definicao_completa)
-            definicao_completa = re.sub(r'\s\d{2,3}$', '', definicao_completa)
+            descricao_completa = re.sub(r'\s*\(\d+.*?\)*$', '', descricao_completa)
+            descricao_completa = re.sub(r'\s\d{2,3}$', '', descricao_completa)
 
             
             # 6.4. Extração de Sigla
             # Captura a sigla apenas se a definição iniciar pelo padrão "Sigla: XYZ"
             sigla = ""
-            match_sigla = re.match(r'^Sigla:\s*([A-Z0-9\-]+)\s+(.*)', definicao_completa)
+            match_sigla = re.match(r'^Sigla:\s*([A-Z0-9\-]+)\s+(.*)', descricao_completa)
             if match_sigla:
                 sigla = match_sigla.group(1)
-                definicao_completa = match_sigla.group(2)
+                descricao_completa = match_sigla.group(2)
             
 
             # Correção de anomalia morfológica específica do documento
             if termo == "transtorno cognitivo":
                 termo = "transtorno cognitivo leve"
-                genero = "s.m."
-                definicao_completa = definicao_completa.replace("leve Distúrbio", "Distúrbio").strip()
+                descricao_completa = descricao_completa.replace("leve Distúrbio", "Distúrbio").strip()
 
             # 7. Estruturação Final e Validação
             # Assegura que o termo é válido e inicia por letra minúscula (padrão tipográfico do glossário)
             if termo and termo[0].islower():
-                entrada = {
-                    "classe_gramatical": genero,
-                    "sigla": sigla,                  
-                    "traducao_en": trad_ing,
-                    "traducao_es": trad_esp,
-                    "definicao": definicao_completa,
-                    "fonte": "Glossário de Neologismos"
+                entrada = {                 
+                    "traducoes": {
+                        "EN": trad_ing,
+                        "ES": trad_esp
+                    },
+                    "descricao": descricao_completa
                 }
                 dicionario_final[termo] = entrada
+
+                if sigla:
+                    siglas_embutidas[sigla] = termo.capitalize()
+
+
 
     # 8. Exportação dos Dados Estruturados
     with open("jsons_temporarios/neologismos_temp.json", "w", encoding="utf-8") as f_out:
         json.dump(dicionario_final, f_out, indent=4, ensure_ascii=False)
 
-    print(f"Extração concluída com sucesso. Total de entradas: {len(dicionario_final)}")
+    # Exportar as Siglas 
+    siglas_ordenadas = dict(sorted(siglas_embutidas.items(), key=lambda item: item[0].lower()))
+    json_siglas_final = {
+        "Siglas": siglas_ordenadas
+    }
+    with open("jsons_temporarios/siglas_embutidas_neologismos.json", "w", encoding="utf-8") as f_out_siglas:
+        json.dump(json_siglas_final, f_out_siglas, indent=4, ensure_ascii=False)
+
+    print(f"Concluído! Foram extraídos {len(dicionario_final)} conceitos.")
+    print(f"Bónus: {len(siglas_ordenadas)} siglas embutidas foram extraídas para um ficheiro separado!")
     return dicionario_final
 
 extrair_neologismos("dados/glossario_neologismos_saude.xml")
