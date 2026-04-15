@@ -7,8 +7,9 @@ def extrair_lista_siglas(caminho_xml):
     with open(caminho_xml, 'r', encoding='utf-8') as f:
         texto = f.read()
 
-    
+    # ==========================================
     # 1. ISOLAR A SECÇÃO DE SIGLAS 
+    # ==========================================
     
     # as siglas acabam na página 9 por isso cortamos na página 10 para limitar a pesquisa
     partes = re.split(r'<page number="10"', texto, maxsplit=1)
@@ -18,14 +19,16 @@ def extrair_lista_siglas(caminho_xml):
         
     texto_siglas = partes[0]
 
-    
+    # ==========================================
     # 2. LIMPEZA DE RODAPÉS E NÚMEROS DE PÁGINA
+    # ==========================================
     
     texto_siglas = re.sub(r'<text[^>]*>\s*\d+\s*</text>', '', texto_siglas)
     texto_siglas = re.sub(r'<text[^>]*>\s*<b>Siglas</b>\s*</text>', '', texto_siglas, flags=re.IGNORECASE)
 
-    
+    # ==========================================
     # 3. SEPARAR AS SIGLAS
+    # ==========================================
     
     blocos = re.split(r'<text[^>]*font="13"[^>]*><b>(.*?)</b></text>', texto_siglas)
 
@@ -55,8 +58,9 @@ def extrair_lista_siglas(caminho_xml):
         if len(sigla) >= 2 and len(significado) > 3:
             dicionario_siglas[sigla] = significado
 
-    
+    # ==========================================
     # 4. ORDENAR E EXPORTAR JSON
+    # ==========================================
     
     # Ordena as siglas alfabeticamente
     dicionario_siglas = dict(sorted(dicionario_siglas.items(), key=lambda item: item[0].lower()))

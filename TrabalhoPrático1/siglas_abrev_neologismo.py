@@ -7,7 +7,10 @@ def extrair_siglas_abreviaturas(caminho_xml):
     with open(caminho_xml, 'r', encoding='utf-8') as f:
         xml_texto = f.read()
 
+    # ==========================================
     # 1. Isolar a página que tem as abreviaturas e siglas (Página 10)
+    # ==========================================
+
     match_pagina = re.search(r'<page[^>]*number="10"[^>]*>(.*?)</page>', xml_texto, re.DOTALL)
     
     if not match_pagina:
@@ -19,7 +22,10 @@ def extrair_siglas_abreviaturas(caminho_xml):
     siglas = {}
     abreviaturas = {}
 
+    # ==========================================
     # 2. Extrair todas as linhas dessa página
+    # ==========================================
+
     tags = re.findall(r'<text[^>]*>(.*?)</text>', conteudo_pagina)
 
     for conteudo in tags:
@@ -43,7 +49,9 @@ def extrair_siglas_abreviaturas(caminho_xml):
             else:
                 siglas[chave] = significado
 
+    # ==========================================
     # 5. Envolver as abreviaturas/siglas na chave principal "Abreviaturas"/"Siglas"
+    # ==========================================
     json_abrev = {
         "Abreviaturas": abreviaturas
     }
@@ -54,8 +62,10 @@ def extrair_siglas_abreviaturas(caminho_xml):
 
 
         
-
+    # ==========================================
     # 5. EXPORTAÇÃO
+    # ==========================================
+    
     with open("jsons_temporarios/siglas_neologismos.json", "w", encoding="utf-8") as f:
         json.dump(json_siglas, f, indent=4, ensure_ascii=False)
 

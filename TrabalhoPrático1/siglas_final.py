@@ -6,7 +6,9 @@ def unificar_siglas_estruturadas(ficheiro_ministerio, ficheiro_neologismos, fich
     siglas_unificadas = {}
     repeticoes_evitadas = 0
 
-    # 1. Carregar o ficheiro do Ministério da Saúde
+    # ==========================================
+    # 1. Carregar o ficheiro das siglas Ministério da Saúde
+    # ==========================================
     try:
         with open(ficheiro_ministerio, 'r', encoding='utf-8') as f:
             dados_ms = json.load(f)
@@ -19,7 +21,10 @@ def unificar_siglas_estruturadas(ficheiro_ministerio, ficheiro_neologismos, fich
         print(f"Aviso: Ficheiro '{ficheiro_ministerio}' não encontrado.")
         conteudo_ms = {}
 
-    # 2. Carregar o ficheiro dos Neologismos
+    # ==========================================
+    # 2. Carregar o ficheiro das siglas Neologismos
+    # ==========================================
+
     try:
         with open(ficheiro_neologismos, 'r', encoding='utf-8') as f:
             dados_neo = json.load(f)
@@ -36,7 +41,9 @@ def unificar_siglas_estruturadas(ficheiro_ministerio, ficheiro_neologismos, fich
         print(f"Aviso: Ficheiro '{ficheiro_neologismos}' não encontrado.")
         conteudo_neo = {}
 
-    # 3. Carregar o ficheiro dos Neologismos
+    # ==========================================
+    # 3. Carregar o ficheiro das siglas do Neologismos embutidas
+    # ==========================================
     try:
         with open(ficheiro_neologismos_embutido, 'r', encoding='utf-8') as f:
             dados_neo_embutido = json.load(f)
@@ -53,15 +60,23 @@ def unificar_siglas_estruturadas(ficheiro_ministerio, ficheiro_neologismos, fich
         print(f"Aviso: Ficheiro '{ficheiro_neologismos_embutido}' não encontrado.")
         conteudo_neo = {}
 
+    # ==========================================
     # 3. Ordenar alfabeticamente
+    # ==========================================
     siglas_ordenadas = dict(sorted(siglas_unificadas.items(), key=lambda item: item[0].lower()))
 
+    # ==========================================
     # 4. Criar a estrutura final com a chave raiz "Siglas"
+    # ==========================================
+
     json_final = {
         "Siglas": siglas_ordenadas
     }
 
+    # ==========================================
     # 5. Exportar para JSON
+    # ==========================================
+    
     with open(ficheiro_saida, 'w', encoding='utf-8') as f_out:
         json.dump(json_final, f_out, indent=4, ensure_ascii=False)
 

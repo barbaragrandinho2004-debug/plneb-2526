@@ -18,8 +18,10 @@ def extrair_ministerio_saude(caminho_xml):
     with open(caminho_xml, 'r', encoding='utf-8') as f:
         texto = f.read()
 
-    
+    # ==========================================
     # 1. Pré-Processamento: limpeza tipográfica no xml
+    # ==========================================
+
     # Remove tags estruturais irrelavantes (páginas, metadados do conversor e imagens)
     texto = re.sub(r"</?page.*?>", r"", texto) 
     texto = re.sub(r"</?pdf2xml.*?>", r"", texto)
@@ -31,9 +33,6 @@ def extrair_ministerio_saude(caminho_xml):
     padrao_fontes_lixo = r'<text[^>]*font="(22|15|25|23)"[^>]*>.*?</text>\n?'
     texto = re.sub(padrao_fontes_lixo, r"", texto)
     
-    
-
-    
     # 2. Normalização textual 
     # Resolução de ligaturas tipográficas geradas pelo conversor PDF
     texto = re.sub(r'ﬁ', 'fi', texto)
@@ -44,8 +43,9 @@ def extrair_ministerio_saude(caminho_xml):
     texto = re.sub(r'\n', ' ', texto)
     texto = re.sub(r'\s+', ' ', texto)
 
-    
+    # ==========================================
     # 3. Ancoragem e segmentação de entidades
+    # ==========================================
     
     # Correção de quebras artificiais em termos a negrito
     texto = re.sub(r'</b></text>\s*<text[^>]*>\s*<b>', ' ', texto)
@@ -87,7 +87,9 @@ def extrair_ministerio_saude(caminho_xml):
         "Saúde animal", "Vigilância em Saúde", "Recursos humanos em saúde Pública", 
     ]
 
+    # ==========================================
     # 4. Extração Iterativa de atributos
+    # ==========================================
 
     for bloco in blocos[1:]:
 
@@ -156,8 +158,9 @@ def extrair_ministerio_saude(caminho_xml):
                 }
 
     
-
+    # ==========================================
     # 5. Pós-Processamento e recuperação de oclusões
+    # ==========================================
 
     # Algoritmo desenhado para recuperar títulos e categorias que, devido à
     # ausência de formatação a negrito no PDF, ficaram embutidos na definição do termo anterior.
@@ -192,8 +195,10 @@ def extrair_ministerio_saude(caminho_xml):
     dicionario_final.update(termos_a_adicionar)
 
 
-
+    # ==========================================
     # 7. Exportação do json
+    # ==========================================
+    
     f_out = open("jsons_temporarios/ministerio_saude_temp.json", "w", encoding="utf-8")
     json.dump(dicionario_final, f_out, indent=4, ensure_ascii=False)
     f_out.close()

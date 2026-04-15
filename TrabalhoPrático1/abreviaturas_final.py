@@ -6,7 +6,10 @@ def unificar_multiplas_abreviaturas(lista_ficheiros, ficheiro_saida):
     abrevs_unificadas = {}
     chaves_repetidas_evitadas = 0
 
+    # ==========================================
     # 1. Percorrer todos os ficheiros da lista de abreviaturas
+    # ==========================================
+
     for ficheiro in lista_ficheiros:
         try:
             with open(ficheiro, 'r', encoding='utf-8') as f:
@@ -25,15 +28,24 @@ def unificar_multiplas_abreviaturas(lista_ficheiros, ficheiro_saida):
         except FileNotFoundError:
             print(f"Aviso: Não encontrei o ficheiro '{ficheiro}'. Vou saltar este ficheiro.")
 
+    # ==========================================
     # 3. Ordenar alfabeticamente (ignorando maiúsculas e minúsculas)
+    # ==========================================
+
     abrevs_ordenadas = dict(sorted(abrevs_unificadas.items(), key=lambda item: item[0].lower()))
 
+    # ==========================================
     # 4. Envolver o resultado final na chave principal "Abreviaturas"
+    # ==========================================
+
     json_final = {
         "Abreviaturas": abrevs_ordenadas
     }
-
+    
+    # ==========================================
     # 5. Exportar para o ficheiro JSON final
+    # ==========================================
+    
     with open(ficheiro_saida, 'w', encoding='utf-8') as f_out:
         json.dump(json_final, f_out, indent=4, ensure_ascii=False)
 

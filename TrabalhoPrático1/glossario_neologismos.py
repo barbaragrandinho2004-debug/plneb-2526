@@ -17,23 +17,25 @@ def extrair_neologismos(caminho_xml):
     f = open(caminho_xml, 'r', encoding='utf-8')
     texto = f.read()
 
-    
+    # ==========================================
     # 1. Normalização Inicial do Texto
+    # ==========================================
+
     # Substitui quebras de linha e múltiplos espaços por um único espaço
     texto = re.sub(r'\n', ' ', texto)
     texto = re.sub(r'\s+', ' ', texto)
     texto = re.sub(r'&#34;', '"', texto) # Transforma aspas HTML em aspas normais
 
-    
-    
     # 2. Remoção de Elementos Estruturais e Cabeçalhos
     # Remove delimitadores de página e de imagens
     texto = re.sub(r'<page[^>]*>|</page>|<image[^>]*>', ' ', texto)
     # Remove cabeçalhos que contêm o mês, ano e números de página
     texto = re.sub(r'<text[^>]*>\s*([A-Z][a-z]+, [A-Z][a-z]+ \d{4}|\d{2,3})\s*</text>', ' ', texto)
     
-
+    # ==========================================
     # 3. Identificação e Marcação dos Termos Principais
+    # ==========================================
+
     # Utiliza a tag <i> contendo a classe gramatical (s.m. ou s.f.) como âncora
     # para isolar o neologismo e a sua respectiva classe.
     texto = re.sub(r'<text[^>]*>\s*([^<]+?)\s*</text>\s*<text[^>]*>\s*<i>\s*(s\.m\.|s\.f\.)\s*</i>\s*</text>', r'###TERMO###\1 @\2@', texto)
@@ -57,7 +59,10 @@ def extrair_neologismos(caminho_xml):
     if len(partes_inicio) > 1:
         texto = "###TERMO###abeta" + partes_inicio[1]
 
+    # ==========================================
     # 6. Segmentação e Processamento Iterativo dos Neologismos
+    # ==========================================
+
     blocos = re.split(r'###TERMO###', texto)
 
     dicionario_final = {}
@@ -136,8 +141,10 @@ def extrair_neologismos(caminho_xml):
                     siglas_embutidas[sigla] = termo.capitalize()
 
 
-
+    # ==========================================
     # 8. Exportação dos Dados Estruturados
+    # ==========================================
+    
     with open("jsons_temporarios/neologismos_temp.json", "w", encoding="utf-8") as f_out:
         json.dump(dicionario_final, f_out, indent=4, ensure_ascii=False)
 
