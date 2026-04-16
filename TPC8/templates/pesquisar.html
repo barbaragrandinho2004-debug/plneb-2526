@@ -1,0 +1,263 @@
+{% extends 'layout.html' %}
+
+{% block head %}
+    <title> Pesquisa - Dicionário Médico </title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --fundo-creme: #FFFAF0;
+            --roxo-pastel-bg: #EADDFF;
+            --roxo-pastel-texto: #4F378B;
+            --azul-pastel-borda: #B3E5FC;
+            --rosa-botao: #F48FB1;
+            --rosa-botao-hover: #F06292;
+            --rosa-pastel-bg: #FCE4EC;
+            --rosa-pastel-texto: #D81B60;
+            --texto-geral: #5c5c5c;
+        }
+
+        body {
+            background-color: var(--fundo-creme);
+            color: var(--texto-geral);
+            font-family: 'Nunito', sans-serif;
+        }
+
+        /* Botão Voltar (igual ao conceitos.html) */
+        .btn-voltar {
+            background-color: var(--rosa-botao);
+            color: white !important;
+            border-radius: 20px;
+            font-weight: 800;
+            padding: 8px 20px;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s ease;
+        }
+        .btn-voltar:hover {
+            background-color: var(--rosa-botao-hover);
+            transform: translateY(-2px);
+        }
+
+        /* Banner de Pesquisa */
+        .search-banner {
+            background-color: var(--roxo-pastel-bg);
+            border-radius: 35px;
+            padding: 3rem 2rem;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.03);
+        }
+
+        .search-title {
+            color: var(--roxo-pastel-texto);
+            font-weight: 800;
+        }
+
+        /* Barra flutuante de texto */
+        .search-input-group {
+            background: white;
+            border-radius: 30px;
+            padding: 0.4rem;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        .search-input-group input {
+            border: none;
+            box-shadow: none !important;
+            padding-left: 1.5rem;
+            border-radius: 30px;
+            font-weight: 600;
+            color: var(--texto-geral);
+        }
+        .search-input-group .btn-pesquisar {
+            background-color: var(--rosa-botao);
+            color: white;
+            border: none;
+            border-radius: 25px !important;
+            padding: 0.6rem 2.5rem;
+            font-weight: 800;
+            transition: all 0.3s ease;
+        }
+        .search-input-group .btn-pesquisar:hover {
+            background-color: var(--rosa-botao-hover);
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(240, 98, 146, 0.3);
+        }
+
+        /* Filtros (Palavra Exata / Case Sensitive) */
+        .filter-check .btn-outline-custom {
+            color: var(--roxo-pastel-texto);
+            border: 2px solid white;
+            border-radius: 20px;
+            font-weight: 800;
+            background-color: white;
+            padding: 8px 20px;
+            transition: all 0.3s ease;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.02);
+        }
+        .filter-check .btn-check:checked + .btn-outline-custom {
+            background-color: var(--roxo-pastel-texto);
+            color: white;
+            border-color: var(--roxo-pastel-texto);
+        }
+
+        /* Cartão da Tabela */
+        .tabela-card {
+            background-color: white;
+            border: 3px solid var(--azul-pastel-borda);
+            border-radius: 30px;
+            overflow: hidden;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.04);
+        }
+
+        .table-pastel {
+            margin-bottom: 0;
+        }
+        .table-pastel th {
+            background-color: transparent;
+            color: var(--roxo-pastel-texto);
+            font-weight: 800;
+            border-bottom: 2px dashed var(--azul-pastel-borda);
+            padding: 1.5rem 1.5rem;
+            font-size: 1rem;
+        }
+        .table-pastel td {
+            padding: 1.5rem 1.5rem;
+            vertical-align: middle;
+            color: var(--texto-geral);
+            border-bottom: 1px solid #f9f9f9;
+        }
+        .table-pastel tr:last-child td {
+            border-bottom: none;
+        }
+
+        /* Destaque a negrito (Palavra pesquisada) */
+        #tabela_conceitos b {
+            color: var(--rosa-pastel-texto);
+            background-color: var(--rosa-pastel-bg);
+            font-weight: 800;
+            padding: 0.2rem 0.5rem;
+            border-radius: 8px;
+        }
+
+        /* Botão "Ver mais" na tabela */
+        .btn-acao {
+            background-color: transparent;
+            color: #0288D1;
+            border: 2px solid var(--azul-pastel-borda);
+            border-radius: 20px;
+            font-weight: 800;
+            padding: 8px 20px;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s ease;
+        }
+        .btn-acao:hover {
+            background-color: var(--azul-pastel-borda);
+            color: #0288D1;
+            transform: translateY(-2px);
+        }
+        
+        /* Contador de resultados */
+        .badge-resultados {
+            background-color: var(--roxo-pastel-bg);
+            color: var(--roxo-pastel-texto);
+            font-weight: 800;
+            padding: 0.5rem 1.5rem;
+            border-radius: 20px;
+        }
+    </style>
+{% endblock %}
+
+{% block body %}
+<div class="container my-5" style="max-width: 1000px;">
+    
+    <div class="mb-4">
+        <a href="/" class="btn-voltar shadow-sm">&larr; Voltar à Home</a>
+    </div>
+
+    <div class="search-banner text-center mb-5">
+        <h1 class="search-title mb-2">Pesquisa Avançada</h1>
+        <p class="mb-4" style="color: var(--roxo-pastel-texto); font-weight: 600; opacity: 0.8;">
+            Encontre termos ou descrições no nosso dicionário.
+        </p>
+        
+        <form action="/pesquisar" method="GET">
+            <div class="input-group input-group-lg search-input-group w-100 mx-auto" style="max-width: 650px;">
+                <input type="text" name="query" class="form-control" placeholder="O que procura?" value="{{ query }}" required>
+                <button class="btn btn-pesquisar" type="submit">Procurar</button>
+            </div>
+
+            <div class="filter-check d-flex justify-content-center flex-wrap gap-3 mt-4">
+                <div>
+                    <input type="checkbox" class="btn-check" name="case_sensitive" id="caseCheck" autocomplete="off" {% if case_sensitive %}checked{% endif %}>
+                    <label class="btn btn-outline-custom" for="caseCheck">
+                        Sensível a Maiúsculas
+                    </label>
+                </div>
+                <div>
+                    <input type="checkbox" class="btn-check" name="word_boundary" id="wordCheck" autocomplete="off" {% if word_boundary %}checked{% endif %}>
+                    <label class="btn btn-outline-custom" for="wordCheck">
+                        Palavra Exata
+                    </label>
+                </div>
+            </div>
+        </form>
+    </div>
+
+    {% if query %}
+    <div class="row justify-content-center">
+        <div class="col-12">
+            
+            <div class="d-flex justify-content-between align-items-center mb-4 px-2">
+                <h4 class="mb-0" style="color: var(--roxo-pastel-texto); font-weight: 800;">
+                    Resultados para "{{ query }}"
+                </h4>
+                <span class="badge-resultados">
+                    {{ resultados|length }} termo(s)
+                </span>
+            </div>
+
+            <div class="tabela-card p-3">
+                <div class="table-responsive">
+                    <table id="tabela_conceitos" class="table table-pastel table-hover mb-0">
+                        <thead>
+                            <tr>
+                                <th style="width: 25%;">Designação</th>
+                                <th style="width: 60%;">Descrição</th>
+                                <th class="text-center" style="width: 15%;">Ação</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for res in resultados %}
+                            <tr>
+                                <td class="fw-bold" style="color: var(--roxo-pastel-texto); font-size: 1.1rem;">
+                                    {{ res.desig_label | safe }}
+                                </td>
+                                <td style="line-height: 1.8; font-size: 1.05rem;">
+                                    {{ res.descricao | safe }}
+                                </td>
+                                <td class="text-center">
+                                    <a href="/conceitos/{{ res.designacao }}" class="btn-acao shadow-sm">
+                                        Ver Detalhes
+                                    </a>
+                                </td>
+                            </tr>
+                            {% else %}
+                            <tr>
+                                <td colspan="3" class="text-center py-5">
+                                    <div style="font-size: 3rem; margin-bottom: 15px;">🔍</div>
+                                    <h4 style="color: var(--roxo-pastel-texto); font-weight: 800;">Nenhum conceito encontrado</h4>
+                                    <p style="color: var(--texto-geral); font-size: 1.1rem;">Tente utilizar outros termos ou desativar o filtro "Palavra Exata".</p>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    {% endif %}
+</div>
+{% endblock %}

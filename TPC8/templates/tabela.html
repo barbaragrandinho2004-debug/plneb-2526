@@ -1,0 +1,117 @@
+{% extends 'layout.html' %}
+
+{% block head %}
+    <title> Tabela Completa - MedDic </title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --fundo-creme: #FFFAF0;
+            --roxo-pastel-bg: #EADDFF;
+            --roxo-pastel-texto: #4F378B;
+            --azul-pastel-borda: #B3E5FC;
+            --rosa-botao: #F48FB1;
+            --rosa-botao-hover: #F06292;
+            --texto-geral: #5c5c5c;
+        }
+
+        body {
+            background-color: var(--fundo-creme);
+            color: var(--texto-geral);
+            font-family: 'Nunito', sans-serif;
+        }
+
+        .page-title {
+            color: var(--roxo-pastel-texto);
+            font-weight: 800;
+        }
+
+        .btn-voltar {
+            background-color: var(--rosa-botao);
+            color: white !important;
+            border-radius: 20px;
+            font-weight: 800;
+            padding: 8px 20px;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.3s ease;
+        }
+        
+        .btn-voltar:hover {
+            background-color: var(--rosa-botao-hover);
+            transform: translateY(-2px);
+        }
+
+        /* Estilização da Tabela para o Tema Pastel */
+        .cartao-tabela {
+            background-color: white;
+            border: 3px solid var(--azul-pastel-borda);
+            border-radius: 25px;
+            padding: 25px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.03);
+        }
+
+        .table-pastel th {
+            background-color: var(--roxo-pastel-bg) !important;
+            color: var(--roxo-pastel-texto) !important;
+            font-weight: 800;
+            padding: 15px;
+            border-bottom: none;
+        }
+
+        .table-pastel th:first-child { border-top-left-radius: 15px; border-bottom-left-radius: 15px; }
+        .table-pastel th:last-child { border-top-right-radius: 15px; border-bottom-right-radius: 15px; }
+
+        .table-pastel td {
+            padding: 15px;
+            vertical-align: middle;
+            color: var(--texto-geral);
+            border-bottom: 1px dashed #eee;
+        }
+
+        /* Pequeno ajuste para o DataTables encaixar no tema */
+        .dt-container .dt-search input {
+            border-radius: 15px;
+            border: 2px solid var(--azul-pastel-borda);
+            padding: 5px 10px;
+        }
+        .dt-container .dt-search input:focus {
+            outline: none;
+            border-color: var(--roxo-pastel-texto);
+        }
+    </style>
+{% endblock %}
+
+{% block body %}
+<div class="container my-5">
+    
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <a href="/" class="btn-voltar shadow-sm">&larr; Voltar à Home</a>
+        <h2 class="page-title m-0">Tabela de Conceitos Médicos</h2>
+        <div style="width: 140px;"></div>
+    </div>
+
+    <div class="cartao-tabela">
+        <div class="table-responsive">
+            <table id="tabela_conceitos" class="table table-hover table-pastel mb-0">
+                <thead>
+                    <tr>
+                        <th style="width: 30%;">Designação</th>
+                        <th style="width: 70%;">Descrição</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for conceito in conceitos %}
+                    <tr>
+                        <td class="fw-bold" style="color: var(--roxo-pastel-texto);">{{conceito}}</td>
+                        <td style="line-height: 1.6;">{{conceitos[conceito]}}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

@@ -1,0 +1,150 @@
+{% extends 'layout.html' %}
+
+{% block head %}
+    <title> Lista de Conceitos - MedDic </title>
+    
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --fundo-creme: #FFFAF0;
+            --roxo-pastel-bg: #EADDFF;
+            --roxo-pastel-texto: #4F378B;
+            --rosa-botao: #F48FB1;
+            --rosa-botao-hover: #F06292;
+            --azul-pastel-borda: #B3E5FC;
+            --texto-geral: #5c5c5c;
+        }
+
+        body {
+            background-color: var(--fundo-creme);
+            color: var(--texto-geral);
+            font-family: 'Nunito', sans-serif;
+        }
+
+        .page-title {
+            color: var(--roxo-pastel-texto);
+            font-weight: 800;
+        }
+
+        /* Cartão do Formulário para adicionar */
+        .cartao-form {
+            background-color: white;
+            border: 3px solid var(--roxo-pastel-bg);
+            border-radius: 25px;
+            padding: 30px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.03);
+        }
+        
+        .cartao-form input {
+            border: 2px solid var(--roxo-pastel-bg);
+            border-radius: 15px;
+            padding: 12px 20px;
+            box-shadow: none;
+            transition: all 0.3s ease;
+        }
+        
+        .cartao-form input:focus {
+            border-color: var(--roxo-pastel-texto);
+            outline: none;
+        }
+
+        .cartao-form label {
+            font-weight: 600;
+            color: var(--roxo-pastel-texto);
+        }
+
+        /* Botões */
+        .btn-rosa {
+            background-color: var(--rosa-botao);
+            color: white !important;
+            border: none;
+            border-radius: 20px;
+            font-weight: 800;
+            padding: 10px 25px;
+            transition: all 0.3s ease;
+        }
+        
+        .btn-rosa:hover {
+            background-color: var(--rosa-botao-hover);
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(240, 98, 146, 0.3);
+        }
+
+        .btn-voltar {
+            background-color: white;
+            color: var(--roxo-pastel-texto) !important;
+            border: 2px solid var(--roxo-pastel-bg);
+            border-radius: 20px;
+            font-weight: 800;
+            padding: 8px 20px;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+        
+        .btn-voltar:hover {
+            background-color: var(--roxo-pastel-bg);
+            transform: translateY(-2px);
+        }
+
+        /* Lista de Conceitos */
+        .lista-pastel .list-group-item {
+            border: none;
+            border-radius: 15px !important;
+            margin-bottom: 12px;
+            background-color: white;
+            color: var(--texto-geral);
+            font-weight: 600;
+            padding: 15px 25px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.02);
+            transition: all 0.3s ease;
+        }
+
+        .lista-pastel .list-group-item:hover {
+            background-color: var(--roxo-pastel-bg);
+            color: var(--roxo-pastel-texto);
+            transform: translateX(8px);
+        }
+    </style>
+{% endblock %}
+
+{% block body %}
+    <div class="container my-5" style="max-width: 900px;">
+        
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <a href="/" class="btn-voltar shadow-sm">&larr; Voltar à Home</a>
+            <h1 class="page-title m-0 text-center">Gestão de Conceitos</h1>
+            <div style="width: 140px;"></div> </div>
+
+        <div class="cartao-form mb-5">
+            <h4 class="mb-4" style="color: var(--roxo-pastel-texto); font-weight: 800;">Adicionar Novo Conceito</h4>
+            <form action="/conceitos" method="POST">
+                <div class="row g-3">
+                    <div class="col-md-4">
+                        <label for="designacao" class="form-label mb-1">Designação</label>
+                        <input type="text" class="form-control" id="designacao" name="designacao" placeholder="Ex: Cefaleia" required>
+                    </div>
+                    <div class="col-md-8">
+                        <label for="descricao" class="form-label mb-1">Descrição</label>
+                        <div class="d-flex gap-2">
+                            <input type="text" class="form-control" id="descricao" name="descricao" placeholder="Descrição do termo médico..." required>
+                            <button type="submit" class="btn btn-rosa">Adicionar</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <h3 class="mb-4" style="color: var(--roxo-pastel-texto); font-weight: 800;">Índice de Conceitos</h3>
+
+        <div class="list-group lista-pastel">
+            {% for conceito in conceitos %}    
+               <a href="/conceitos/{{conceito}}" class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                   {{conceito}}
+                   <span style="color: var(--roxo-pastel-texto); opacity: 0.5;">&rarr;</span>
+               </a> 
+            {% endfor %}
+        </div>
+
+    </div>
+{% endblock %}
